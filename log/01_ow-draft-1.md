@@ -34,6 +34,7 @@ Focusing then on the worker (or the user) itself, from the notes.md I added to t
 > What I am trying to push with git, the readme.md file and services like github, is a sort of new subjectivisation accomplished thanks to the act of publishing a project in a public website and presenting it through the readme.md file. You do exist because you are able to present your project; your project does exist because it has been presented by you. The two elements, creator and artefact, find their space in the general discourse of a site like github through the readme.md file.
 
 How does subjectivisation work on someone using these specific tools? How much does the use of voice influence the usage of these tools and the discussion around them? What’s the role of the body in all this (e.g. can the voice be a way to materialise it)?
+
 ----
 Aside:
 Material:
