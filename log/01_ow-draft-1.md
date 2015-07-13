@@ -8,7 +8,7 @@ Date: 2015-07-13
 
 ----
 
-Tags: thoughts, git, readme.md, text-to-speech, voice
+Tags: thoughts, git, readme, text-to-speech, voice
 
 ----
 
@@ -45,5 +45,5 @@ How does subjectivisation work on someone using these specific tools? How much d
 
 Aside:
 Material:
-⤷ [ow_draft--1](https://github.com/afincato/ow_draft--1)
-⤷ [ow_draft--1—text-to-speech](https://soundcloud.com/afincato/sets/ow_draft-1-text-to-speech)
+→ [ow_draft--1](https://github.com/afincato/ow_draft--1)
+→ [ow_draft--1—text-to-speech](https://soundcloud.com/afincato/sets/ow_draft-1-text-to-speech)
