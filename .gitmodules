@@ -1,3 +1,6 @@
 [submodule "ow_draft--1"]
 	path = ow_draft--1
 	url = https://github.com/afincato/ow_draft--1
+[submodule "projects/ow_draft--1"]
+	path = projects/ow_draft--1
+	url = https://github.com/afincato/ow_draft--1
