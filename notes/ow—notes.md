@@ -1,6 +1,6 @@
 # ow—notes
 
-After a week or reading, namely some chapters from “Post-Fordism and its Discontents”, a couple of e-flux articles (Hito Steyerl and Marina Vishmidt) and some feminist writings from the 1970s (Silvia Federici)—I just began to read Jacques T. Godbout’s “The World of the Gift”—I’m starting to get a slightly better clue of what I am doing and where I would like to go.
+After a week of reading, namely some chapters from “Post-Fordism and its Discontents”, a couple of e-flux articles (Hito Steyerl and Marina Vishmidt) and some feminist writings from the 1970s (Silvia Federici)—I just began to read Jacques T. Godbout’s “The World of the Gift”—I’m starting to get a slightly better clue of what I am doing and where I would like to go.
 
 I began the research with the broad interest in working with theme of *labour* and that of the *internet*.
 I knew I wanted to narrow it down to the new digital-based labours which started to flourish after the internet became more widespread. Still, I was taking into account all sorts of different examples:
@@ -8,27 +8,27 @@ I knew I wanted to narrow it down to the new digital-based labours which started
 * the passage from external forms of labour exploitation (employing the body of the worker, brute force) to a middle ground (the mind) to an inner ground (her feelings and emotions) 
 * improving the awareness of the above mentioned mechanism, e.g. how using google search or google mail is a new form of invisible labour for the users of these services
 * how to monetise real-life situation as it happens with digital-life ones? Didn’t already happen before?
-* the maintenance works: which kind of tasks need to be accomplished in order to keep the internet machine run smoothly?
+* maintenance work: which kind of tasks need to be accomplished in order to keep the internet machine run smoothly?
 e.g. wikipedia, stackoverflow, genious.com, etc.
-* the intersection between gift and voluntarism: where does one end and the other begin? How does it work on the internet (based) labour? Digital economies? Isn’t precariousness free labour transformed into a sort of gift economy?
-* Exposure as the new value used to pay creative workers
+* the intersection between gift and voluntarism: where does one end and the other begin? How does it work on internet (based) work? Digital economies? Isn’t precarious free labour transformed into a sort of gift economy?
+* exposure as the new value used to pay creative workers
 
 After this sort of mapping, I felt it was time to narrow down the theme to possibly one main focus. For this, I decided to pick the theme of the maintenance work, which I already briefly researched during the last week of research of the seven-weeks research project.
 
 Especially, I was very much inspired by the article, included in Post-Fordism and its Discontents, written by Marina Vishmidt.
-“‘To Die and Leave Silk for Capital’: Abstract Labour, Art and Reproduction”, she traces an analogy between the kind of invisible labour made (performed?) by housewives at home and what a female artist, during the same time in the 1970s, started to do: made visible the kind of invisible labour needed to maintain the institutional machine, namely the museum.
-In doing so, she became a cleaning lady also when she was doing “Art”. Like the kind of feelings provoked by the reading of “Wages Against Housework”—a surreal need asked in order to make visible and clear that there is no a-priori natural keenness in doing such actives as a female body—the artworks realised by Mierle Laderman Ukeles originate a similar feeling:
+In ‘To Die and Leave Silk for Capital’: Abstract Labour, Art and Reproduction’, she traces an analogy between the kind of invisible labour made (performed?) by housewives at home and what a female artist, during the same time in the 1970s, started to do: made visible the kind of invisible labour needed to maintain the institutional machine, namely the museum.
+In doing so, she became a cleaning lady also when she was doing “Art”. Like the kind of feelings provoked by the reading of “Wages Against Housework”—a surreal need asked in order to make visible and clear that there is no a-priori natural keenness in doing such actives as a female body—the artworks realised by Mierle Laderman Ukeles originated a similar feeling:
 
 > She was thus [Mierle Laderman Ukeles] not only drawing attention to the inescapable and erased presupposition of the museum’s (and any institution, public or private) operations, the physical maintenance, but also the administrative and curatorial routines that likewise effaced themselves off-stage so as not to detract from the authority and enchantment of the exhibition complex.
 
 > If the daily uncompensated labour performed by mainly women in the household could migrate to the museum and seek legitimacy as art, then it was no longer self-evident that this labour was any more ‘natural’ than any kind of work performed in a more or less public context and formally compensated with wages and employment protection. Moreover, the latter had no chance of success without the former.
 
-So, *performativity*, which in one case is taken for granted (see “natural instinct inscribed in the female body); whereas in the other is seen as work (but nonetheless a work of art, with all the consequences that it implies in its being ‘creative’).
+So, *performativity*, which in one case is taken for granted (see “natural instinct inscribed in the female body”); whereas in the other is seen as work (but nonetheless a work of art, with all the consequences that it implies in its being ‘creative’).
 
-Starting from here, at the moment I am trying to make a parallel between the above situation in the 1970s, and the kind of “expected and taken for granted” services (for no better definition at the moment) dispensed by internet.
+Starting from here, at the moment I am trying to make a parallel between the above situation in the 1970s, and the kind of “expected and taken for granted” services (for no better definition at the moment) dispensed by the internet.
 To inscribe this in a specific discourse, probably the definition “user culture”, or also, first of all, “user”, might be quite useful.
 
-To be a bit more precise: who’s the people who, as users, add and improve wikipedia? Do they do really that out of free interest in wikipedia’s cause? Wikipedia works as a voluntary-based machine and so people who want to improve the site, or service?, do it for free, for the only (?) purpose of make it a better place.
+To be a bit more precise: who’s the people who, as users, add and improve wikipedia? Do they really do that out of free interest for wikipedia’s cause? Wikipedia works as a voluntary-based machine and so people who want to improve the site, or service?, do it for free, for the only (?) purpose of make it a better place.
 
 Sharing knowledge, doing all the dirty work of fixing typos, what other kind of labour is involved in making wikipedia running smoothly?
 
