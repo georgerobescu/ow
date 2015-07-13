@@ -19,7 +19,7 @@ It is a text part manifesto and part self-help tips, which gives an overview bot
 
 I’m starting to prefer the word *work* instead of *labour*, since it doesn’t just refer to a physical act but in general to any kind of activity (both physical and or mental) that has been accomplished for some reason. I’m aware of the label immaterial labour, emotional labour, affective labour, intellectual labour, and so forth, but I still prefer the vagueness of the word work because it can easily keeps under its umbrella a multiplicity of actions. For example, it doesn’t exclude the domain of play and game from its territories.
 
-Hence the name *ow*, *on work*.
+Hence the name `ow`, *on work*.
 
 From the introduction of the `readme.md` file:
 
