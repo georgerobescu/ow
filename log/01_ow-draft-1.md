@@ -1,11 +1,17 @@
 
 
 Title: ow_draft--1
+
 ----
+
 Date: 2015-07-13
+
 ----
+
 Tags: thoughts, git, readme.md, text-to-speech, voice
+
 ----
+
 Text:
 `ow_draft--1` is an entry point and a first attempt to visualise the research about labour and the internet that I’m doing. 
 
@@ -36,6 +42,7 @@ Focusing then on the worker (or the user) itself, from the notes.md I added to t
 How does subjectivisation work on someone using these specific tools? How much does the use of voice influence the usage of these tools and the discussion around them? What’s the role of the body in all this (e.g. can the voice be a way to materialise it)?
 
 ----
+
 Aside:
 Material:
 ⤷ [ow_draft--1](https://github.com/afincato/ow_draft--1)
