@@ -1,6 +1,5 @@
-# ow
+ow
 ================
-
 ow, on work, is a research project and master thesis part of the MFA Designing Democracy, Sandberg Instituut.
 
 git is used thoroughly as one of the methods during the project, both to reflect on the subject of inquiry (see [ow_draft--1](https://github.com/afincato/ow_draft--1)) and as a redundant practice of work and documentation.
