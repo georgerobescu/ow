@@ -30,11 +30,6 @@ In this way I can avoid to make git track all the files inside specific folders 
 
 [Here the script](https://github.com/afincato/ow/tree/master/projects/_ghost-index).
 
-* * *
-
-![ciao][image: /Users/andre/Desktop/indexing.gif]
-
-
 ----
 
 Aside:
