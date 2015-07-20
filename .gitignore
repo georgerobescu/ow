@@ -11,7 +11,5 @@ Thumbs.db
 .Trashes
 
 # Folder specific
-material/*
-!material/index.txt
-
 projects/ow_draft--1/text-to-speech
+
