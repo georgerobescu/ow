@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+!/drucken
+/drucken/*
+!/drucken/*index.txt
+/_waiting/*
+!/_waiting/*index.txt
+/in/*
+!/in/*index.txt
+!.gitignore
+!*index.txt
