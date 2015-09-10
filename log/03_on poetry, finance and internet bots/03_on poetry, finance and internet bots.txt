@@ -1,0 +1,58 @@
+# On poetry, finance and internet bots
+
+Last night I read a couple of interviews over at Triple Canopy, both of which were about making poetry in the 21st century: in one, [The Technocrat’s Guide to the Galaxy](http://canopycanopycanopy.com/contents/the-technocrats-guide-to-the-galaxy), it was discussed the definition of poet as someone producing and dealing with affective labour; in the other, [Psychoanalytic Night at Hooters](http://canopycanopycanopy.com/issues/20/contents/psychoanalytic-night-at-hooters), there was a nice exhchange about the production of poetry as an imitative process and how much the use of a bot could help and or influence it.
+
+As soon as I finished the first article and later on I moved to the other one, I slowly start to see how I could find a bit more concrete example, or applications, of what Franco "Bifo" Berardi is talking about in its book [The Uprising](http://semiotexte.com/?page_id=1152), which is subtitled "On Poetry and Finance".
+
+In it Bifo makes a comparison and an analysis between the language of finance and the one of poetry: what's in common, then? The use of a certain kind of language which stops to refer to the actual object, or to an object, and instead just connects different ideas, emotions, etc: within Financial Capitalism, money buys information, not goods anymore; in the realm of Poetry, from the Symbolists on, words no longer look for an object to refer to, but are on their own, they become symbols.
+
+The difference, though, lies in the fact that Poetry is the ‹the language on nonexchangeability, the return of infinite hermeneutics and the retourn to the sensous body of language›, it is ‹an excess (...) a hidden resource which enables us to shift from one paradigm to another› [^1].
+
+It's quite fundamental for Bifo, to be able to reconnect to the sensous body, mainly because The last generations have learnt more words from a machine than from the body of the mother, to quote him again.
+
+Going back to the two interviews, I found quite interesting how direct Srikanth Reddy was in saying, about affective labour, that:
+
+> I think there’s a certain negative capability, or a cultivated uncertainty, that one must maintain with regard to one’s affective labors as a poet—otherwise the work becomes a kind of emotional connect-the-dots. 
+
+The need to cultivate and to keep almost intact your rooms of emotions, in order not to ruin them and being then unable to make use of all this as source material.
+
+He continues:
+
+> But to speculate further, I would say that I want to move away from an ideological orientation regarding what a poem or a poetic practice can do. The writers I admire most are involved in a kind of sensitive and sensual labor, rather than a self-consciously political practice. I worry sometimes that affect drops out of the conversation when we focus on the political aspects of the art. Or maybe the affect becomes flattened out into mere outrage, or melancholia. To maintain the full spectrum of feeling in one’s work, I think one has to think of the work of poetry as a kind of affective enterprise first and foremost—and doing that involves preserving one’s subjectivity as a resource for that work, against antisubjectivist or other political claims that would overdetermine one’s emotional cogito.
+
+He's very clear in defining the work of the poet, or at least his work as a poet, not as cultural work but instead as affective labour. 
+
+I find this important in connecting the use of language to the sphere of the sensuous body and being able to do that. I'm not comparing his practice and job as the same as a software developer, for example, might do. Though one might find some common ground in the two, the kind of intensive-exploitation going on is quite different, or at least happens with different modalities: to be clear I see a software developer being more stressed on a daily basis for the long coding session she he is doing, and moreover for a general culture of constant updates and night-marathons.
+
+I wonder how a coder can connect his language to the one of the sensuous body. I'd like to find out, because I'm not so sure that leaving employees free of playing table football at work and give them the general feeling of "playing" is the way to go in make a better workplace.
+
+Little digression to accomodate a new element: last week I was reading and thinking about Angela Merkel and her way of doing politics and of keeping under her foot the UE. In particular, been reading Berardi aforementioned book, and going through many passages in which he describes the technocratic way of doing things, included its use of language, I happened to formulate this thought: why not trying to think of Angela Merkel as an internet bot?
+
+If the technocratic government put in place is the product of neo-liberalism and financialisation of life in all its aspects, in a word what's referred to as *governance*, isn't Angela Merkel a mere machine driving the whole train (or whatever metaphor you'd like to use) according to pre-scripted rules? And if she's not such thing, or if she's not following pre-scripted rules, then I find in any way less interesting her way of delivering messages, of speaking.
+
+It is from this other thought, then, that I moved to read the interview with K. Silem Mohammad in which he talks about becoming a bot but at the same time being able to program that same bot.
+
+If production of language becomes automatic, or automatised, the best position to fully take advantage of the machine, is to be on both sides, at different times.
+
+Talking about one of his ways to make poetry, in which he takes one Sonnets from Shakespeare and sets up
+  
+> an imitative situation, performing operations that contain the mechanical features of imitation (same meter, rhyme scheme, couplet closure, etc.)
+
+but strives
+
+> to produce a final object that is remarkable precisely for its aesthetic dissimilarity to the original in certain key ways (seriousness or lack thereof, thwarted rhetorical patterns that devolve into nonsense, and other breaches of decorum)
+
+K. Silem Mohammad ends up talking about this imitation technique as a way to ultimately imitate himself, or actually a bot:
+
+> I do find myself slipping into a formulaic approach from time to time. And that formula seems to follow an accretive, reflexive pattern. But another way of thinking about it that just occurs to me is that I also seem to be imitating a bot or some kind of algorithmically driven software program. The arbitrariness of subject matter, predictable rhythms, etc.
+
+The crucial part is when, as I mentioned above, you are able to play on both sides of the machine, being the machine and the external figure who programs the machine.
+
+> I want to be visible as the little guy “programming” the bot. The sonnet form is perfect for that classical authorship effect in which the “I” keeps pointing at itself, insisting on its genius. I like the way the impersonal bot behavior counteracts the narcissistic author behavior, and vice versa.
+
+
+
+
+
+
+[^1]: pp. 139–140, The Uprising, Franco Bifo Berardi, 2012, Semiotext(e).
