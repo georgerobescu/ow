@@ -1,5 +1,16 @@
-# On poetry, finance and internet bots
+Title: On poetry, finance and internet bots
 
+----
+
+Date: 2015-09-15
+
+----
+
+Tags: poetry, finance, language, internet bots, Franco Bifo Berardi, Angela Merkel
+
+----
+
+Text:
 Last night I read a couple of interviews over at Triple Canopy, both of which were about making poetry in the 21st century: in one, [The Technocrat’s Guide to the Galaxy](http://canopycanopycanopy.com/contents/the-technocrats-guide-to-the-galaxy), it was discussed the definition of the poet as someone producing and dealing with affective labour; in the other, [Psychoanalytic Night at Hooters](http://canopycanopycanopy.com/issues/20/contents/psychoanalytic-night-at-hooters), there was a nice exhchange about the production of poetry as an imitative process and how much the use of a bot could help and or influence it.
 
 As soon as I finished the first article and later on I moved to the other one, I slowly start to see how I could find a bit more of a concrete example, or application, of what Franco "Bifo" Berardi is talking about in its book [The Uprising](http://semiotexte.com/?page_id=1152), which is subtitled "On Poetry and Finance".
@@ -57,6 +68,12 @@ Of course bots are already pervading internets services and apps, sometimes with
 I am curious to see if mixing poetry and (internet) bots would help us to steer away from the current state of language production, hence of reality.
 
 
-
-[^1]: pp. 139–140, The Uprising, Franco Bifo Berardi, 2012, Semiotext(e).
+[^1]: pp. 139–140, [The Uprising](http://semiotexte.com/?page_id=1152), Franco Bifo Berardi, 2012, Semiotext(e).
 [^2]: I have to discuss about this difference, if there's any.
+
+----
+
+Aside:
+Brief comment: [Triple Canopy](http://www.canopycanopycanopy.com/), together with [The New Inquiry](http://thenewinquiry.com/)—but in totally different ways (see, the kind of content)—is one of the best *fluid* magazines happening now. [Gender fluid](http://nonbinary.org/wiki/Genderfluid), fluid magazine: a magazine that takes different forms and formats to accomplish whatever it has in mind.
+
+----
