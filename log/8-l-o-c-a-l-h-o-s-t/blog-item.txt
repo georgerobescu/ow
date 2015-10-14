@@ -1,0 +1,42 @@
+Title: L-O-C-A-L-H-O-S-T: RWX [READ/WRITE/EXECUTE]
+
+----
+
+Date: 2015-10-12
+
+----
+
+Tags: filesystem,user culture,artistic tools,event,workshop,talks
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+[L-O-C-A-L-H-O-S-T](http://l-o-c-a-l-h-o-s-t.com) [^1] organises a three day workshop and talks focused around the filesystem and its related politics as an artistic tool.
+
+From:
+> Since the development of the Xerox Alto OS in the early 1970s, the graphical Operating System has adopted the design language of the office environment to represent the filesystem. With a basis in the real-life workplace, the familiar concepts of the file, the folder, the desktop, and the recycle bin made it a simpler task for the office worker to make the switch from typewriter to computer. 
+
+To:
+> (...) increasingly outsourcing the storage of our music, photos, and other files to companies who store it for us in “the cloud”. The alluring sales pitch for these cloud services tells us that this enables us to collaborate more easily with others around the world, and conveniently share our data across our multiple devices.
+
+So:
+> If we are moving away from the traditional workplace metaphors for representing the filesystem, does this hint that our relationship with computers as virtual sites of production is changing? Does this design-shift suggest an impact on our freedom to Read, Write, and eXecute the data stored on our devices? At RWX, we aim to speculate on how the evolving experience of the filesystem will modify the existing frameworks and aesthetics of digital tool use, and imagine the consequent influence on artistic production in the future.
+
+[^1]: "a nomad workspace and events programme that aims to stimulate a deeper understanding of network technologies through participatory processes of dismantling, disrupting, and rebuilding" ([/about](http://l-o-c-a-l-h-o-s-t.com/#id=localhost:about)).
+
+----
+
+Aside: 
+
+The program is going to take place at the end of the month (29-31/10/15) in Edinburgh, and I can't really go there. 
+
+There will be [Marc Garret](http://furtherfield.org), [Kirsty Hendry](https://twitter.com/kirstyahendry), [Silvio Lorusso](http://silviolorusso.com), and [Aymeric Mansoux](http://bleu255.com).

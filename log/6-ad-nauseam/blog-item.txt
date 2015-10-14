@@ -1,0 +1,33 @@
+Title: Ad Nauseam
+
+----
+
+Date: 2015-10-12
+
+----
+
+Tags: online ads,adblock,browser extension,Helen Nissenbaum,Daniel C. Howe,Mushon Zer-Aviv
+
+----
+
+Video: https://vimeo.com/111943439
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+Since a couple of weeks ago Apple released the new version of its mobile operating system, iOS 9—which contains a new feature for [blocking online ads](http://techcrunch.com/2015/09/14/hands-on-with-three-ios-9-content-blockers-1blocker-blockr-and-crystal/) popping up in  ad-based websites and give developers access to build and sell their own app for that purpose—the debate about sustainable economic model for the web and data collection (what is a user? can we define a set of ethics for this figure?) has arose and heated up again.
+
+There are quite different positions about the question, and one which just embrace the whole mechanism in order to empty it out, or better, to over-produce informations and confuse (?) the system, is a new Firefox-only, browser extension called [AdNauseam](http://adnauseam.io):
+> As online advertising is becoming more automatic, universal and unsanctioned, AdNauseam works to complete the cycle by automating all ad-clicks universally and blindly on behalf of the target audience. Working in coordination with your ad blocker, AdNauseam quietly clicks every blocked ad, registering a visit on the ad networks databases. As the data gathered shows an omnivorous click-stream, user profiling, targeting and surveillance becomes futile.
+
+On the same page, there is a link to an essay titled *[Vernacular resistance to data collection and analysis—A political theory of obfuscation](http://firstmonday.org/ojs/index.php/fm/article/view/3493/2955)*, which connects to the same approach this form of resistance the project is part of:
+> AdNauseam joins a broader class of software systems that attempt to serve ethical, political, and expressive ends. In light of the industry's failure to achieve consensus on a Do Not Track standard, or to otherwise address the excesses of network tracking, AdNauseam allows individual users to take matters into their own hands, fighting back against unilateral surveillance. Taken in this light, the software follows an approach similar to that of TrackMeNot, employing obfuscation as a strategy to shift the balance of power between the trackers and the tracked.
+
+----
+
+Aside: The people behind the project are: [Helen Nissenbaum](https://www.nyu.edu/projects/nissenbaum/)—professor of Media, Culture and Communication and Computer Science at New York University ([wiki](https://en.wikipedia.org/wiki/Helen_Nissenbaum)); [ Daniel C. Howe](http://rednoise.org/~dhowe/)—artist, researcher and critical technologist; and [Mushon Zer-Aviv](http://mushon.com/about/)—designer, educator and media activist. All of them are interested in privacy, surveillance and the role of the internet and of the user in these fields.

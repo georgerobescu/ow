@@ -6,11 +6,20 @@ Date: 2015-09-13
 
 ----
 
-Tags: maintenance worker, silicon valley, unions
+Tags: maintenance worker,silicon valley,unions
 
 ----
 
-Text:
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
 Having a strong interest in what I call `maintenance work`—all the kind of invisibile jobs which make possible for a machine, of different complexity, to properly work in a smooth way—[this piece](http://inthesetimes.com/article/18367/silicon-valleys-labor-uprising) of news caught my attention [^1].
 
 > But Cárdenas doesn’t work for Google. He works for Adecco, a staffing company that provides contract labor to Google and other tech firms. He’s part of the teeming support workforce of janitors, bus drivers, food service workers, security guards and other low-paid workers who keep Silicon Valley running. Though they report to work every day alongside coders, developers and other mid-level staff, they are cut out of the famously high salaries and benefits of the tech elite.
@@ -25,4 +34,4 @@ Collateral thought: any union for software developers and coders?
 
 ----
 
-Aside:
+Aside: 

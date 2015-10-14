@@ -1,18 +1,25 @@
-
-
 Title: ow_draft--1
 
 ----
 
-Date: 2015-07-13
+Date: 2015-07-12
 
 ----
 
-Tags: thoughts, git, readme, text-to-speech, voice
+Tags: thoughts,git,readme,text-to-speech,voice
 
 ----
 
-Text:
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
 `ow_draft--1` is an entry point and a first attempt to visualise the research about labour and the internet that I’m doing. 
 
 It is a text part manifesto and part self-help tips, which gives an overview both of a specific tool that helps developers to keep track of their code-based work (namely `git`), but also to illustrate and connect together several themes I found important while reading different materials on the topics.
@@ -43,7 +50,8 @@ How does subjectivisation work on someone using these specific tools? How much d
 
 ----
 
-Aside:
+Aside: 
+
 Material:
 → [ow_draft--1](https://github.com/afincato/ow_draft--1)
 → [ow_draft--1—text-to-speech](https://soundcloud.com/afincato/sets/ow_draft-1-text-to-speech)
