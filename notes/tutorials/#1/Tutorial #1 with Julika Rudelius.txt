@@ -1,0 +1,31 @@
+# Tutorial #1 with Julika Rudelius
+
+*17/10/2015*
+
+Dear Julika,
+after the first year, this is a sketch of a map I put together last week with area or interests that start to make sense to me:
+
+1. "[democracy doesn't figure out your life](https://www.facebook.com/events/940002996038611/permalink/941864119185832/)"—Carmelo Bene
+2. [xenofeminism](http://laboriacuboniks.net)
+3. Work as the new religion— The Last Night by Federico Campagna
+4. internet
+5. immaaterial labour
+
+(*and back to close the circle with the first element of the list*)
+
+1. The first assumption that "*democracy doesn't figure out your life. Who chooses democracy, who chooses freedom, chooses the desert.*" is an excellent starting point to step back from seeing democracy as a political framework in a technical perspective, and rather moving into the subjectivity of each of us. What does it mean that I am, supposedly, free to take care of myself in most (every?) aspect of my life? In what sense I am choosing the desert?
+
+2. Xenofeminism is a manifesto published last Spring, and a big attempt to create a "new language for sexual politics". What I find interesting, among the many stimulus, is the idea to forge a new universalism which is not an absolutism, but takes into account "every particular, refusing the crass pigeon-holing of bodies". It does this through an intersectional approach to build a "generic universal", rather than an "absolute universal". I see it as a possible next step after having chosen the desert.
+
+3. I then move on to the field of work, which is the main theme of the research and the subject from which I started from.
+How do you kill your anxiety and need for a fixed center if there's no god and human beings are just one part of the planet (especially after having ideally killed off patriarchy and sexism?). If man is not the center anymore and he doesn't know where to bash his head, what to do? Work, absurdly, gives a sense of relaxation, in its being always there. Also when there are economical crisis, the faith in work doesn't go away.
+
+4. What did happen with the introduction of the internet? Post-fordism finally bloom in its entirety and "immaterial" labour arose. This is what I presented as a draft for last year’s final project.
+
+5. I focused on a system (an application called git) which helps programmers to keep track of their work and to collaborate when working with others on a project (e.g. a software).
+
+The main focus I had both in looking at the internet and in particular at immaterial labour was on the aspect of care and maintenance work: drawing a parallel from some feminist's writings in the 70s (asking provocatively a "wage for housework"), I was interested in how these same kind of operations were implemented on the internet machine through immaterial labour.
+
+What I want to do in the coming weeks is a series of videos (or one long video) in which I translate, through the use of physical body action the basic commands that you can perform with this software (git). I want to see if this example I picked up last June can be expanded beyond its theoretical field and use also as material to produce other outcomes.
+
+In general, now I am focusing my interests on the field of user culture (internet user culture, software user culture, etc.) and on usership (of which I know nothing). I want to explore how software influences, informs and alters one's (a user) subjectivity.
