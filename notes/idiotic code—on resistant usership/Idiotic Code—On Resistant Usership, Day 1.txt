@@ -1,0 +1,59 @@
+
+# Idiotic Code: On Resistant Usership, Day 1
+
+## Notes from the talk "Inventing the Future" by Nick Srnicek
+
+Outline of the book:
+
+* 2008 crisis⟶desire for a new world⟶Occupy Movement's failure to make it real
+* material conditions made the above project fail (in a post-fordist society)
+** in the past labour movements faced as hard or harder problems than this crisis, not easier ones
+** too many liberals and anarchists involved in the occupy movement 
+** its subjective composition isn't radical enough
+* the left's use of *immediacy* as the way to resolve any kind of problems
+** temporal immediacy: the opposite of large, long-term projects—a way to avoid the future
+** spatial immediacy: e.g. local communities
+** conceptual immediacy
+* social democracy as the de facto standard ideal: a way to go back to the 1960s, instead of looking forward to the future.
+* resistance: an act against the coming future, an interest and an attempt to save the present (looking at the act of resistance with some criticality)
+* empty slogan⟶let's end capitalism, then what? No idea of and for the future
+* *affect of charge* (?)
+* desirable and viable image of the future
+
+What does post-capitalism mean today?
+* the death of all signifiers: Socialism and Communism have no meaning today whatsoever)
+* socialism can often be interchanged with neoliberalism
+* post-capitalism is a better term, an empty signifier to then being able to think about the future
+* also: Aaron Bastani and the term Luxury Communism
+
+Post-work and post-scarcity societies: an image of the future both desirable and viable.
+
+Low-skilled jobs and high-skilled jobs: the middle has been taking over by robots from the middle class (routine jobs?)
+
+Working hours have not been reduced anymore after the Big Depression and especially after WWII. Time to do politics again.
+
+With more education people will have less problem to get (their? a?) job stolen by robots.
+
+With this come the need to restrict labour supply and keep away immigrants: a problem of surplus population, which is produced by capitalism itself (see Marx's Das Kapital).
+
+So what's the four thesis of the book:
+1. *full automation*: a provocative demand, impossible to implement on every level
+2. *reduction of the working week*: the two approaches so far have been a) let's create more jobs or b) reducing the working week. After WWII the first option has been chosen as the way to go (see Social Democracy).
+3. *universal basic income*: is it a replacement of the welfare state? No, it is a supplement to the welfare state. It has to be universal, instead of citizen-based because it has to be applied to everybody, no matter if workers or hobos. It has to be global-based, not national-based.
+4. *end of the work ethic*: if you're not working, you're worthless, you don't deserve money. Work is shit.
+
+The difference between the proletariat and the working class: the first have no means of production and have to sell their labour power. We all are (most of us) part of the proletariat (objective level), though we don't identify with it (subjective level).
+
+Post-work politics are different from post-capitalism. Post-work politics are still within a capitalist system.
+
+* * *
+
+## Notes from the talk and performance by Ryan Maguire
+
+⟶ [The Ghost in the mp3](http://theghostinthemp3.com)
+
+The mp3 file format has been built for western traditional (classical) and pop music; it's not good for lo-fi indie recorded music, electronic/percussive music and other kind of non-western and normalised genres.
+
+The mp3 has been thought as a good (best?) format for the technologies (storage, audio fidelity, etc.) of the time: 1993.
+
+It's quite funny how it is still widespread and used as the de facto standard for the digital music file format.
