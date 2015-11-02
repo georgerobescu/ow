@@ -1,0 +1,11 @@
+# Arachne webzine
+
+In the past two weeks I worked on the launch of a zine focused on "the relationship of mythology to the internet".
+
+Specifically, or precisely with the issue #00, the three themes were labour, gender and technology. It's for these reasons that I was quite interested during the last Summer to help her out in whatever way with the project.
+
+Over the week I'll go through the newly published material, but for now I just want to write down some thoughts which were causes by this *aside* project and which also inspired some considerations on the general thesis project.
+
+First, the more I was reaching the end of the project, I was imagining I could use the git repository to create a narrative of the project itself: an attempt to translate into a personal and fundamentally emotional experience from a series of commits often times quite generic. I first encountered this idea in an [interview with OSP](http://freeze.sh/_/2015/conversations/dvc), where they were imagining of using the commit textfield to write poetry or building a conversation—in general arrange a narrative.
+
+Second, fuck I forgot this part, which was more about a general point of view regarding ow's project. I went to sleep at 5.15am this (early? pre-) morning, and woke up at 11am. Probably it will get back to me in a while.
