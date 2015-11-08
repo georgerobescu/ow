@@ -9,13 +9,32 @@ A list of sample videos — [http://www.asmrlab.com/common-asmr-triggers](http:/
 
 A technique to achieve this is [binaural recording](https://en.wikipedia.org/wiki/Binaural_beats).
 
+> If you want to understand the strange alchemy of Herndon’s sound, you might do a quick trace of her biography. The story goes that she was raised in Tennessee on bibles and church choirs, then shed her past in the Berlin club scene and finally, seeking a more focused education, attended Mills College and, later, Stanford’s Center for Computer Research in Music and Acoustics, in the heart of Silicon Valley. Platform falls somewhere in the middle of this postmodern Bermuda Triangle. It’s a surreal blend of art school and clubland, biomorphology and digital design, hi-tech paranoia and new-age grace. Critics are already trying to categorize the album as Herndon’s turn to pop and embrace of lyricism, but she’s too savvy about disciplinary boundaries and carefully deconstructs such distinctions at every turn. These tracks willfully refuse to be labeled, and one of the pleasures of the album is listening to its various modes buckle and bristle against each other. More to the point, Herndon’s whole method, with its emphasis on found sound — what she calls “net concrete” as an updated version of “musique concrete” — works to destabilize easy associations between sound and source. *Also, this time out, her adventures in digital manipulation are inspired by ASMR (Autonomous Sensory Meridian Response), which is the use of sensory stimuli (such as the sound of fingernails tapping on an iPhone case or the voice of Bob Ross describing how to paint a sky) to generate pleasurable, tingling sensations in the body (i.e., sonic goosebumps*). In all this, *Herndon’s songs demand a new taxonomy based on the various kinds of affect they generate and a new scale of evaluation*, one in which categories of good or bad, pleasurable or unpleasurable, refer back not to established styles and traditions, but to complex digital platforms and weird physiological processes.
+
+> Platform seems less successful in its equal smattering of more directly vocal tracks. The album simply can’t support the shift from its unapologetic oddball offerings to more traditional vocals; Herndon’s commitment to the former, most clearly on display in the first half of the album, completely evacuates the possibility of returning to the latter, which awkwardly emerges in the second half. The bright multi-tracked vocals on “Morning Sun” are impressive in sound, but obtrusive as a statement. The pop refrain on “An Exit” seems out of place, borrowed from an earlier, discarded register. Other tracks that feature spoken word come across similarly as slight, but they are tweaked in more interesting ways. “Locker Leak” echoes the lingo of contemporary marketing, but pitch-shifts the slogans in ways that recall Gertrude Stein’s experiments in sonic wordplay. “*Lonely At the Top” is a sustained monologue featuring a female body therapist trained to pleasure and relax a successful male client, but the hokey scenario is just an excuse for Herndon to push her experiments into ASMR to the limit, with whispering voice, rustling paper, and wet sucking sounds offered for the listener’s own sensual pleasure*.
+(source—[http://www.tinymixtapes.com/music-review/holly-herndon-platform](http://www.tinymixtapes.com/music-review/holly-herndon-platform))
+
+Mat Dryhurst's tweet mentioning ASMR:
+> Omg @fraubalance killed that - rows of a London audience performing an ASMR play on decentralization ❤️🌹❤️🌹
+
+—[https://twitter.com/matdryhurst/status/662004202818940928](https://twitter.com/matdryhurst/status/662004202818940928)
+
+(Mat and Holly often collaborates on projects so the two examples are hyperlinked).
+
 Infra-thin:
 > is Marcel Duchamp's word for measuring the almost imperceptible margins of difference between two seemingly identical items. Infra-thin measures the all but immeasurable interstice between two things or ideas as they transition into and between one to the other, the passage between sense and non-sense, and the delay or deferral of these passages between the senses themselves.
 > For example, the difference between adjectives and nouns is infra-thin. So is the act of forgetting. Other examples from Duchamp include an object at one time and then one second later (the identity principle), the warmth of a seat that has just been left, a stare, people who go through subway gates at the last moment, the whistling sound made by velvet trousers when walking, a painting on glass seen from the unpainted side, or the space between recto and verso.
 (source—[http://www.infrathin.com](http://www.infrathin.com))
 
+* * *
 
-Mat Dryhurst's tweet mentioning ASMR:
-> Omg @fraubalance killed that - rows of a London audience performing an ASMR play on decentralization ❤️🌹❤️🌹
+These notes written down above are some fragments from two different vectors which I found in two different temporal moments. Still, thinking about ASMR I immediately thought about infra-thin, which at this (that?) point I didn't really properly look up yet.
 
-— [https://twitter.com/matdryhurst/status/662004202818940928](https://twitter.com/matdryhurst/status/662004202818940928)
+It is from these two different kind of sensations that I would like to go on and try to think about a series of videos, for now called "Embodying git": 
+* how can you translate git's basic command into corporeal actions? 
+* how much the meaning of each word (software command) does influence the way you perform that action? 
+* in which kind of environment do you accomplish these actions?
+* and with which kind of materials?
+* do they directly translate into symbolical or didactical objects and action, to easily mimicking the software counterpart or
+* is there a way to get away from that and make use of different materials?
+* what if it's possible to *hack* (such a horrible empty word it is becoming) into already existing everyday actions (like brushing your teeth?)
