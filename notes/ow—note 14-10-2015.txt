@@ -1,6 +1,6 @@
 # ow—note 14-10-2015
 
-## One the current situation of the project
+## On the current situation of the project
 
 I'm a couple of weeks into the new (academic) year, and a couple a weeks back to Amsterdam. During the summer I tried to setup some technical stuff for the research and documentation part of the project (quite succeeding in a way, see *[_ghost-index](http://andrefincato.com/ow/ghost-index)*).
 

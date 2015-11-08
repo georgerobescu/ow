@@ -2,9 +2,9 @@
 
 Thinking back about what I did for the thesis draft proposal, I got a new interest and I want to try out if the theme “git” and “github” has any potential. 
 
-For this, I am thinking of translating and or traducing some git commands (at first let’s say five, more or less the basic ones), into space, though the use of physycal actions and the body. This time, I also fantasised about filming each action—not sure if for *studying* it afterward or as the real final stage of it (artefact).
+For this, I am thinking of translating and or traducing some git commands (at first let’s say five, more or less the basic ones), into space, though the use of physical actions and the body. This time, I also fantasised about filming each action—not sure if for *studying* it afterward or as the real final stage of it (artefact).
 
-Anyway, when last week I though about it, it was one night right when I layed down on my bed before got asleep, I probably alse knew what was the reason behind this exercise, the connection between the non-physical (is it?) and the physical, the software and the hardware? between the software and the softbody? Right now I don’t remember it but after these words here I’ll probably turn around with my mind again about it and will be able to get back to the point which made me think of doing this. Or a new one, also.
+Anyway, when last week I though about it, it was one night right when I lay down on my bed before got asleep, I probably also knew what was the reason behind this exercise, the connection between the non-physical (is it?) and the physical, the software and the hardware? between the software and the softbody? Right now I don’t remember it but after these words here I’ll probably turn around with my mind again about it and will be able to get back to the point which made me think of doing this. Or a new one, also.
 
 A list of the basic git commands, taken from [gitref.org](http://gitref.org):
 
