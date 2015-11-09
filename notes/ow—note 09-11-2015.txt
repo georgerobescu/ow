@@ -1,0 +1,7 @@
+# arachne.cc and git history
+
+I want to expand the possible idea to use arachne's git history to carve out a narrative of how the project developed and my personal experience with it: how do you follow the outlines of a technical series of data (short text snippets) and transform them in the outlines of emotional and affective experience of a worker?
+
+I wonder if I'll be able to reconstruct the project development or how many black holes there will be. Moreover, the act of using a particular kind of informations to tell something adjacent but completely different to it, as it is write an emotional narration of the personal experience of the project—not the work itself anymore but the subjective experience of one of the people involved it.
+
+Still not sure if it's gonna be just a text piece, mixed with some pictures, or something more: e.g. systematically using screenshots of the email exchange me and Dorothy had, to expand the narrative elements to a direct human-to-human kind of experience.
