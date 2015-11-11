@@ -1,9 +1,0 @@
-Title: log_20-10-2015
-
-----
-
-Date: 2015-10-20
-
-----
-
-Text: Added [piwik](http://piwik.org)—an alternative to Google Analytics—once again. Not sure about it, as  I was a couple of months ago, but maybe a bit more useful now.
