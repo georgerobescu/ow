@@ -1,0 +1,24 @@
+# Towards a foundation
+
+11/11/2015
+
+*This text file serves as a basis and especially a starting point for the project research `ow`*.
+
+The first building block is a short snippet, taken from a video of Carmelo Bene (c.b. as Deleuze used to write) regarding the difference, in his perspective, between a dictatorship and a democratic state: what does one give to someone than the other does not, or can't? Why should be democracy a better political framework than a dictatorial government?
+
+In c.b.'s view, democracy—if it would exist at all—would set us to a starting point for which life is unlivable: it doesn't resolve our existence altogether from the beginning. It doesn't give us answers. In this, democracy is the best option because it sets everybody to the same desert-like life environment.
+
+Yet, in c.b.'s perspective, democracy doesn't really exist, and what we have is a pure form of demagogy.
+
+⤷ [link to video snippet].
+
+Here a transcript of the above video extract:
+> What's the only form of government which guarantees something? Democracy, no doubts. Paradoxically it's the most acceptable. Emil Cioran made a good analysis about it.
+> So I ask you: what does democracy guarantee that a dictatorship does not? Sure! It guarantees something—do you know what is it? It guarantees life to be unlivable. It doesn't figure out your life! Who chooses democracy, who chooses freedom, chooses the desert—if democracy were freedom at all. But democracy is nothing, democracy is pure demagogy.
+*Carmelo Bene at Maurizio Costanzo Show, Canale 5—Italy, 1994*.
+
+I take this position and understanding of democracy as one of the essential elements for the project research. Besides my very vivid interest towards Carmelo Bene, what I find compelling is the idea of democracy as a desert: do we really want to take part in what's going on? Okay, let's just give up then on every kind of possible god and just make use of ourselves.
+
+Since my interest revolves around internet and labour, with a particular focus in the subjectivity and subjectivisation of the worker (becoming user), this very existentialist take on democracy seems quite appropriate to me. Around this core, I can build around other areas of interest, research and experimentation, as I tentatively wrote in the first draft of the project—[github.com/afincato/ow_draft--1](https://github.com/afincato/ow_draft--1).
+
+
