@@ -4,9 +4,9 @@
 
 *This text file serves as a basis and especially a starting point for the project research `ow`*.
 
-The first building block is a short snippet, taken from a video of Carmelo Bene (c.b. as Deleuze used to write) regarding the difference, in his perspective, between a dictatorship and a democratic state: what does one give to someone than the other does not, or can't? Why should be democracy a better political framework than a dictatorial government?
+The first building block is a short snippet, taken from a video of Carmelo Bene (c.b. as Deleuze used to write) regarding the difference, in his perspective, between a dictatorship and a democratic state: what does one give to someone than the other does not, or can't? Why should democracy be a better political framework than a dictatorial government?
 
-In c.b.'s view, democracy—if it would exist at all—would set us to a starting point for which life is unlivable: it doesn't resolve our existence altogether from the beginning. It doesn't give us answers. In this, democracy is the best option because it sets everybody to the same desert-like life environment.
+In c.b.'s view, democracy—if it would exist at all—would set us to the same starting point for which life is unlivable: it doesn't resolve our existence altogether from the beginning. It doesn't give us answers. In this, democracy is the best option because it sets everybody to the same desert-like life environment.
 
 Yet, in c.b.'s perspective, democracy doesn't really exist, and what we have is a pure form of demagogy.
 
@@ -17,8 +17,24 @@ Here a transcript of the above video extract:
 > So I ask you: what does democracy guarantee that a dictatorship does not? Sure! It guarantees something—do you know what is it? It guarantees life to be unlivable. It doesn't figure out your life! Who chooses democracy, who chooses freedom, chooses the desert—if democracy were freedom at all. But democracy is nothing, democracy is pure demagogy.
 *Carmelo Bene at Maurizio Costanzo Show, Canale 5—Italy, 1994*.
 
-I take this position and understanding of democracy as one of the essential elements for the project research. Besides my very vivid interest towards Carmelo Bene, what I find compelling is the idea of democracy as a desert: do we really want to take part in what's going on? Okay, let's just give up then on every kind of possible god and just make use of ourselves.
+I take this position and understanding of democracy as one of the essential elements for the project research. Besides my very vivid interest towards Carmelo Bene, what I find compelling is the idea of democracy as a desert: do we really want to take part in what's going on? Okay, let's just give up, then, on every kind of possible god and just make use of ourselves. How far can we go with the embracement of freedom? How much do we want to be involved in everyday political and social decision of the community where we're living in? Deciding to take freedom as one of our core value, while being part of a community means we can't rely on someone else: if we do not make our part, things collapse. First of all because we can't even figure out a way to sustain ourselves. 
 
-Since my interest revolves around internet and labour, with a particular focus in the subjectivity and subjectivisation of the worker (becoming user), this very existentialist take on democracy seems quite appropriate to me. Around this core, I can build around other areas of interest, research and experimentation, as I tentatively wrote in the first draft of the project—[github.com/afincato/ow_draft--1](https://github.com/afincato/ow_draft--1).
+Comparing democracy to a desert equals to perform a big tabula rasa: what's our values, how do we stay together, how much do we want to rely on somebody else and what for.
 
+Demos. Chaos. Not as an impossible to play with disorder, rather, as a never-ending movement full of changes, a not defined vector. Better, a vector and not a segment with point A and point B.
 
+What is a desert then? Freedom in c.b.'s words. As in, you have to deal yourself about your life. Take off your hands from any possible handhold, any God of some forms. The State? Certainly. Also the State. But, curiously, c.b. says that "it's possible to have a government without a State" (from the same talk show, Maurizio Costanzo '94).
+
+[expand a bit the concept of desert]
+
+Since my interest revolves around internet and labour, with a particular focus in the subjectivity and subjectivisation of the worker (becoming user), this very existentialist take on democracy seems quite appropriate to me. Starting from this core, I can build around other areas of interest, research and experimentation, as I tentatively wrote in the first draft of the project—[github.com/afincato/ow_draft--1](https://github.com/afincato/ow_draft--1).
+
+Federico Campagna's book "The Last Night", deals with the rising of the conception of job as a personal identification and dissect the reason for it to happen.
+
+He compares work to God (≠god), and makes the point that in absence of some metaphysical entity to revere and curse, now work has taken that place (now as in the last twenty or more years? As after the WWII?). Work has become a new metaphysical entity in itself, a signifier for one's existence and appearance in the world.
+
+> At last, they could swap the ill-fated demand for freedom of religion with the emancipatory cry for freedom from any religion. At last, they could build for themselves communities that did not irradiate from any central totem.
+
+> In fact, what they really needed wasn’t a prayer, but a mantra: an invocation that revolves on itself, a spell that endlessly produces itself, a belief in believing.
+
+> There was only one possible, almost perfect candidate. The activity of repetition par excellence: Work.
