@@ -4,6 +4,8 @@
 
 *This text file serves as a basis and especially a starting point for the project research `ow`*.
 
+## Democracy, freedom, as desert
+
 The first building block is a short snippet, taken from a video of Carmelo Bene (c.b. as Deleuze used to write) regarding the difference, in his perspective, between a dictatorship and a democratic state: what does one give to someone than the other does not, or can't? Why should democracy be a better political framework than a dictatorial government?
 
 In c.b.'s view, democracy—if it would exist at all—would set us to the same starting point for which life is unlivable: it doesn't resolve our existence altogether from the beginning. It doesn't give us answers. In this, democracy is the best option because it sets everybody to the same desert-like life environment.
@@ -30,6 +32,8 @@ What is a desert then? Freedom in c.b.'s words. As in, you have to deal yourself
 Since my interest revolves around internet and labour, with a particular focus in the subjectivity and subjectivisation of the worker (becoming user), this very existentialist take on democracy seems quite appropriate to me. Starting from this core, I can build around other areas of interest, research and experimentation, as I tentatively wrote in the first draft of the project—[github.com/afincato/ow_draft--1](https://github.com/afincato/ow_draft--1).
 
 * * *
+
+## Exhaustion of the identification of job as personal identity
 
 Federico Campagna's book "The Last Night", deals with the rising of the conception of job as personal identification and dissect the reasons for it to happen.
 
@@ -66,6 +70,8 @@ I'll go back to the text asap.
 
 * * *
 
+## Universalism as intersectionality, not as an absolute
+
 I think it is the Xenofeminism manifesto where I found some passages which goes hand in hand with the idea of tabula rasa and choosing democracy because it is a desert (what freedom is).
 
 In particular, they make a good point on defining what absolute and universal mean for them, as in:
@@ -85,6 +91,8 @@ What is democracy? What should it be? What, for example, the Xenofeminist manife
 Choose the desert and get lost, get lost abruptly and harshly.
 
 * * *
+
+## Worker → user; labour → usership
 
 The passage from worker to user and from labour, or work, to usership.
 
