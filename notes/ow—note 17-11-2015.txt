@@ -1,0 +1,28 @@
+# Embodying git
+
+Moving towards the idea of embodying and or translating git’s commands into physical representation imageries of physical activities and desires.
+
+1. *porn & sex* or *porn & desire*  
+as git’s commands can easily hint at that context ad especially it can be connected to the infamous github repo [DICSS](https://github.com/letsgetrandy/DICSS)
+2. [brogrammer](http://gizmodo.com/5910824/theres-no-such-thing-as-a-brogrammer) culture?
+3. [cabinporn](http://cabinporn.com) culture?  
+(pretty typical and almost cliché of the “escaping the office for the wild nature” feeling
+
+I feel I can move away from these common imaginaries and let each git’s action (verb) decides where to go.
+
+## Composition
+
+1. Video of one of the selected verbs from git’s basic actions as the center and background of the video.
+2. Other smaller and differently framed (different proportions and ratios) videos on top of the “main” one. Porn & sexual desires videos (or other subjects) contextually referring and expanding and building an imagery based on each git’s command.
+
+* * *
+
+Thinking of using my iPhone 5 to shoot the videos and using—at least as a first idea for a possible scenario—the studio and my table (laugh). Stuck, or interested, in an aesthetic of office-studio working environment, with plants, light coloured woods and white tables. Not too aseptic, not too warm and *crazy*: something, though emanating a sense of *asceticism* (not austerity).
+
+I am thinking of that thin veil of sadness encompassing Ghost in the Shell main character, [Motoko Kusanagi](https://en.wikipedia.org/wiki/Motoko_Kusanagi) (especially in Ghost in the Shell 2: Innocence)
+ 
+* * *
+
+## git-init
+
+Let’s take `git-init`.
