@@ -8,7 +8,7 @@ Anyway, when last week I though about it, it was one night right when I lay down
 
 A list of the basic git commands, taken from [gitref.org](http://gitref.org):
 
-,, Getting and Creating Projects
+**Getting and Creating Projects**
 * `git-init`
 * `git-clone`
 
@@ -23,7 +23,7 @@ Basic Snapshotting
 * `git-stash`
 
 Branching and Merging
-* `git-brach`
+* `git-branch`
 * `git-checkout`
 * `git-merge`
 * `git-log`
