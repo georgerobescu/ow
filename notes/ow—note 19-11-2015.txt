@@ -1,0 +1,21 @@
+# Embodying git
+
+Processing the video (at least the first one on `git-init`) in my mind: I feel like a Mac Pro exporting a long video which is going to take forever, and there’s a preview window that shows at a faster pace the video itself. Sort of trying to understand how to make it, which elements to put in it, and at the same time still unable to get my hands dirty. Fuck getting my hands dirty, horrible expression.
+
+Still, since five days I am using [f.lux](https://justgetflux.com), a small app/utility that “makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day”.
+
+Last night I was working late on a client project and I let f.lux doing its job, reason for which at 3 am the screen was getting more and more red but quite pleasant to my eyes.
+
+I want to use also this color game in the videos I am going to do, and especially in the first one I’d like to play with this passage between red and blue, as if the amniotic fluid is cradling me but then slowly I am moving away.
+
+I don’t know if I really want to use the amniotic fluid metaphor but okay. I am thinking more of a stronger, harsher, blockage stamp-like action to mark the `init` part in git.
+
+> This command creates an empty Git repository - basically a `.git` directory with subdirectories for `objects`, `refs/heads`, `refs/tags`, and template files. An initial `HEAD file that references the HEAD of the master branch is also created.
+
+> If the `$GIT_DIR` environment variable is set then it specifies a path to use instead of `./.git` for the base of the repository.
+
+> If the object storage directory is specified via the `$GIT_OBJECT_DIRECTORY` environment variable then the sha1 directories are created underneath - otherwise the default `$GIT_DIR/objects directory is used.
+
+> Running *git init* in an existing repository is safe. It will not overwrite things that are already there. The primary reason for rerunning *git init* is to pick up newly added templates (or to move the repository to another place if --separate-git-dir is given).
+
+(from [git-scm](http://www.git-scm.com/docs/git-init))
