@@ -16,4 +16,13 @@ Had so much difficulty to watched the almost 20 minutes of video and mark where 
 
 Cut up five or six moments out of the first part where the camera is just looking at an empty table devoid of anything. Played with colour-variation: from very red to very blue; in between tones. When at the end of the sequence I switched on the lamp colours got less weird and moved back from a very blue tone to an almost *normal* one—but not completely.
 
-Since I am just doing stuff without any clear cognition of why so, just after this one hour video editing session I realised how much, in terms of preparation (git-init) to a working environment, this colour variation really helps to draw attention to a passage between before and after. Before I had this passage more clear in my mind, I wanted to write something about it—no I forgot and maybe it will comeback. 
+Since I am just doing stuff without any clear cognition of why so, just after this one hour video editing session I realised how much, in terms of preparation (git-init) to a working environment, this colour variation really helps to draw attention to a passage between before and after. Before I had this passage more clear in my mind, I wanted to write something about it—no I forgot and maybe it will comeback.
+
+* * *
+
+> He says of the project’s inception, that he was intrigued by an oddly “naive idea of nature that seemed strikingly prevalent in my social environment.. I was curious to know how these simulations of Nature work in digital media, how do we do experience these simulated materials”.
+[J.G. Biberkopf](http://www.k-n-i-v-e-s.com) about its album “Ecologies”
+
+Similarly, my interest with this video (probably “these videos”) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
+
+I am also very hardly trying to avoid the metaphor of the genesis with this first video about `git-init`. So much. Every reference to something *just born* are nauseous.
