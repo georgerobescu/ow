@@ -1,10 +1,9 @@
 ow
 ================
-ow, on work, is a research project and master thesis part of the MFA Designing Democracy, Sandberg Instituut.
+ow, *on work*, is a research project and master thesis part of the MFA Designing Democracy, Sandberg Instituut.
 
 git is used thoroughly as one of the methods during the project, both to reflect on the subject of inquiry (see [ow_draft--1](https://github.com/afincato/ow_draft--1)) and as a redundant practice of work and documentation.
 
-Still considering how to keep a log of all the research material I came and will come across, which I won't directly push over the github repo.
-For the moment thinking to keep a simple .md file indexing all the file and if possible (for most part it will be, a direct permalink to the source, plus a permalink to the entry—if there's one—to the log, see below).
+In order to keep track of all the material I come across, but without having to git it and push it to the server (GB~GB~GB), I wrote a small script that, whenever a new file is added to a specific folder, the file’s name and date of addition are grabbed and copied to a `index.txt`. In this way I can `git-push` it without worrying about size problems (or copyrights).
 
 For a more appropriate rich-content documentation there's this log — [ow](http://www.andrefincato.com/ow).
