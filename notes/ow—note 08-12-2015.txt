@@ -56,3 +56,13 @@ I have some motivations for why using this format and for why I want to explore 
 Still, my initial idea was to explore the possibilities of five-six selected basic commands you can do on in with git. So, beginning from the word itself, always a verb, moving on and, probably using a grid of some sorts (e.g. the five points present in `ow_draft--1` and used as chapters of the text-manifesto) exploring this verb in regard to git and to (digital) post-fordist labour happening in on and for the internet.
 
 Probably one big thing I still have to think about is: what kind of person I am interested in? And moreover, how much is that important?
+
+As of now, I see two possibilities for that:
+1. yes, it is of utter importance because of the overall way the videos are built (a body accomplishing specific actions)
+2. no, it’s not so much relevant because this actions are filmed in  a way the subject itself, the body, it’s as much useful as to give shape to these actions
+
+Which means choosing the subject is very much important.
+
+To go back to certain trajectories I was doing with my mind, specifically regarding a big anxiety towards laying down some foundations for the research project, the question of which kind of body and subjects was persistently present. Almost a fever.
+
+I somehow feel a strong connection between feminist politics and  the kind of specific research I am bringing on, internet and labour. As in: most kind of labour happening on and for the internet nowadays can be compared and is connected to all the so labelled care and affective labour which took visibility during the 70s in europe (refuse to write europe with a capital e), usa and japan (to name a few place I can be sure of—I’m still afraid of the consequences of generalisation).
