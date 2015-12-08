@@ -32,3 +32,27 @@ Although I am not planning to work on this kind of transformation (yet?), I am q
 
 And then it’s crazy and (positively?) nihilistic in its intent to set on fire the world and turn it all into a big junkyard of rusty pieces of metal. “Let’s finish off humanity once and for all!”.
 
+Last week I came across a copy of *The Gentlewoman*, and browsing through it I found a short article on how to stretch and stay fit at the office where you work.
+
+The female model, or actress?, was doing (making?) some exercises using the office-printer as a piece of architecture through which extend her arms and back (pushing towards the printer while grabbing it to counter-balance her horizontal extension). In another picture, she is giving her back to the desk and stretching the upper part of her body using the table as an handhold (mostly arching her back out). In another shot she’s facing the desk and inclining her body to 45° using her arms to accomplish it.
+
+These pictures are very telling of different aspects of the “modern” life in the office—should it still be labeled as modern? Or, rather post-fordist?
+
+It’s funny how these kind of pictures are completely “modern” to my eyes, if we put aside the updated clothes and office environment (large-leaf plants, beige printer, white desks, iMacs, etc). That’s indeed the kind of ideal Apple and the “hip” office culture aim at. Very much nostalgic of the 60s.
+
+I am not interested in that type of aesthetic, though in regard to the kind of office environment I am still planning to shoot the videos at the studio, using my white desk and blue curvy chair as the two main elements of the scene (or at least that’s what happened with the first attempt a couple of weeks ago).
+
+If there’s ever gonna be an office environment, white tables and plants will be part of it. There’s also wheeled-printer, which I really like and would fit perfectly.
+
+Now, coming to the actual content of the videos, what do I want to do? What should happen in there?
+
+I have some motivations for why using this format and for why I want to explore certain ideas through a visual embodiment of them (fuck the word embodiment man!). Quoting from `ow—note 23-11-2015`:
+
+>> He says of the project’s inception, that he was intrigued by an oddly “naive idea of nature that seemed strikingly prevalent in my social environment.. I was curious to know how these simulations of Nature work in digital media, how do we do experience these simulated materials”.
+> [J.G. Biberkopf](http://www.k-n-i-v-e-s.com) about its album “Ecologies”
+
+> Similarly, my interest with this video (probably “these videos”) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
+
+Still, my initial idea was to explore the possibilities of five-six selected basic commands you can do on in with git. So, beginning from the word itself, always a verb, moving on and, probably using a grid of some sorts (e.g. the five points present in `ow_draft--1` and used as chapters of the text-manifesto) exploring this verb in regard to git and to (digital) post-fordist labour happening in on and for the internet.
+
+Probably one big thing I still have to think about is: what kind of person I am interested in? And moreover, how much is that important?
