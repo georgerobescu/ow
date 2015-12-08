@@ -1,0 +1,29 @@
+# embodying git—obfuscation, torrent aesthetic, decomposition
+
+Before I forget for real, last week I had this thought in mind after a while: the suggestion that an “artist” gave me during a tutorial last spring, in regards to my research. Making a film where you can see (as if it was) in real time, the aggregation of the different bits of that file assembling and mixing together, in order to form the final, fully downloaded video file.
+
+This means starting the film with an almost black screen and intermittent but noisy audio and then, slowly, as a direct reference to the genesis (really?) and or the creation of the world (really?), progressing towards the middle of the film with more and more details for eventually reaching the end of it where, probably, you will be able to see if not a scene, maybe a short snippet or a couple of stills fully formed.
+
+This popped up in my mind again because during the tutorial with Julika last week, she proposed me to film the same scene (for each video) with different cameras: computer’s webcam (webcam, really?), iPhone, videocamera, camera, and so forth. This as a way to work on the quality of the picture and confront how different “eyes” perceive and records light.
+
+I just finished to read a paper on obfuscation called “Vernacular resistance to data collection and analysis: A political theory of obfuscation”. I am not sure that’s a direction I want to take research-wise (or maybe not as the primary one), but still aesthetically I find it very interesting, because it reminds me of the exhibition which took place during the month of October at w139. It was called Ch’u, and it was about
+
+> The steam bath (– i.e. fog, mist, haze, interference –) is one component of C'hu: an extension of a shared interest in algorithmic, mechanical and biological processes and the ongoing breakdown of the binary logic of the human and non-human at the heart of the cybernetic body. Did we talk already about the-dog-that-was-wolf?
+> The show locates the uncertainty inherent to complex systems in the non-linear structure beyond individual perception and proposes the idea of state of distributed autonomy between server networks, architecture, the psychoactive potential of plants, choreography and fog; to help us "un-think what we don't know we are thinking".
+> Self-intoxication as self-surrection, politics of heat maps, a proposal for mess and a "consent to not be a single being".
+
+More over, the general feeling Julika had over my interest in git was mainly about tracking and self-tracking. Which is true but also, as I see it personally, a mere starting point to move towards many other different loci (loci? places?).Yet, the essential point of departure to talk about subjectivity and human-machine-human relationships.
+
+As I was thinking this morning, self-tracking in git is not the same as all the other apps or the general trend about the quantified-self. Or is it? I am not sure self-tracking in git presupposes a better understanding of yourself through your logged actions. It can be extremely helpful as a way to have a more granular overview and control over the project you are working on, but not necessarily bringing as side-effect a better picture of how you work.
+
+Because that’s one of the central question: to which level of self-reflection can a tool like git can be used? Is it just a 2.0 pre-punched card? It is not.
+
+In re-reading what I wrote in `ow_draft--1`, I feel rejoice. There is a lot of stuff going which I just put aside because I thought I needed to go forward and find a completely new way for the project.
+
+(*Messy thoughts*)
+
+The main problem with me being unable to figure out a way to start to work on “embodying-git”, is that I need time to translate and find appropriate forms of physicality and sensorial stimulus for the videos.
+
+Interestingly enough, or quite shamefully, I almost completely avoided to look into the bros culture and its aesthetics. Similarly, the same happened for internet-based companies space environments. And more importantly, I have zero interest for the mythical figure fo the hacker. 
+
+At first, what I thought was quite inspiring was a film such as Tetsuo—The Iron Man. Though not clear, the main (?) characters looks like a middle class, white-collar dude finding a great interest in developing his own body into something else (than what it is now).
