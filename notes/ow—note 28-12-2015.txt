@@ -21,7 +21,12 @@ On a different note, quite far away from the research project itself, and more a
 
 I am ready to start to play with the first video out of the six I was thinking of making, since I reached a good-enough point where I more or less know what kind of elements I want to put in it.
 
+Last night I decided I want to use snippets of J.G. Biberkopf’s latest albume, *Ecologies*. I already saved a quote from him some weeks ago:
 
+>> He says of the project’s inception, that he was intrigued by an oddly “naive idea of nature that seemed strikingly prevalent in my social environment.. I was curious to know how these simulations of Nature work in digital media, how do we do experience these simulated materials”.
+>> [J.G. Biberkopf](http://www.k-n-i-v-e-s.com) about his album “Ecologies”
+
+> Similarly, my interest with this video (probably “these videos”) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
 
 ### git-init
 
