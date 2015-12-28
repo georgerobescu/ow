@@ -21,7 +21,7 @@ Since I am just doing stuff without any clear cognition of why so, just after th
 * * *
 
 > He says of the project’s inception, that he was intrigued by an oddly “naive idea of nature that seemed strikingly prevalent in my social environment.. I was curious to know how these simulations of Nature work in digital media, how do we do experience these simulated materials”.
-[J.G. Biberkopf](http://www.k-n-i-v-e-s.com) about its album “Ecologies”
+[J.G. Biberkopf](http://www.k-n-i-v-e-s.com) about his album “Ecologies”
 
 Similarly, my interest with this video (probably “these videos”) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
 
