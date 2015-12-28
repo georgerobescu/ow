@@ -28,6 +28,8 @@ Last night I decided I want to use snippets of J.G. Biberkopf’s latest albume,
 
 > Similarly, my interest with this video (probably “these videos”) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
 
+The videos are not turning into music videos, or picturing *Ecologies*’ track list, rather I want to see if they could be a good layer in the creation of a particular mood for the videos.
+
 ### git-init
 
 > `git-init`, create an empty Git repository or reinitialize an existing one.
@@ -41,3 +43,14 @@ Last night I decided I want to use snippets of J.G. Biberkopf’s latest albume,
 > If the object storage directory is specified via the `$GIT_OBJECT_DIRECTORY` environment variable then the sha1 directories are created underneath—otherwise the default `$GIT_DIR/objects` directory is used.
 
 > Running *git init* in an existing repository is safe. It will not overwrite things that are already there. The primary reason for rerunning *git init* is to pick up newly added templates (or to move the repository to another place if --separate-git-dir is given).
+
+Two small windows are showing 1) the git-init command (`cd` into desktop; `mkdir` a new folder called “embodying-git”; `cd` into it; perform `git init`); and 2) a file manager app (Transmit) moving into the new created folder to show the .git folder (which is a hidden folder, hence impossible to see using Finder.app, whereas with Transmit.app it’s possible to show hidden files and folders).
+
+What’s the main action performed by a human body? Some hidden folder to keep tracks of other non-hidden (main?) folders are created to build as the skeleton of the tracking tool:
+* cutting big green leaves with a small knife
+* cutting an avocado in two and sucking the pit
+* setting up one’s own working table
+* diving into water with a rope
+* cutting one’s own arm in order to prepare oneself for the transformative process coming soon
+* making one’s hair: using a comb, fix them with a hair elastic bracelet
+* 
