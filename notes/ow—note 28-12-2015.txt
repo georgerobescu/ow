@@ -1,0 +1,38 @@
+It’s been a while since I am writing here, and I also had quite different thoughts and ideas to track down.
+
+Let’s go brutally with a list:
+1. research question’s definition: in a possible future where work would be unnecessary as a basic function to keep going on living (see [Inventing the Future](http://andrefincato.com/ow/inventing-the-future-postcapitalism-and-a-world-without-work)), what would it be the repercussion to the labour happening on the internet and for the internet, in particular to the “maintenance work”?
+2. refined more and more what kind of elements I want to use in the embodying-git’s videos (such as a short voice over introduction, and mixed with material captured in the physical world, lots of screencaptures of my computer; using snippets of J.G. Biberkopf’s Ecologies album); working with associations.
+3. ???
+
+* * *
+
+On a different note, quite far away from the research project itself, and more about personal considerations regarding my staying in Amsterdam: 
+1. I came to realise how much I am interested in practicing writing as a new tool and space of action in and for itself. Together with the practice of observation and of thinking, I want to use writing as a way to get lost and find myself in different places I could not have reached if it wasn’t for me vomiting down written words on a screen and on paper.
+2. I am very excited to work on the [arachne](http://arachne.cc)’s project, both because it’s quite related to my general research, and also because it gives me the chance to get in contact with new people and in parallel to be a working actor within the project—with the possibility to reflect on what I’m doing for research purposes as well.
+3. For as much I am concerned in developing a project (or series of projects as I was planning at the beginning of the year), I am more and more convinced that using this time to start as many different and not necessarily related projects to the master programme is as good if not a better approach than I initially thought. Meaning that these two years are opening me up to different possible scenarios and the master project is just one of the different things I am into. To go back to the interest in cultivating writing as a necessary tool to make things, if I had to just look at what writing is giving me in regards to the research project, I would say it is making me wasting mostly time—time that I should spend in producing more visible things. Yet, I just see this direction towards writing that I’ve taken one of the best things I could possibly do, since I am improving my skills (lol at the skill-classes by XML).
+4. I decided to translate into English the workshop “salvaschermo” since, first of all because I am almost never in Italy, I won’t have that much time to invest in it in an Italian context. But I am very much looking forward to keep working on it and present it somewhere in The Netherlands. It’s a different project from the one I am doing for the Master, but it could be seen as a possible output of it or also as a parallel thought beside work (or together with work, as long as some of the topics I am touching upon in the workshop can be seen as work). Anyway, something I’d like to make happen this year. I tried last Summer but with very time and several problems along the way it failed.  Try again, try again.
+
+*I might cut and paste this body of text somewhere else probably*.
+
+* * *
+
+## embodying git
+
+I am ready to start to play with the first video out of the six I was thinking of making, since I reached a good-enough point where I more or less know what kind of elements I want to put in it.
+
+
+
+### git-init
+
+> `git-init`, create an empty Git repository or reinitialize an existing one.
+
+#### Description
+
+> This command creates an empty Git repository—basically a `.git` directory with subdirectories for `objects`, `refs/heads`, `refs/tags`, and template files. An initial `HEAD` file that references the HEAD of the master branch is also created.
+
+> If the `$GIT_DIR` environment variable is set then it specifies a path to use instead of `./.git` for the base of the repository.
+
+> If the object storage directory is specified via the `$GIT_OBJECT_DIRECTORY` environment variable then the sha1 directories are created underneath—otherwise the default `$GIT_DIR/objects` directory is used.
+
+> Running *git init* in an existing repository is safe. It will not overwrite things that are already there. The primary reason for rerunning *git init* is to pick up newly added templates (or to move the repository to another place if --separate-git-dir is given).
