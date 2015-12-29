@@ -25,4 +25,4 @@ Since I am just doing stuff without any clear cognition of why so, just after th
 
 Similarly, my interest with this video (probably “these videos”) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
 
-I am also very hardly trying to avoid the metaphor of the genesis with this first video about `git-init`. So much. Every reference to something *just born* are nauseous.
+I am also very hardly trying to avoid the metaphor of the genesis with this first video about `git-init`. So much. Every reference to something *just born* is nauseous.
