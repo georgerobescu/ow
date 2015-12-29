@@ -1,0 +1,14 @@
+# peer2peer production, watching a film while it’s downloading itself
+
+Last Spring a visiting tutor suggested me to visually record the moment when a film is downloading its data, thanks to other people sharing the file on a torrent server, and transform that moment of data-acquisition into the film itself (instead of the film once it has been completely downloaded).
+
+Last night I thought that a viable option to make this happen would be to screen recording the video file from the very beginning it has been created on my hdd:
+* download a torrent file of a film
+* open it up with ha video application (is that possible)
+* keep it open and start a screen (and audio) recording with QuickTime Player
+
+(*gonna try now*)
+
+It’s not possible to open a .part file of the torrent file you are downloading. To me it seems very strange. How do you read incomplete data?
+
+I opened a .part file with Sublime Text 3, which is the text-editor I use to write code, and it translated that partial file in a series of 4 digit numbers. After a couple of lines it starts to just `0000` instead of `5249` or `4646`.
