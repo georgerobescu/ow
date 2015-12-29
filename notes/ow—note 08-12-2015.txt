@@ -24,11 +24,11 @@ In re-reading what I wrote in `ow_draft--1`, I feel rejoice. There is a lot of s
 
 The main problem with me being unable to figure out a way to start to work on “embodying-git”, is that I need time to translate and find appropriate forms of physicality and sensorial stimulus for the videos.
 
-Interestingly enough, or quite shamefully, I almost completely avoided to look into the bros culture and its aesthetics. Similarly, the same happened for internet-based companies space environments. And more importantly, I have zero interest for the mythical figure fo the hacker. 
+Interestingly enough, or quite shamefully, I almost completely avoided to look into the bros culture and its aesthetics. Similarly, the same happened for internet-based companies space environments. And more importantly, I have zero interest for the mythical figure of the hacker. 
 
 At first, what I thought was quite inspiring was a film such as *Tetsuo—The Iron Man*. Though not clear, the main (?) characters looks like a middle class, white-collar dude finding a great interest in developing his own body into something else (than what it is now). Namely, overcoming the neat separation between human flesh and metal(-made) machine. Not completely transforming into a machine but retaining, indeed, some fundamental aspects of the human body or of what it is to be human.
 
-Although I am not planning to work on this kind of transformation (yet?), I am quite drawn by the visual elements of the film because it’s very much rough in different ways: it is shot on black and white film; it has a violent and direct aesthetic regarding the portraying of the bodies and the overall “reality” of the film, it’s very punk—indeed one of the finest? example of Japanese cyberpunk (≠ from American cyberpunk); sexuality is heavily present and especially a particular description of the body (people sweating a lot, people’s way of breathing, people’s facial expression), which is between a manga style and a Brechtian kind-of theatre?
+Although I am not planning to work on this kind of transformation (yet?), I am quite drawn by the visual elements of the film because it’s very much rough in different ways: it is shot on black and white film; it has a violent and direct aesthetic regarding the portraying of the bodies and the overall “reality” of the film, it’s very punk—indeed one of the finest? example of Japanese cyberpunk (≠ from American cyberpunk); sexuality is heavily present and especially a particular description of the body (people sweating a lot, people’s way of breathing, people’s facial expression), which is in-between a manga style and a Brechtian kind-of theatre?
 
 And then it’s crazy and (positively?) nihilistic in its intent to set on fire the world and turn it all into a big junkyard of rusty pieces of metal. “Let’s finish off humanity once and for all!”.
 
@@ -38,7 +38,7 @@ The female model, or actress?, was doing (making?) some exercises using the offi
 
 These pictures are very telling of different aspects of the “modern” life in the office—should it still be labeled as modern? Or, rather post-fordist?
 
-It’s funny how these kind of pictures are completely “modern” to my eyes, if we put aside the updated clothes and office environment (large-leaf plants, beige printer, white desks, iMacs, etc). That’s indeed the kind of ideal Apple and the “hip” office culture aim at. Very much nostalgic of the 60s.
+It’s funny how these kind of pictures are completely “modern” to my eyes, if we put aside the updated clothes and office environment (large-leaf plants, beige printers, white desks, iMacs, etc). That’s indeed the kind of ideal Apple and the “hip” office culture aim at. Very much nostalgic of the 60s.
 
 I am not interested in that type of aesthetic, though in regard to the kind of office environment I am still planning to shoot the videos at the studio, using my white desk and blue curvy chair as the two main elements of the scene (or at least that’s what happened with the first attempt a couple of weeks ago).
 
@@ -53,25 +53,25 @@ I have some motivations for why using this format and for why I want to explore 
 
 > Similarly, my interest with this video (probably “these videos”) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
 
-Still, my initial idea was to explore the possibilities of five-six selected basic commands you can do on in with git. So, beginning from the word itself, always a verb, moving on and, probably using a grid of some sorts (e.g. the five points present in `ow_draft--1` and used as chapters of the text-manifesto) exploring this verb in regard to git and to (digital) post-fordist labour happening in on and for the internet.
+Still, my initial idea was to explore the possibilities of five-six selected basic commands you can do with git. So, beginning from the word itself, always a verb, moving on and, probably using a grid of some sorts (e.g. the five points present in `ow_draft--1` and used as chapters of the text-manifesto) exploring this verb in regard to git and to (digital) post-fordist labour happening in on and for the internet.
 
 Probably one big thing I still have to think about is: what kind of person I am interested in? And moreover, how much is that important?
 
 As of now, I see two possibilities for that:
 1. yes, it is of utter importance because of the overall way the videos are built (a body accomplishing specific actions)
-2. no, it’s not so much relevant because this actions are filmed in  a way the subject itself, the body, it’s as much useful as to give shape to these actions
+2. no, it’s not so much relevant because this actions are filmed in a way the subject itself, the body, it’s as much useful as to give shape to these actions
 
 Which means choosing the subject is very much important.
 
 To go back to certain trajectories I was doing with my mind, specifically regarding a big anxiety towards laying down some foundations for the research project, the question of which kind of body and subjects was persistently present. Almost a fever.
 
-I somehow feel a strong connection between feminist politics and  the kind of specific research I am bringing on, internet and labour. As in: most kind of labour happening on and for the internet nowadays can be compared and is connected to all the so labelled care and affective labour which took visibility during the 70s in europe (refuse to write europe with a capital e), usa and japan (to name a few place I can be sure of—I’m still afraid of the consequences of generalisation).
+I somehow feel a strong connection between feminist politics and  the kind of specific research I am bringing on, internet and labour. As in: most kind of labour happening on and for the internet nowadays can be compared and is connected to all the so labelled care and affective labour which took visibility during the 70s in europe (refuse to write europe with a capital e), usa and japan (to name a few places I can be sure of—I’m still afraid of the consequences of generalisation).
 
 First of all: male body or female body? Trans-body? How is that relevant for the characterisation of the videos? 
 
 What if I choose to be myself the subject of this?
 
-More than the kind of body portrayed, I think it is also of very importance the way I develop the politics surrounding it. I openly (what’s close?) built the foundation of the project around a (personal?) perspective of what feminism is and can be. This because of an idea of building subjectivities which starts from the way you live and perceive your body and how your body is, conversely, perceived, to a move towards the central activity of “work” as the main (or one of the most prominent ones) factor that shapes your being at the world and hence your experience of it. If then internet has become a natural state of being, at least in europe (but sure not only), what happens when two basic factors like work (labour) and the internet collide, in the constant definition of the self?
+More than the kind of body portrayed, I think it is also of very importance the way I develop the politics surrounding it. I openly (what’s close?) built the foundation of the project around a (personal?) perspective of what feminism is and can be. This because of an idea of building subjectivities which starts from the way you live and perceive your body and how your body is, conversely, perceived, to a move towards the central activity of “work” as the main (or one of the most prominent ones) factor that shapes your being in the world and hence your experience of it. If then internet has become a natural state of being, at least in europe (but sure not only), what happens when two basic factors like work (labour) and the internet collide, in the constant definition of the self?
 
 
 * * *
