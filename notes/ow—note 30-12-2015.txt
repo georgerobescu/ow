@@ -1,5 +1,7 @@
 # Embodying git
 
+## git-add
+
 I won’t move on to `git-clone` (for now), and instead will work on `git-add`.
 
 > This command updates the index using the current content found in the working tree, to prepare the content staged for the next commit. It typically adds the current content of existing paths as a whole, but with some options it can also be used to add content with only part of the changes made to the working tree files applied, or remove paths that do not exist in the working tree anymore.
@@ -23,3 +25,14 @@ Some images:
 * cutting in half a cactus
 * opening a fava bean up
 * massaging a bundle (?) of grass
+
+* * *
+
+## git-status
+
+> (1) Displays paths that have differences between the index file and the current HEAD commit, (2) paths that have differences between the working tree and the index file, (3) and paths in the working tree that are not tracked by Git (and are not ignored by gitignore). The first are what you *would* commit by running `git commit`; the second and third are what you *could* commit by running *git add* before running `git commit`.  
+(⤷ [source](http://www.git-scm.com/docs/git-status))
+
+How are things going? What’s different from before compared to the HEAD commit?
+
+Repetition as difference ☹
