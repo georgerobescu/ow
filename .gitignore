@@ -10,6 +10,20 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
+# File specific
+# .psd
+# .idd
+# .ai
+# .sketch
+# .mov
+# .mp3
+# .mp4
+# .als
+# .asd
+# .aif
+# .avi
+
+
 # Folder specific
 projects/ow_draft--1/text-to-speech
 projects/Immaterial Labour Isn't Working—Recordings/
