@@ -6,40 +6,38 @@
 
 28-09-2015
 
-I am thinking of translating and or traducing some git commands (at first let’s say five, more or less the basic ones), into space, though the use of physical actions and the body. This time, I also fantasised about filming each action—not sure if for *studying* it afterward or as the real final stage of it (artefact).
-
-Anyway, when last week I though about it, it was one night right when I lay down on my bed before got asleep, I probably also knew what was the reason behind this exercise, the connection between the non-physical (is it?) and the physical, the software and the hardware? between the software and the softbody? Right now I don’t remember it but after these words here I’ll probably turn around with my mind again about it and will be able to get back to the point which made me think of doing this. Or a new one, also.
+Anyway, when last week I though about it, it was one night right when I lay down on my bed before got asleep, I probably also knew what was the reason behind this exercise, the connection between the non-physical (is it?) and the physical, the software and the hardware? between the software and the softbody?
 
 A list of the basic git commands, taken from [gitref.org](http://gitref.org):
 
 **Getting and Creating Projects**
-* `git-init`
+* `git-init` @yes
 * `git-clone`
 
-Basic Snapshotting
-* `git-add`
-* `git-status`
+**Basic Snapshotting**
+* `git-add` @yes
+* `git-status` @yes
 * `git-diff`
-* `git-commit`
+* `git-commit` @yes
 * `git-reset`
-* `git-rm`
+* `git-rm` @yes
 * `git-mv`
 * `git-stash`
 
-Branching and Merging
+**Branching and Merging**
 * `git-branch`
 * `git-checkout`
 * `git-merge`
 * `git-log`
 * `git-tag`
 
-Sharing and Updating Projects
+**Sharing and Updating Projects**
 * `git-fetch`
 * `git-pull`
 * `git-push`
 * `git-remote`
 
-Inspection and Comparison
+**Inspection and Comparison**
 * `git-log`
 * `git-diff`
 
@@ -64,11 +62,11 @@ The first thought that I had for translating internet out of the purely demateri
 
 ASMR is a phenomenon apparently born on the internet, out of youtube videos, as a way to relax and calm people down through a medium (internet and the computer screen) which perform a different (if not opposite) action on the user/viewer: that of excitement and anxiousness.
 
-The screen spits out light on you face and on your retina, keeping you in an state of almost hypnosis. When you go to bed your eyes will be still full of that holy light which comes out from your computer screen (and with computer I mean also smartphone, or phones).
+The screen spits out light on you face and on your retina, keeping you in an state of almost hypnosis. When you go to bed your eyes will be still full of that holy light which comes out from your computer screen (and with computer I mean also phones, etc.).
 
 So it's quite interesting the fact that through these videos, people are in a way trying to produce the opposite effect of what, naturally (lol the word nature), a screen produces on a person' eyes and the internet on a person' mind. It's a site of research about the physical effect which the two vectors produces on one's body.
 
-At the same time, relating more closely to the idea of the General Intellect, of the internet worker, the digital worker, of someone working in front of a screen, these artefacts sparkle a light of interest in the direction of self-care, attention to one's physical and mental health. Paradoxically, or actually not—very much contained in the way of thinking and acting of someone who makes use of the internet nowadays (? what am I saying?)—finding relieve from screen's fatigue happens through the act of searching for something on the internet (or stumbling upon it by *accident* on the internet, in one your of your streams).
+At the same time, relating more closely to the idea of the General Intellect, of the internet worker, the digital worker, of someone working in front of a screen, these artefacts sparkle a light of interest in the direction of self-care, attention to one's physical and mental health. Paradoxically, or actually not—very much contained in the way of thinking and acting of someone who makes use of the internet nowadays (? what am I saying?)—finding relieve from screen's fatigue happens through the act of searching for something on the internet (or stumbling upon it by *accident* on the internet, in one of your streams).
 
 * * *
 
@@ -111,40 +109,14 @@ I don’t know if I really want to use the amniotic fluid metaphor but okay. I a
 
 23-11-2015
 
-Put together myself (can’t find a reason either to wake up in the morning nor to go to sleep at night since a month or so) and pushed myself over to shoot a firs sketch for the video I am envisioning in my head during the last weeks.
-
-iPhone kept together with a rubber band to a glass, in order to form a tripod. Both on top of the highest podium that we have at the studio. Started recording and set the light. Slowly clean out my white table form the notebooks and the papers, the books, the laptop, the cups. Took off the iPhone’s view the blue chair and the backpack. Disconnected the charger from the outlet. Took the grey brick next to the wall and the heater off view.
-
-Switched off the lamp and put it away.
-
-Then waited for a while, maybe one or two minutes. Put tape around the podium to mark its position. Check the photography of the scene.
-
-Blue chairs put in front of the table. Put back the computer. Another pause between the setting up of each element on the table. Brought books. And notebooks. And keys.
-
-Put back the lamp and turned it on.
-
-Had so much difficulty to watched the almost 20 minutes of video and mark where things happen, actions took place and changes are made visible.
-
-Cut up five or six moments out of the first part where the camera is just looking at an empty table devoid of anything. Played with colour-variation: from very red to very blue; in between tones. When at the end of the sequence I switched on the lamp colours got less weird and moved back from a very blue tone to an almost *normal* one—but not completely.
-
-Since I am just doing stuff without any clear cognition of why so, just after this one hour video editing session I realised how much, in terms of preparation (git-init) to a working environment, this colour variation really helps to draw attention to a passage between before and after. Before I had this passage more clear in my mind, I wanted to write something about it—no I forgot and maybe it will comeback.
-
-* * *
-
 > He says of the project’s inception, that he was intrigued by an oddly “naive idea of nature that seemed strikingly prevalent in my social environment.. I was curious to know how these simulations of Nature work in digital media, how do we do experience these simulated materials”.
-[J.G. Biberkopf](http://www.k-n-i-v-e-s.com) about his album “Ecologies”
+[J.G. Biberkopf](http://www.k-n-i-v-e-s.com) about his album “Ecologies”.
 
 Similarly, my interest with this video (probably “these videos”) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
-
-I am also very hardly trying to avoid the metaphor of the genesis with this first video about `git-init`. So much. Every reference to something *just born* is nauseous.
 
 * * *
 
 08-12-2015
-
-Before I forget for real, last week I had this thought in mind after a while: the suggestion that an “artist” gave me during a tutorial last spring, in regards to my research. Making a film where you can see (as if it was) in real time, the aggregation of the different bits of that file assembling and mixing together, in order to form the final, fully downloaded video file.
-
-This means starting the film with an almost black screen and intermittent but noisy audio and then, slowly, as a direct reference to the genesis (really?) and or the creation of the world (really?), progressing towards the middle of the film with more and more details for eventually reaching the end of it where, probably, you will be able to see if not a scene, maybe a short snippet or a couple of stills fully formed.
 
 I just finished to read a paper on obfuscation called “Vernacular resistance to data collection and analysis: A political theory of obfuscation”. I am not sure that’s a direction I want to take research-wise (or maybe not as the primary one), but still aesthetically I find it very interesting, because it reminds me of the exhibition which took place during the month of October at w139. It was called Ch’u, and it was about
 
@@ -157,8 +129,6 @@ More over, the general feeling Julika had over my interest in git was mainly abo
 As I was thinking this morning, self-tracking in git is not the same as all the other apps or the general trend about the quantified-self. Or is it? I am not sure self-tracking in git presupposes a better understanding of yourself through your logged actions. It can be extremely helpful as a way to have a more granular overview and control over the project you are working on, but not necessarily bringing as side-effect a better picture of how you work.
 
 Because that’s one of the central question: to which level of self-reflection can a tool like git can be used? Is it just a 2.0 pre-punched card? It is not.
-
-In re-reading what I wrote in `ow_draft--1`, I feel rejoice. There is a lot of stuff going which I just put aside because I thought I needed to go forward and find a completely new way for the project.
 
 Interestingly enough, or quite shamefully, I almost completely avoided to look into the bros culture and its aesthetics. Similarly, the same happened for internet-based companies space environments. And more importantly, I have zero interest for the mythical figure of the hacker.
 
@@ -174,9 +144,6 @@ These pictures are very telling of different aspects of the “modern” life in
 
 Still, my initial idea was to explore the possibilities of five-six selected basic commands you can do with git. So, beginning from the word itself, always a verb, moving on and, probably using a grid of some sorts (e.g. the five points present in `ow_draft--1` and used as chapters of the text-manifesto) exploring this verb in regard to git and to (digital) post-fordist labour happening in on and for the internet.
 
-Random stuff but still:
-* this body is mute
-
 * * *
 
 28-12-2015
@@ -185,7 +152,7 @@ Last night I decided I want to use snippets of J.G. Biberkopf’s latest albume,
 
 The videos are not turning into music videos, or picturing *Ecologies*’ track list, rather I want to see if they could be a good layer in the creation of a particular mood for the videos.
 
-What’s the main action performed by a human body? Some hidden folder to keep tracks of other non-hidden (main?) folders are created to build as the skeleton of the tracking tool:
+What’s the main action performed by a human body? Some hidden folder to keep tracks of other non-hidden (main?) folders are created to build the skeleton of the tracking tool:
 * cutting big green leaves with a small knife
 * cutting an avocado in two and sucking the pit
 * setting up one’s own working table
