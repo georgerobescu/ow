@@ -1,0 +1,17 @@
+# Immaterial Labour Isn’t Working—The Shape of the Contemporary Workplace
+
+*Notes taken from the podcast*.
+
+* Worker’s Inquiry as a methodology to make research on workers’ conditions
+* How does the kind of job you do shape the politics you have? (see Pierre Bourdieu's *Class Analysis*) It failed for immaterial labour
+* Pathology of immaterial labour, see “Bifo”
+* No external enemy (a boss), but at worst your friends (e.g. you’re freelancing with for them)
+* Co-working spaces as continuous mental breakdowns (when you turn to your mate on the right and he screams at you “I’m trying to video-skyping with client x”.
+* Informal relationship with a friend who commissioned you a job, hierarchies are still present but invisible (unlike in an office): this is a systemic thing, you do this yourself with other “collaborators”
+* A programmer working in his sleep: which kind of politics can you have in that space?
+* Precarity as an option ≠ precarity as the only working state, the normal state of things
+* Working on the infrastructure to communicate your work (website, twitter, email) is often not seen as labour but something to take care of and an integral part of your job (see Melissa Gregg’s *Work's Intimacy*)
+* Turning a co-working space from a simple place where not working alone (but probably still feeling alone) to a common project where having a co-working space during the day and an art gallery and political space at night
+* The difference between the deep web and the “normal” internet: deep web, all the extra setup you have to take care of (personal tor, personal email account on your own server, etc.) becomes an extra work to do and *to maintain* up-to-date → producing online freedom will/would become a work in itself
+* The only way to do a strike if you’re an “immaterial worker” is to properly get sick and not being able to even check your emails on the phone while on bed, and working in your sleep
+* The difference between alienated work and non-alienated work, in the making of your own tools (see above tor and the deep web)
