@@ -15,7 +15,7 @@ I won’t move on to `git-clone` (for now), and instead will work on `git-add`.
 > The `git add` command will not add ignored files by default. If any ignored files were explicitly specified on the command line, `git add` will fail with a list of ignored files. Ignored files reached by directory recursion or filename globbing performed by Git (quote your globs before the shell) will be silently ignored. The *git add* command can be used to add ignored files with the `-f (force) option.    
 (⤷ [source](https://git-scm.com/docs/git-add))
 
-First of all (if that’s even possible), is that `git-add` starts tracking a folder or a set of files. After the first `git-add`, the command is used to add new files to the repo to be staged and processed. New as in, files that have been changed/modified/edited (merged, and so forth).
+First of all (if that’s even possible), `git-add` starts tracking a folder or a set of files. After the first `git-add`, the command is used to add new files to the repo to be staged and processed. New as in, files that have been changed/modified/edited (merged, and so forth).
 
 After you put under tracking a folder or a bunch of files, you can decide to ignore or exclude some of them, either for that specific commit or for the rest of the project.
 
