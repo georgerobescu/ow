@@ -1,0 +1,42 @@
+# embodying-git
+
+## git-commit
+
+> Stores the current contents of the index in a new commit along with a log message from the user describing the changes.
+
+> The content to be added can be specified in several ways:
+
+> 1. by using *git add* to incrementally "add" changes to the index before using the *commit* command (Note: even modified files must be "added");
+
+> 2. by using *git rm* to remove files from the working tree and the index, again before using the *commit* command;
+
+> 3. by listing files as arguments to the *commit* command, in which case the commit will ignore changes staged in the index, and instead record the current content of the listed files (which must already be known to Git);
+
+> 4. by using the -a switch with the *commit* command to automatically "add" changes from all known files (i.e. all files that are already listed in the index) and to automatically "rm" files in the index that have been removed from the working tree, and then perform the actual commit;
+
+> 5. by using the --interactive or --patch switches with the *commit* command to decide one by one which files or hunks should be part of the commit, before finalizing the operation. See the “Interactive Mode” section of git-add[1] to learn how to operate these modes.
+
+> The `--dry-run` option can be used to obtain a summary of what is included by any of the above for the next commit by giving the same set of parameters (options and paths).
+
+> If you make a commit and then find a mistake immediately after that, you can recover from it with *git reset*.
+
+(⤷[source](http://www.git-scm.com/docs/git-commit))
+
+Git commit as that series of photographs I found on The Gentlewoman magazine, in which a young woman performs several physical exercises to keep herself in good shape while at work in an office environment: desks, printers, plants, etc.
+
+* * *
+
+# Usership and peer2peer production
+
+What is peer2peer production?
+How will it be considered when a universal basic income will be established for everybody? (also what does everybody means?)
+
+Peer2peer production transforms every labour fragmented and monetised in accordance to one’s contribution: will this mean a transformation of one’s actions (see using the internet) as a constant flux of production?
+
+How does peer2peer production position itself in regard to “digital free labour”? How do we keep internet’s infrastructure stable and working?
+
+If nowadays peer2peer production is an alternative form of production against capitalism (in a defensive way?)—redistributing value creation in a more equal and fair away—what will happen when work for a living will not be necessary anymore? Will we value our action towards the production of something as a form to be monetary-valued of will it be possible to just “make and share”?
+
+*All this is bullshit, they already share as much resources and knowledge as possible, when they don’t is to fight someone and or something making a profit out of commonly shared resources*.
+
+This is not interesting.
