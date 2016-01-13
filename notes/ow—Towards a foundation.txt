@@ -99,3 +99,24 @@ The passage from worker to user and from labour, or work, to usership.
 A thought I had during the last days, right after the end, the past weekend, of the month-long symposium organised by w139 and called Idiotic Code: On Usership Resistance.
 
 Could we start to call nowadays workers who makes use of the internet to accomplish their work, users? And could we include in this space also people who just make use of the internet, hence becoming internet users and accomplishing other kinds of labour? For many of the things people do on the internet, or use the internet for, the distinction between simply using a service and involuntarily working for such service has ceased to exist. We can clearly say that they are working.
+
+* * *
+
+13/01/2015
+
+My focus for the research project is on the transformation from worker to user and the the process of becoming something else, or becoming other, of this subject.
+
+I am interested in showing and telling how this becoming other happens, or how this might happen: in this way I can highlight some fundamentals turning points and important elements which take place in this process and also build and shape a narrative around it.
+
+The project will become then a way to show this transformation and at the same time a way to give a series of self help tools and other materials for anyone in the midst of this process.
+
+The video series embodying git will be the first step out of five possible passages, which will form the project.
+
+Others are:
+* a series of instructions on how to get a fever
+* an audio podcast on living through this fever and how to get over it
+* a website displaying a best of tools selection of books and other materials on how to get a better knowledge of this transformation and how to live through it, which at the same time works for me as a way to perform the role of a maintenance worker (such as a wikipedia contributor—thinking indeed how it will be to create a wikipedia page as well): all the material present in the website is either linked to a source from which it is freely downloadable and or it is directly downloadable from the website (I want to both touch upon this aspect of internet usership, see how this goes in conflict with p2p production best practices and also relating to Anna Nimus’ text “Copyright, Copyleft And The Creative Anti-Commons”).
+
+I’m still very much strongly influenced by w139’s show Ch’u and the related one month talks and workshop titled “On Resistant Usership”. I would like, anyway, to move this usership from being resistant to be transformative and pro-active (see Inventing the Future and their critique on the practice of *resistance*).
+
+Also, that temporary sauna built inside w139 is, for now, a form of inspiration for the two sketchy ideas of “how to get a fever and how to get over it”. I am thinking very much about the idea of the ill body as a decisive moment to stop being a worker, making the only possible strike if you’re an “immaterial worker” (see The Shape of Contemporary Workplace, from Immaterial Labour Isn’t Working).
