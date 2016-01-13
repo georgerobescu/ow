@@ -110,11 +110,12 @@ I am interested in showing and telling how this becoming other happens, or how t
 
 The project will become then a way to show this transformation and at the same time a way to give a series of self help tools and other materials for anyone in the midst of this process.
 
-The video series embodying git will be the first step out of five possible passages, which will form the project.
+The video series *embodying git* will be the first step out of five possible passages, which will form the project.
 
 Others are:
 * a series of instructions on how to get a fever
 * an audio podcast on living through this fever and how to get over it
+* a screencast of a film being downloaded from a torrent site and being played from the very possible beginning (to see how data is composing and giving informations to the film itself)
 * a website displaying a best of tools selection of books and other materials on how to get a better knowledge of this transformation and how to live through it, which at the same time works for me as a way to perform the role of a maintenance worker (such as a wikipedia contributor—thinking indeed how it will be to create a wikipedia page as well): all the material present in the website is either linked to a source from which it is freely downloadable and or it is directly downloadable from the website (I want to both touch upon this aspect of internet usership, see how this goes in conflict with p2p production best practices and also relating to Anna Nimus’ text “Copyright, Copyleft And The Creative Anti-Commons”).
 
 I’m still very much strongly influenced by w139’s show Ch’u and the related one month talks and workshop titled “On Resistant Usership”. I would like, anyway, to move this usership from being resistant to be transformative and pro-active (see Inventing the Future and their critique on the practice of *resistance*).
