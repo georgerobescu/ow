@@ -1,0 +1,6 @@
+# Embodying git
+
+## git-??
+
+Take as a reference also:
+* [sudoku](https://en.wikipedia.org/wiki/Sudoku) (e.g. find videoclips from youtube of videogames playing the game)
