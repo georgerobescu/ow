@@ -1,0 +1,19 @@
+# transmediale
+
+Sent application for a workshop about [Planetary Scale Design](http://2016.transmediale.de/content/exploring-planetary-scale-design), held by Sarah T Gold Ola Möller Carina Namih Ben Vickers.
+
+> The American conglomerate Alphabet acquires one company every week, investing itself in every sector imaginable. Planetary scale systems such as this, from the Kyoto Protocol and ISO standards to cloud computing, are growing vastly in size and number. As algorithmic capitalism advances, these megastructures begin to own and control more layers within infrastructure “stacks,” which are largely invisible but link us all in global neural networks. But we only become aware of these oligopolies when something goes wrong. We only debate or discuss what they mean once they have already become monoliths. This workshop instead aims to anticipate: to explore, understand, and debate what planetary scale systems and organizations mean for our future.
+
+Here what I submitted, knowing nothing about the concept of the “stack” and on planetary scale design (which in an exchange with Gen I defined as “geo-design politics”).
+
+**Professional connection to planetary scale design**
+
+I'm doing an MFA about the transformations happening in the discourse of usership, from the perspective of labour (worker:user=labour:usership).
+
+**How would you define planetary scale design**?
+
+Zara offshores their designs to a third party company for production and its cargo shipment to the final destinations spanning continents.
+
+**Which areas of planetary scale design would you like to see explored in the workshop**?
+
+Exploring how much the aspect of maintenance work is becoming more and more a task given to users instead of being fully automatised by machines.
