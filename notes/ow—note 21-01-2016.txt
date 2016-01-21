@@ -1,0 +1,13 @@
+# embodying-git
+
+## git-init
+
+Reached a good point, where I began to play with the visual grain of the video, e.g. fucking around with the idea of adding blue and red overlayers, from blue to red and from red to blue and from blue to the “normal” color and from red to the “normal” color.
+
+The reason behind this was finally giving a spin to f.lux, an application that automatically add more red to your computer screen, based on the time of the day and on your alarm clock.
+
+For example, when it’s night, it will be very much orange-y, instead of being deadly and cleanly blueish. This helps your eyes not to get tired, and especially to go to sleep with less “retina excitement and or fatigue”. Meaning that, since the screen of the devices we use everyday had began to be more and more blue, counter-acting this with red (hence moving towards an orange-brownish shade) is a strategy to prevent our eyes to bleed every night when we go to sleep.
+
+Ideally, shifting between a more red to a more blue overlay screen, is a hint to suggest the movement between machine and human?
+
+The spectrum moves between “extremes”, but also find a yellow situation when the avocado pit is licked and ingested by those hands.
