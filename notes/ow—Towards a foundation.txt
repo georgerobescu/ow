@@ -2,9 +2,9 @@
 
 11/11/2015
 
-*This text file serves as a basis and especially a starting point for the project research `ow`*.
+*This text file serves as a basis and especially as a starting point for the research project `ow`*.
 
-## Democracy, freedom, as desert
+## Democracy, freedom as desert
 
 The first building block is a short snippet, taken from a video of Carmelo Bene (c.b. as Deleuze used to write) regarding the difference, in his perspective, between a dictatorship and a democratic state: what does one give to someone than the other does not, or can't? Why should democracy be a better political framework than a dictatorial government?
 
@@ -19,11 +19,11 @@ Here a transcript of the above video extract:
 > So I ask you: what does democracy guarantee that a dictatorship does not? Sure! It guarantees something—do you know what is it? It guarantees life to be unlivable. It doesn't figure out your life! Who chooses democracy, who chooses freedom, chooses the desert—if democracy were freedom at all. But democracy is nothing, democracy is pure demagogy.
 *Carmelo Bene at Maurizio Costanzo Show, Canale 5—Italy, 1994*.
 
-I take this position and understanding of democracy as one of the essential elements for the project research. Besides my very vivid interest towards Carmelo Bene, what I find compelling is the idea of democracy as a desert: do we really want to take part in what's going on? Okay, let's just give up, then, on every kind of possible god and just make use of ourselves. How far can we go with the embracement of freedom? How much do we want to be involved in everyday political and social decision of the community where we're living in? Deciding to take freedom as one of our core value, while being part of a community means we can't rely on someone else: if we do not make our part, things collapse. First of all because we can't even figure out a way to sustain ourselves. 
+I take this position and understanding of democracy as one of the essential elements for the research project. Besides my very vivid interest towards Carmelo Bene, what I find compelling is the idea of democracy as a desert: do we really want to take part in what's going on? Okay, let's just give up, then, on every kind of possible god and just make use of ourselves. How far can we go with the embracement of freedom? How much do we want to be involved in everyday political and social decision of the community where we're living ~~Deciding to take freedom as one of our core value, while being part of a community means we can't rely on someone else: if we do not make our part, things collapse. First of all because we can't even figure out a way to sustain ourselves.~~
 
 Comparing democracy to a desert equals to perform a big tabula rasa: what's our values, how do we stay together, how much do we want to rely on somebody else and what for.
 
-Demos. Chaos. Not as an impossible to play with disorder, rather, as a never-ending movement full of changes, a not defined vector. Better, a vector and not a segment with point A and point B.
+Demos. Chaos. Not as an impossible-to-play-with disorder, rather, as a never-ending movement full of changes, a not defined vector. Better, a vector and not a segment with point A and point B.
 
 What is a desert then? Freedom in c.b.'s words. As in, you have to deal yourself about your life. Take off your hands from any possible handhold, any God of some forms. The State? Certainly. Also the State. But, curiously, c.b. says that "it's possible to have a government without a State" (from the same talk show, Maurizio Costanzo '94).
 
@@ -35,9 +35,9 @@ Since my interest revolves around internet and labour, with a particular focus i
 
 ## Exhaustion of the identification of job as personal identity
 
-Federico Campagna's book "The Last Night", deals with the rising of the conception of job as personal identification and dissect the reasons for it to happen.
+Federico Campagna's book "[The Last Night](http://andrefincato.com/ow/annotations-for-the-last-night-by-federico-campagna)", deals with the rising of the conception of job as personal identification and dissect the reasons for it to happen.
 
-He compares work to God (≠god), and makes the point that in absence of some metaphysical entities to revere and curse, now work has taken that place (now as in the last twenty or more years? As in after WWII?). Work has become a new metaphysical entity in itself, a signifier for one's existence and appearance in the world. How do you take form? Through your job, which is not a *job* anymore, it is a life-long occupation, even when this occupation changes overtime and or takes other and different forms. Occupation because we adhere to it as our main occupation in life, it takes us completely, we're sucked from it.
+He compares work to God (≠god), and makes the point that in absence of some metaphysical entities to revere and curse, now work has taken that place (now as in the last twenty or more years? As in after WWII?). Work has become a new metaphysical entity in itself, a signifier for one's existence and appearance in the world. How do you take form? Through your job, which is not a *job* anymore, it is a life-long occupation, even when this occupation changes overtime and or takes other and different forms (cfr. precarity). Occupation because we adhere to it as our main occupation in life, it takes us completely, we're sucked in it.
 
 > At last, they could swap the ill-fated demand for freedom of religion with the emancipatory cry for freedom from any religion. At last, they could build for themselves communities that did not irradiate from any central totem.
 (*this also refers to the above use of the word desert when compared to democracy*)
@@ -46,15 +46,15 @@ He compares work to God (≠god), and makes the point that in absence of some me
 
 > There was only one possible, almost perfect candidate. The activity of repetition par excellence: Work.
 
-Work is then a re-creating entity, a never-ending activity which always asks for more and which we can't let go, or give up. The price is being aimless, without no God and no idea of what to do in this world. Freedom sucks a lot when this happens, because we can't even think of spending some time without doing anything in particular. Horror vacui in face of time which is always running (out?) and value (could be money, could be time, could be physical energy, etc).
+Work is then a re-creating entity, a never-ending activity which always asks for more and which we can't let go, or give up. The price is being aimless, without no God and no idea of what to do in this world. Freedom seems inconceivable when this happens, because we can't even think of spending some time without doing anything in particular. Horror vacui in face of time which is always running (out?) and value (could be money, could be time, could be physical energy, etc).
 
 > Every moment of the day that escapes the universe of Work is a wasted moment, a time of despair and loneliness.
 
-*The Last Night* is full of great examples and reflections on how to get out of the normative state of things, Society, social relationships, and so forth, in order to enter a... desert? Or better, to look at things with a different attitudine and perceive them with less religion on top of them.
+*The Last Night* is full of great examples and reflections on how to get out of the normative state of things, Society, social relationships, and so forth, in order to enter a... desert? Or better, to look at things with a different attitude and perceive them with less religion on top of them.
 
 Adventure and egoism are the two elements recalled in the book, which should be able to make us live a different life: no respect (in the sense of obedience and being caught from the past—and neither from the future), a sense of exhaustion for things, without any sense of immortality (for us, for events, etc.), an attitudine for escape the current reality not to shy away from it, but for breaking into it from a different angle (angles?).
 
-There is a word Franco "Bifo" Berardi told me when we had dinner together after the talk me and Alberto organised. He told the word "exhaustion". We should start to make use of it, to embrace it and to enact it. To get exhaust and just stop doing things for a while (at least that's what I got from it). This can be reconnected to the word squandering:
+There is a word Franco "Bifo" Berardi told me when we had dinner together, after the talk me and Alberto organised. He told the word "exhaustion". We should start to make use of it, to embrace it and to enact it. To get exhaust and just stop doing things for a while (at least that's what I got from it). This can be reconnected to the word squandering:
 > If religious discourses originate from the immortal sphere of normative abstractions, the antidote that we are seeking must exist outside of this sphere.
 > Despite appearances, potlatch still remains a highly religious gesture.
 > Squanderers dissipate their own wealth, but they do so only in their own interest and for their own enjoyment.
@@ -78,7 +78,7 @@ In particular, they make a good point on defining what absolute and universal me
 > Whilst capitalism is understood as a complex and ever-expanding totality, many would-be emancipatory anti-capitalist projects remain profoundly fearful of transitioning to the universal, resisting big-picture speculative politics by condemning them as necessarily oppressive vectors. Such a false guarantee treats universals as absolute, generating a debilitating disjuncture between the thing we seek to depose and the strategies we advance to depose it.
 *Xenofeminism: A Politics for Alienation—Laboria Cuboniks, pp. 6.*
 
-This understanding of the world's complexities and of the many possible realities inhabiting it as the universal, instead of the absolute (a finite end-point which equals to death) is better explained through and equivalent understanding with:
+This understanding of the world's complexities and of the many possible realities inhabiting it as the universal, instead of the absolute (a finite end-point which equals to death), is better explained with:
 > The universal must be grasped as generic, which is to say, intersectional.
 > (...) [intersectionality] a political orientation that slices through every particular, refusing the crass pigeon-holing of bodies.
 > This non-absolute, generic universality must guard against the facile tendency of conflation with bloated, unmarked particulars—namely Eurocentric universalism—whereby the male is mistaken for the sexless, the white for the raceless, the cis for the real, and so on.
@@ -102,9 +102,9 @@ Could we start to call nowadays workers who makes use of the internet to accompl
 
 * * *
 
-13/01/2015
+*13/01/2015*
 
-My focus for the research project is on the transformation from worker to user and the the process of becoming something else, or becoming other, of this subject.
+My focus for the research project is on the transformation from worker to user and on the process of becoming something else, or a becoming other, of this subject.
 
 I am interested in showing and telling how this becoming other happens, or how this might happen: in this way I can highlight some fundamentals turning points and important elements which take place in this process and also build and shape a narrative around it.
 
@@ -116,8 +116,8 @@ Others are:
 * a series of instructions on how to get a fever
 * an audio podcast on living through this fever and how to get over it
 * a screencast of a film being downloaded from a torrent site and being played from the very possible beginning (to see how data is composing and giving informations to the film itself)
-* a website displaying a best of tools selection of books and other materials on how to get a better knowledge of this transformation and how to live through it, which at the same time works for me as a way to perform the role of a maintenance worker (such as a wikipedia contributor—thinking indeed how it will be to create a wikipedia page as well): all the material present in the website is either linked to a source from which it is freely downloadable and or it is directly downloadable from the website (I want to both touch upon this aspect of internet usership, see how this goes in conflict with p2p production best practices and also relating to Anna Nimus’ text “Copyright, Copyleft And The Creative Anti-Commons”).
+* a website displaying a best of tools selection of books and other materials on how to get a better knowledge of this transformation and how to live through it, which at the same time works for me as a way to perform the role of a maintenance worker (such as a wikipedia contributor—thinking indeed how it will be to create a wikipedia page as well): all the material presents in the website is either linked to a source from which it is freely downloadable and or it is directly downloadable from the website (I want to touch upon this aspect of internet usership, see how this goes in conflict with p2p production best practices and also relating to Anna Nimus’ text “Copyright, Copyleft And The Creative Anti-Commons”).
 
 I’m still very much strongly influenced by w139’s show Ch’u and the related one month talks and workshop titled “On Resistant Usership”. I would like, anyway, to move this usership from being resistant to be transformative and pro-active (see Inventing the Future and their critique on the practice of *resistance*).
 
-Also, that temporary sauna built inside w139 is, for now, a form of inspiration for the two sketchy ideas of “how to get a fever and how to get over it”. I am thinking very much about the idea of the ill body as a decisive moment to stop being a worker, making the only possible strike if you’re an “immaterial worker” (see The Shape of Contemporary Workplace, from Immaterial Labour Isn’t Working).
+Also, that temporary sauna built inside w139 is, for now, a form of inspiration for the two sketchy ideas of “how to get a fever and how to get over it”. I am thinking very much about the idea of the ill body as a decisive moment to stop being a worker: a decisive moment for making the only possible strike if you’re an “immaterial worker” (see The Shape of Contemporary Workplace, from [Immaterial Labour Isn’t Working](http://autoitaliasoutheast.org/iliw13/recordings/)).
