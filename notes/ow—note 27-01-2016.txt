@@ -1,4 +1,4 @@
-# Notes for the midterm presentation
+# Notes for midterm presentation
 
 Transformation from worker to user:
 
