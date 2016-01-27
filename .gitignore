@@ -14,8 +14,8 @@ log/*
 !log/*.txt
 !log/*.md
 
-material/**/**
-!material/*index.txt
+material/**/*
+!material/**/*index.txt
 
 projects/*
 !projects/*.txt
