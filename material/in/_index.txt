@@ -1,58 +1,0 @@
-# index16/08/15 10:33:38 — Recordings – Immaterial Labour Isn't Working.webloc16/08/15 10:33:43 — Why print out the Internet.mp307/09/15 15:43:02 — NPR Episode 647— Hard Work Is Irrelevant.mp313/09/15 11:09:37 — frederic-lordon-willing-slaves-of-capital-spinoza-and-marx-on-desire.epub13/09/15 11:09:56 — evgeny-morozov-the-net-delusion-the-dark-side-of-internet-freedom-1.pdf13/09/15 11:10:01 — evgeny-morozov-the-net-delusion-the-dark-side-of-internet-freedom.epub13/09/15 11:10:14 — herbert-marcuse-onedimensional-man-studies-in-the-ideology-of-advanced-industrial-society.epub13/09/15 11:10:17 — herbert-marcuse-onedimensional-man-studies-in-the-ideology-of-advanced-industrial-society.pdf13/09/15 11:10:39 — jacques-derrida-how-to-avoid-speaking-denials.pdf13/09/15 11:10:45 — Psychoanalytic Night at Hooters - Triple Canopy.pdf08/10/15 17:50:51 — Vernacular resistance to data collection and analysis/ A political theory of obfuscation—Finn Brunton and Helen Nissenbaum.txt08/10/15 17:50:57 — Vernacular resistance to data collection and analysis/ A political theory of obfuscation—Finn Brunton and Helen Nissenbaum.pdf08/10/15 17:51:21 — — LGRU Reader.webloc12/10/15 18:15:03 — Toward-a-lexicon-of-usership.pdf14/10/15 15:24:35 — Xenofeminism_A Politics for Alienation—Laboria Cuboniks.pdf20/10/15 22:31:28 — Mine.webloc30/10/15 17:03:15 — k.m.webloc02/11/15 16:37:29 — Saga v1.0 — aCCeSsions.webloc02/11/15 16:40:49 — Holly Herndon - Platform | Music Review | Tiny Mix Tapes.webloc03/11/15 20:05:43 — e-flux journal 56th Venice Biennale – SUPERCOMMUNITY – Notes on the Abstract Strike.webloc03/11/15 20:07:09 — Superconversations Day 86- Nick Srnicek & Alex Williams respond to Antonio Negri.webloc03/11/15 20:09:15 — zachblas_contra-internet-aesthetics.pdf03/11/15 20:09:58 — SFPC | School for Poetic Computation.webloc03/11/15 20:10:14 — School for Poetic Computation — Code Poetry Day 4 | Blog | School for Poetic Computation.webloc03/11/15 20:10:19 — Raphaël Bastide on Twitter- Hi @sfpc http--t.co-fy492eB8m9.webloc03/11/15 20:10:24 — aparrish-sfpc-gen-text-2015.webloc06/11/15 17:25:46 — Wages For Facebook.webloc12/11/15 22:20:49 — L-O-C-A-L-H-O-S-T—rwx_kirsty_hendry_-_performing-software.webloc25/11/15 11:49:10 — Tech Talk- Linus Torvalds on git - YouTube.webloc27/11/15 15:54:20 — Camille Henrot Grosse Fatigue on Vimeo.webloc27/11/15 16:42:29 — Cioran on Democracy.txt01/12/15 17:59:48 — Metahaven- After Effects - YouTube.webloc01/12/15 17:59:54 — ‎www.i-n-t-e-r-f-a-c-e.org-library.html.webloc01/12/15 18:39:37 — Shadow, Glare - Triple Canopy.webloc
-07/01/16 14:02:33 — I think that conversations are the best biggest thing that Free Software has to offer its user.pdf
-07/01/16 14:22:34 — georges-bataille-the-accursed-share-an-essay-on-general-economy-volume-i-consumption.pdf
-07/01/16 14:38:28 — john-armitage-parallax-54-the-life-of-the-gift.pdf
-07/01/16 14:42:17 — Immaterial Labor Union - About.webloc
-07/01/16 15:27:31 — Plants-Androids-and-Operators-A-Post-Media-Handbook-9781906496968.pdf
-07/01/16 15:32:23 — From Conceptualism to Feminism—Lucy Lippard.pdf
-07/01/16 15:33:03 — designers-inquiry_report_colori_en.pdf
-07/01/16 16:38:06 — 7-1ephemera-feb07.pdf
-07/01/16 16:39:16 — Basic Income The Movie (eng subtitles) - YouTube.webloc
-07/01/16 16:46:32 — Benkler_Wealth_Of_Networks.pdf
-07/01/16 17:03:24 — Copyright, Copyleft And The Creative Anti-Commons—Anna Nimus.pdf
-07/01/16 17:03:28 — Copyright, Copyleft And The Creative Anti-Commons—Anna Nimus.md
-07/01/16 17:20:13 — Franco Bifo Berardi—Cognitarian Subjectivation.pdf
-07/01/16 17:28:00 — Highlights and notes for The Last Night.html
-07/01/16 17:48:21 — ipfs-p2p-file-system.pdf
-07/01/16 17:54:22 — Jan Ritsema—A liquid Revolution, for a society without management, money and political representation.pdf
-07/01/16 18:00:35 — liam-gillick-why-work-1.pdf
-07/01/16 18:02:37 — Kirn-post_fordism_and_its-discontents.pdf
-11/01/16 11:56:20 — Marina Vishmidt—Mimesis of the Hardened and Alienated, Social Practice as Business Model.pdf
-11/01/16 11:58:15 — Social Capital and Neo-Liberal Voluntarism—Alex Law and Gerry Mooney.pdf
-11/01/16 12:00:47 — wiki asks for money.png
-11/01/16 12:05:05 — Ranciere - Politics, Identification, and Subjectivization.pdf
-11/01/16 12:05:19 — secondcousins_style.css—sample.css
-11/01/16 12:05:33 — The Sociology Of Critique In Wikipedia by Mathieu O’Neil.md.pdf
-11/01/16 12:07:06 — ned-rossiter-organized-networks-media-theory-creative-labour-new-institutions-nai-2006-1.pdf
-11/01/16 12:07:21 — Wikimedia—Terms of Use.pdf
-11/01/16 12:07:37 — Virtuosity and Revolution, The Political Theory of Exodus—Paolo Virno.pdf
-11/01/16 12:08:31 — Hito Steyerl—Too Much World, Is the Internet Dead?.pdf
-11/01/16 12:08:54 — How low-paid workers at 'click farms' create appearance of online popularity | Technology | The Guar….webloc
-11/01/16 12:19:59 — oliver-laric—versionsversions.mov
-11/01/16 12:21:45 — Mierle Laderman Ukeles_Manifesto.pdf
-11/01/16 12:40:49 — ProgramorBeProgrammed.pdf
-11/01/16 12:44:46 — the glitch moment(um).pdf
-11/01/16 12:44:53 — Xenofeminism_A Politics for Alienation—Laboria Cuboniks.txt
-12/01/16 23:26:56 — Ten Commandments of Peer Production and Commons Economics - P2P Foundation.webloc
-17/01/16 22:09:43 — open! | Platform for Art, Culture and the Public Domain.webloc
-17/01/16 22:09:53 — BIEN | Basic Income Earth Network.webloc
-17/01/16 22:29:37 — P2P Foundation | Researching, documenting and promoting peer to peer practices.webloc
-17/01/16 22:29:59 — Work's Intimacy- Melissa Gregg- 9780745650289- Amazon.com- Books.webloc
-18/01/16 14:31:53 — Embeddedness - Wikipedia, the free encyclopedia.webloc
-19/01/16 12:31:00 — deli near info.webloc
-19/01/16 12:31:02 — harmvandendorpel.com/deli-near-info.webloc
-19/01/16 14:23:35 — open! | Platform for Art, Culture and the Public Domain—Commonist Aesthetics.webloc
-19/01/16 14:23:59 — ‎www.nikoprincen.com-arcle.webloc
-21/01/16 09:13:20 — Rhizome—In the future, people will pay to feel unemployed, On Melanie Gilligan's latest film.webloc
-21/01/16 09:13:58 — Money for free - vpro backlight - YouTube.webloc
-21/01/16 09:16:20 — The Common Sense.webloc
-21/01/16 09:16:53 — The Stack- Design and Geopolitics in the Age of Planetary-Scale Computing - YouTube.webloc
-21/01/16 09:17:19 — metahaven - The Cloud, the State, and the Stack- Metahaven in....webloc
-22/01/16 12:23:31 — Melanie Gilligan - The Common Sense - Phase 1 - Episode 1 on Vim.webloc
-22/01/16 13:17:02 — basicincome2016.org.webloc
-22/01/16 13:17:23 — The Black Stack | e-flux.webloc
-26/01/16 00:41:22 — transmediale 2014 afterglow keynote--Black Stack—earth.png
-26/01/16 00:41:35 — transmediale 2014 afterglow keynote -- The Black Stack - YouTube.mp4
-26/01/16 15:51:08 — transmediale 2014 afterglow keynote--The Black Stack—user as a political subject.mp4
-26/01/16 16:38:50 — the stack—pyramide.png
-26/01/16 16:38:54 — transmediale 2014 afterglow keynote -- The Black Stack—what is a user.mp4
