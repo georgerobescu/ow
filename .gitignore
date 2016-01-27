@@ -10,23 +10,16 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
-# File specific
-# .psd
-# .idd
-# .ai
-# .sketch
-# .mov
-# .mp3
-# .mp4
-# .als
-# .asd
-# .aif
-# .avi
+
+/*
+!.gitignore
+!*.txt
+!*.md
 
 
 # Folder specific
-projects/ow_draft--1/text-to-speech
-projects/Immaterial Labour Isn't Working—Recordings/
-projects/embodying git/
-projects/how to open a torrent's .part file/
-notes/presentation
+# projects/ow_draft--1/text-to-speech
+# projects/Immaterial Labour Isn't Working—Recordings/
+# projects/embodying git/
+# projects/how to open a torrent's .part file/
+# notes/presentation
