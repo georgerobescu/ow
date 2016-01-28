@@ -10,12 +10,10 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
-log/*/*
-!log/*.txt
-!log/*.md
-
-material/*/*
-!material/*/*_index.txt
+log/*
+!log/**
+log/**/*
+!log/**/*.txt
 
 projects/*
 !projects/*.txt
