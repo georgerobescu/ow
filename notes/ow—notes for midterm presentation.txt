@@ -21,6 +21,53 @@ Outline:
 ** alienation as the main vector
 ** **give examples of other ideas for projects?**
 
-Time: 20 minute
+→Time: 20 minute
 
-Test
+1.
+I am interested in the transformation that the subject “internet user” is living at the moment, both in the passage from a position of worker to the one of user, and also in the one that the user itself is going through. User stands for a variety of subjects and is present in different contexts: my two filters to look at it are the internet and labour. Labour as any activity that takes place on the internet and through the internet, which is somehow monetised: from whatsapp messages to a software developer presenting a new web-based application; both examples work on different economic models, but a common element they have is to be used by a subject called user.
+
+Making use of, in the user culture, or usership, means both making and consuming. It’s not just a Do-It-Yourself culture, it is a Use-It-Yourself culture. Use it, if it doesn’t fit your needs, changing it, adapt it, modify it.
+
+The math formula (worker:user=labour:usership)/internet expresses in a compact way the focus of my project.
+
+A user already embodies in his her nature the space or the action of labour, as one of his her essential features. Usership, in the same way, can be seen as a replacement for the sphere of labour. User and usership, however, do not just replace work, they put it in relation to other elements, such as leisure and consumption (or usage?). 
+
+Internet becomes the place where this new form of activities and relationships happen, and also the means to make most of this happening.
+
+2.
+An excellent example of the transformation I am describing, is given by git and github.
+
+What is git (1) and github (2):
+1. a tool you install inside a folder (of a project you are working on) in order to keep track of every change you made to the files and folders within it. You have granular control of what to track and of what becomes the tracking history of your project.
+2. github is the most famous social network to upload and backup your git projects: you can share them over it and collaborate or make us of someone else project.
+
+If git is an analogy for user, github stands for usership.
+
+Git and github are good examples of this process affecting user and usership, because make vanishing the boundaries between making and consuming. Ownership is a useless value in this case, because users do care to be able to use something—to the extent of appropriating it if necessary—rather than own it. What do you own on the internet? Paywall works if there’s quality content and sense of trust between, for example, a magazine and its readership. But in the same vein, archives such as aaaaarg.fail work within the same set of values.
+
+You can git at work and you can git for a personal project you are working on. Conversely, people are social on github when they want to know why something they downloaded isn’t working as it should, not to ask what’s up. Relationships are built through exchanges of doing, making, trying and other experiences of this kind.
+
+3.
+Embodying-git is a series of six short videos, each of which is focused on and built around one specific action you can make on git. For each video, this action is expanded in order to build a set of references starting from that verb (the git’s action). It’s a way to explore and build a specific aesthetic, which revolves around the screen and the written language and look away for other understandings of that environment.
+
+
+* building (and exploring) an aesthetic of alienation
+
+Git-init stands for git-initialise: starting something, setting up the space to begin something, giving life to something, etc.
+
+For `embodying-git--git-init`, I want to explore a possible office-like environment where a user might spend his her days working. *In particular, I focus on plants and fruit, placed out of their “natural” habitat and subdued to the role of objects and of consumption*.
+
+Rather being a source of relief, plants here become a subject to observe and analyse, to touch and cut and distress as much as possible. A cyclical beginning, a git-init indeed, but starting from the end, when plants are dying or are being killed.
+
+
+Other git commands I want to use for the other videos are:
+1. ~~git-init~~
+2. git-add
+3. git-status
+4. git-commit
+5. git-push
+6. git-rm
+
+These six actions equal the six tracks of which Ecologies, a music record by J.G. Biberkopf, is composed of. For each video I am cutting out and stitching together snippets of one of album’s tracks—I think mimicking in this way one of the basic processes Biberkopf himself uses for producing music—and building in this way the rest of the video through sound.
+
+4.
