@@ -19,9 +19,9 @@ log/**/*
 #!projects/*.txt
 #!projects/*.md
 
-#notes/*
-#!notes/*.txt
-#!notes/*.md
+notes/*
+!notes/*.txt
+!notes/*.md
 
 #*
 #!*.txt
