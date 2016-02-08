@@ -11,7 +11,7 @@ Thumbs.db
 .Trashes
 
 log/**/*
-!log/**/*.txt
+!log/**/*blog-item.txt
 
 material/**/*
 !material/**/*index.txt
