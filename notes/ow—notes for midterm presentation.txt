@@ -12,13 +12,12 @@ Outline:
 4. user as the new political subject in the new political super-infrastructure that is the internet
 ** how to redefine what is a political subject nowadays
 ** what is a user (human, animal, mineral, machine, etc.) and how do I define, or on which of these users do I want to focus on? **in relation to the internet and labour**
-** Benjamin H. Bratton’s concept of the Stack
+** Benjamin H. Bratton’s concept of The Stack
 5. How to live and go through this transformation (worker→user and user→?): using alienation
-6. Alienation to move away from work as the defining value to shape one’s life
-7. Universal Basic Income as the backdrop of this trajectory
-8. Plan: internet user’s transformation of subjectivity
-** project divided in five chapters (using ow__draft--1’s outline) **(re-)define chapters**
-** alienation as the main vector
+** Alienation to move away from work as the defining value to shape one’s life
+6. Universal Basic Income as the backdrop of this trajectory
+7. Plan: internet user transformation
+** project divided in five chapters
 ** **give examples of other ideas for projects?**
 
 →Time: 20 minute
@@ -50,17 +49,14 @@ You can git at work and you can git for a personal project you are working on. C
 3.
 Embodying-git is a series of six short videos, each of which is focused on and built around one specific action you can make on git. For each video, this action is expanded in order to build a set of references starting from that verb (the git’s action). It’s a way to explore and build a specific aesthetic, which revolves around the screen and the written language and look away for other understandings of that environment.
 
-
-* building (and exploring) an aesthetic of alienation
-
 Git-init stands for git-initialise: starting something, setting up the space to begin something, giving life to something, etc.
 
 For `embodying-git--git-init`, I want to explore a possible office-like environment where a user might spend his her days working. *In particular, I focus on plants and fruit, placed out of their “natural” habitat and subdued to the role of objects and of consumption*.
 
-Rather being a source of relief, plants here become a subject to observe and analyse, to touch and cut and distress as much as possible. A cyclical beginning, a git-init indeed, but starting from the end, when plants are dying or are being killed.
+Rather than being a source of relief, plants here become a subject to observe and analyse, to touch and cut and distress as much as possible. A cyclical beginning, a git-init indeed, but starting from the end, when plants are dying.
 
 
-Other git commands I want to use for the other videos are:
+Other git commands I want to use for the rest of the videos are:
 1. ~~git-init~~
 2. git-add
 3. git-status
@@ -68,6 +64,35 @@ Other git commands I want to use for the other videos are:
 5. git-push
 6. git-rm
 
-These six actions equal the six tracks of which Ecologies, a music record by J.G. Biberkopf, is composed of. For each video I am cutting out and stitching together snippets of one of album’s tracks—I think mimicking in this way one of the basic processes Biberkopf himself uses for producing music—and building in this way the rest of the video through sound.
+These six actions equal the six tracks of which Ecologies, a music record by J.G. Biberkopf, is composed of. For each video I am cutting out and stitching together snippets of one of the album’s tracks—I think mimicking in this way one of the basic processes Biberkopf himself uses for producing music—and building in this way the rest of the video through sound.
 
 4.
+In this short snippet, taken from a conversation between him and Metahaven at transmediale 2014 about the Black Stack, Bratton asks what is a user and, based from what a user can be and do, defines it as the new political subject. At a certain point he asks if a user can just be defined by the data he she it they produce, intersecting many different entities (living beings—animal, plant; mineral; machines; etc.) in one common activity.
+
+It’s clear that a user is defined by his her its degree of activities, more than by its ontological features. A user is anything able to interface with another user: it can be formed by one or more different entities, as long as it creates a channel of communication with another user. User and subject aren’t one and the same, in this regard.
+
+If then internet is a political super-infrastructure, keeping together and making possible The Stack to exist and to function, how is labour redefined in this scenario?
+
+Perhaps as an ubiquitous, often passive activity, performed on the internet. How can we move away from it? Is it desirable? If labour is unavoidable, then can we look for other life-shaping kind of value, instead of the research of a job?
+
+Benjamin Bratton’s concept of The Stack, is comprised of six elements: 1. Earth, 2. Cloud, 3. City, 4. Address, 5. Interface, 6. User.
+
+An example of The Stack in function can be when we send a message, over the internet, to someone:
+> Every message from a user to another user of The Stack goes all the way down from top to bottom and then back up The Stack again. In TCP/IP, that would be from the application layer, like e-mail, down to the fibre wire, and back up to the application layer. That’s how stacks work in general.
+
+??
+
+5.
+> The origin of alienation is commodity fetishism – the belief that inanimate things (commodities) have human powers (i.e., value) able to govern the activity of human beings.
+
+I see alienation as a positive force, able to redefine’s one subjectivity: the passage from worker to user might come at a loss, in fact—but instead it should be seen as a transformation which poses the focus of one’s life not in God or on work, but rather on a post-human ethics. ??
+
+6.
+If there’s a change in the ethics, which might help to move away from a work-centric idea of life, that is the introduction of the Universal Basic Income. Robots taking over industrial production were both a leftist idea of the past and a scary possibility for many workers nowadays. If a process of alienation is able to redefine this portion of current dominant ethics, to a new iteration of it for which finding fulfilment in one’s job is silly, then a basic income will be more likely to be accepted.
+
+I keep this possible future scenario as a backdrop within the project, because I see it in relation to the potentialities of what the user subject might bring with it. As of now, labour on the internet, especially in the passive form, seems unavoidable (will facebook ever stop to collect the data we produce and send it to us through custom ads?). I wonder and am curious to explore how these changes might affect the current status-quo.
+
+7.
+The plan of my project research revolves around the transformation, the passage, form worker to user, analysed through the lens of alienation.
+
+Beginning from the relations between worker with user and labour with usership, I want to move on and expand it to take it account the overall space of where this happens—the platform; and finally focus on post-human ethics, the redefinitions of values and way of beings and stays together which are shaped by the subject of being user.
