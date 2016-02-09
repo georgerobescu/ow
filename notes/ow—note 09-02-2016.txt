@@ -1,0 +1,15 @@
+# salvaschermo ws, part II
+
+Quick idea to present and make happen a possible version of salvaschermo workshop at [De Punt](http://depunt.org) (very close by our studio):
+
+> De PUNT is een werk- en projectruimte in de Czaar Peterbuurt in Amsterdam. De PUNT is een initiatief van TAAK, in samenwerking met De Derde Verdieping en biedt een divers en afwijkend programma over kunst en maatschappelijke veranderingen. Daarbij faciliteert De PUNT werkplekken voor buurtbewoners en cultureel ondernemers. De PUNT is ook te huur vergaderingen, workshops en andere bijeenkomst. Zie ook het kopje ‘hosting’.
+
+I don’t speak Dutch (yet), but De Punt is a project- and work- space set up by some ex Sandberg students. The space organises also a Summer School called [Hackers & Designers](http://hackersanddesigners.nl/#/)
+
+> Hackers & Designers is a non-profit cross-disciplinary community of programmers, engineers, designers, and artists. Hackers & Designers began two years ago and has mainly been focused on helping working professionals from tech-oriented fields connect with professionals from the creative sector, and the other way around. Hackers & Designers has, up until this point organized monthly meetups where collaborative and inclusive workshops (1-3 hours) are given.
+
+Given the topics I am working with and the workshop-y nature of one of the possible outputs for my project, this place seems fitting.
+
+To do:
+- [ ] think and write a workshop to specifically address new project’s topics
+- [ ] contact De Punt 
