@@ -1,0 +1,37 @@
+*In preparation to the meeting with Noortje and Daniel you are asked to prepare a short introduction of the theme you want to explore in the thesis*.
+
+**Also try to make a fist list of existing literature and references to other artists that you think are relevant for your thesis*.
+
+**As mentioned previously the main idea for the thesis is to give context to your work. What are the larger questions and themes that you are addressing in your work? Why is it important to think about these questions in relation to the future of democracy*?
+
+**The idea for the thesis is not to explain your work, but to position it as part of a larger context and to also connect it to other artists and practices that are working on similar themes*.
+
+
+## Works I found interesting
+
+* [Bug.app](http://bugg.gg)
+* [o-o-o-o.co.uk](http://o-o-o-o.co.uk)
+* [Deli near info](http://delinear.info)
+* [Network Effect](http://networkeffect.io)
+
+I do find these projects interesting because they all deal with the level of the interface in an uncommon way:
+
+* *Bug.app* transform an object in pure light, hence color, and read that color as sound (a process of transformation from one sense to another).
+* *o-o-o-o.co.uk* lets you arrange music using small snippets of sounds on a webpage. The interface becomes multilateral and more  manipulative than in a “normal” website—where you can, at most, click on links to activate and or access to other things.
+* *Deli near info* suspends “the distinctions between navigation and content”. You add things and move around them to see what other things are there. You create in order to navigate.
+* *Network Effect* attempts to create and instilling in the visitor a sense of anxiousness, “typical” of the web and in particular of the Fear Of Missing Out (FOMO). Based on your location IP it calculates how much time the website will be visible to you (based on life-expectancy in the country you are visiting the website). I think this work is interesting to me because it’s something I don’t want to do. And its attempts to reach a certain poetic fails as soon as your realise it’s big data masturbation.
+
+Here interfaces create new connection between user and content (which can be seen in some cases and another user?). This shift is relevant to me because it might go in parallel with the shift  from user intended as one human being using something, to user as anything able to interface with another user, and producing (actively and or passively) data?
+
+If you want to interface with a plant and your a one of a two subjects user, the other being a machine, how do you find a new interface to do that?
+
+I should not forget that my lens to look at this transformation is the one of labour, coupled with a possible future of universal basic income. This already creates a gap in understanding this new conception of user within a post-humanistic conceptual framework.
+
+Effectively, how much does the idea of a universal basic income threat a passage toward a post-human ethics? Meaning, away from an anthropocentric point of view?
+
+* [The Common Sense](https://vimeo.com/112267679)
+* [Tetsuo](https://www.youtube.com/watch?v=OjXzMGp6teU)
+
+Both films are interesting both for the plot and for the aesthetics they employ.
+
+If Tetsuo is something you can already try to do now (insert metal parts under your skin), The Common Sense looks ahead to when a new technology lets to instantaneously share something and feel something with someone, we give and we receive at the same time.
