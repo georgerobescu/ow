@@ -1,0 +1,21 @@
+# Projects
+
+— [http://emotional-labor.email](http://emotional-labor.email)
+Lighten up your email with the Emotional Labor extension. Works on any email sent through Gmail. 
+First write an email. Then click the smiley face to brighten up the tone of the email before sending.
+
+— [http://post-prism.net](http://post-prism.net)
+post-prism.net reflects on recent discussions on internet surveillance and the user's privacy with a set of speculative and experimental online tools.
+Each of these tools transforms a well-known everyday online activity into an experience of irritation and subversion illustrating what different modes of publishing, production and sharing could look and feel like.
+
+— [http://osp.kitchen](http://osp.kitchen)
+OSP makes graphic design using only free and open source software—pieces of software that invite their users to take part in their elaboration.
+
+— [https://github.com/lmccart/SocialHacking](https://github.com/lmccart/SocialHacking)
+This course explores the structures and systems of social interactions, identity, and self representation as mediated by technology. We will investigate ways that technology can be used to augment, subvert, alter, mediate, and ultimately deepen interaction in a lasting way.
+
+— [http://jeffish.com/projects/laborers_of_love.html](http://jeffish.com/projects/laborers_of_love.html)
+Laborers of Love is a project focused on the relationship between online sex and online work, specifically how technology mediates desire and sexuality. We are interested in how online culture has transformed what we mean by labor, sex, gender, sexual preference and collaboration, as well as how we think of pornography in terms of production and consumption.
+
+— [http://sebastianschmieg.com/networkedoptimization/](http://emotional-labor.email)
+Networked Optimization is a series of three crowdsourced versions of popular self-help books. Each book contains the full text, which is however invisible, appearing as white text on a white background. The only text that remains readable is the so-called popular highlights – the passages that were underlined by many Kindle users – together with the amount of highlighters. Each time a passage is underlined, it is automatically stored in Amazon’s data centers.
