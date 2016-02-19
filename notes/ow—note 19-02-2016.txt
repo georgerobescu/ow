@@ -1,0 +1,39 @@
+(out of anxiousness)
+
+## How to visualise the process of transformation from worker to user?
+
+* building a “personal” story following a subject through this path of change
+* e.g. *embodying-git*
+** example of a tool
+** example of a platform
+** example of a user
+
+## How do you want to visualise this process?
+
+* making ad-hoc tools to highlight particular actions and behaviours and processes
+* a website (and or entity, bodega, resource repo), giving tools to transition towards a post-human, internet-based state of user
+* tools to make sense of the situation if you have already moved (consciously or not) to this state
+* resources to get more insights and knowledge about the post-human ethics of the user
+* expanding this with workshops where creating different situations that put in contrast the current dominating ethics of the user with a different one (post-human user ethics)
+
+I am basically repeating the same idea I had at the beginning of January, which was about “the transformation, almost the ritual to go through” from worker to user (as if, I want to become a user in the degree that I want to know more, being more aware of what it means). I wanted to divide the project in five sections, starting from *embodying-git* and then moving to create an audiobook to let someone go through a phase of illness, in order to symbolise the passage (and touching upon the idea of immaterial labour and “when are we not working?” and at the same time the sphere of chronic-disease and labour). Then making a website as a repository of informations and tools to get more knowledge about the topic.
+
+* * *
+
+The “new” user is part of a post-work society, built around the principles of the commoning. These two elements form a not-yet reached horizon, a possible, speculative hegemonic framework, where to position this subject, but also, on the other side, this horizon helps the project in bouncing back and forth from the user’s current state, the undergoing transformations it is going through and a possible future where it will live. The speculative part of the project deals with the exploration of the ethics of the post-human user.
+
+*github* is the place where to make politics, propose things, accept or counter-act upon ideas and proposals, and being part of the transition to a post-human user (?).
+
+* * *
+
+Make an artwork based on this expression:
+
+> Pyratbiran rejects copyright in its entirety – not because it was flawed in its inception, but because *it was invented to regulate an expensive, one-way machine like the printing press*, and it no longer corresponds to the practices that have been made possible by current technologies of reproduction.
+
+If the printing press is a one-way machine, then current technologies of reproduction are a two way machine? A two way tool? A two way gesture?
+
+A printer scanning or photographing what it has just printed out and modifying that and exporting that and putting that on the internet and downloading that as a pdf that is going to be printed again. Ideally conceived as a self-automised machine, displayed as an installation. The whole process uses either script (when on the computer) or specific settings (for the scanner and or camera).
+
+This could be a visualisation of what Hyto Steyerl calls “circulationism” (see [this exhibition](http://vanabbemuseum.nl/en/programme/detail/?tx_vabdisplay_pi1%5Bptype%5D=20&tx_vabdisplay_pi1%5Bproject%5D=1371&cHash=e7b5b1a69efb41ee8bb07440cb030cbe) and [this text](http://www.e-flux.com/journal/too-much-world-is-the-internet-dead/), in particular the tactic of certain tumblr users of not simply re-blogging a particular picture they like, hence reproducing the chain of reblogging, but instead downloading that picture on their computer and re-uploading it on their tumblr. In this way breaking the aforementioned chain and initiating a new one on their own.
+
+This represents the new mode of production, which can take the form or reblogging in its basic usage, and can go on and become the action of forking a project on github. It is appropriation and mixing, something that before the idea of the romantic genius, was the praxis for every artist and the community she he was living in.
