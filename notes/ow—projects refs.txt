@@ -19,3 +19,11 @@ Laborers of Love is a project focused on the relationship between online sex and
 
 — [http://sebastianschmieg.com/networkedoptimization/](http://emotional-labor.email)
 Networked Optimization is a series of three crowdsourced versions of popular self-help books. Each book contains the full text, which is however invisible, appearing as white text on a white background. The only text that remains readable is the so-called popular highlights – the passages that were underlined by many Kindle users – together with the amount of highlighters. Each time a passage is underlined, it is automatically stored in Amazon’s data centers.
+
+— [http://www.zachblas.info/projects/contra-internet/](http://www.zachblas.info/projects/contra-internet/)
+
+website now says “relaunching soon”, other resources:
+* [dis magazine](http://dismagazine.com/discussion/73352/zach-blas-contra-internet/)
+* [Zach Blas: Queer Technologies and The Contra Internet : Talk : 13.08.14. Istanbul](https://www.youtube.com/watch?v=wQgBGrAz7pA)
+
+Contra-Internet describes the emerging militancies and subversions of “the Internet.” Comprised of multiple series, Contra-Internet critiques the Internet as a hegemonic descriptor for digital networking and premier arena of political control, as well as documents and speculates upon network alternatives that social movements are developing globally, such as autonomous mesh networks, encryption tactics, and darknets. Inspired by the transgender theorist Beatriz Preciado’s Manifesto contrasexual, Contra-Internet is oriented from a feminist and queer perspective, in an effort to unite such political positions with a hacker ethos. Contra-Internet aims to function as an expansive conceptual, practical, and experimental framework for refusing the neoliberal logic of “the Internet” while building alternatives to its infrastructure.
