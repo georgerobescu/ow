@@ -1,0 +1,92 @@
+# Userface workshop
+
+(or also, Toward a post-humanist user)
+
+*Some notes for the draft proposal*
+
+*Subject & Focus*
+
+* **Reconfiguring the idea of the user**[^1], from being understood as user=one human being; to user=a variety of subjects of different nature. Moving away from the anthropos and getting closer to a post-human framework in regard to ethics.
+
+*How to do this*[^2]
+
+1. Short questions to reply to? (for example, 3 mins per question?)
+** using words
+** drawings
+** making sounds (≠ using oral language)
+
+2. Assign the task to replicate and find new way to make the process of *the stack* happen[^3] (e.g., user A sends email to user B): is that possible with subjects other than human beings using computer devices? [^4]
+
+A preoccupation towards “bodies” producing data (any kind of).
+
+[^1]: The problem I have with this is that it can go in the direction of 1. affects and 2. awareness in interaction: 1. not enough knowledge or experience or ideas on how to build an exercise for this; 2. playing with the idea of multi-user interface? e.g. using the same interface with multiple people at the same time (cfr. GUI).  
+For both I am constantly thinking about making the participants interact only with users of different nature (objects, plants, etc). There has to be the underlaying element of the internet in it, or at least the possibility to enact a complete stack process.
+
+[^2]: Before doing this exercise, showing/giving some material as sample? Or interspersing, before and after each exercise, some material?
+
+[^3]: This means finding other ways to produce data and: can this data be sold as well? (new currency)
+
+[^4]: User→Interface→Address→City→Cloud→Earth and all the way back↰
+
+* * * 
+
+## Userface Workshop Proposal
+
+### Situation
+
+Don’t know how to fill this out
+
+### Concept
+
+**Reconfiguring the idea of the user**, from being understood as user=one human being; to user=a variety of subjects of different nature. Moving away from the anthropos and getting closer to a post-human framework in regard to ethics.
+
+In order to do this, an exploration of the different variables and configurations able to initiate and activate all the layers of the Stack will be conducted.
+
+There are two approaches to this task:
+* outlining a series of questions, able to foster discussion and bringing up answers relevant to the central question of the workshop (in general having session of 3-5 questions which has to be replied in 3-5 minutes each, then general sharing with the group, then another session, etc.)
+* bringing a selection of material (objects of any kind but useful for the topic) and let the participants work through this objects, making combinations and come up with possible configuration of the stack
+
+### Goals
+
+The focus of the workshop is to:
+* explore what is the formal composition of the Stack and how it works
+* reconfigure the ontological idea of what a user is
+
+### Questions/Who are reference? (theory)
+
+* Benjamin Bratton (the Stack)
+* Post-humanism (Author? Just read [a short text](http://www.tanyaleighton.com/p/p000620/LARIC_Braidotti_Metamorphic_Others_and_Nomadic_Subjects464f5.pdf) by Rosi Braidotti)
+* other?
+
+### Execution (elements, workshop, participants, etc.)
+
+Aiming for a group of 8-10 people. Bringing either #1 markers and paper to let them reply to the set of prepared questions , or #2 objects to build possible Brattonian Stacks.
+
+For option #1:
+* a two-three hour workshop, where giving an introduction to the topic, then structuring the rest of the time in session of 15 minutes, where each five minutes are given to reply to a question (through written word, drawings, sounds)
+
+For option #2:
+* a three-hour workshop, where giving an introduction to the topic and showing some examples, then hands on thinking how to assemble material and make it compose a functioning Stack
+
+Each of the two options ended up with a final moment for getting a sense of how things went and having a general exchange of the experience.
+
+In both options, a performative space to “express” the Stack is totally possible and even suggested.
+
+
+
+### What we need; who we need; when we need it by
+
+* Objects of different nature (plants, toys, food, devices, etc.)
+* Paper, markers, audio recorders?
+* Presentation, projector
+
+* 8-10 people
+
+* sending final proposal by the end of week Feb 29–Mar 6 to De Punt, Side Room, San Seriffe
+
+* * *
+
+Some useful resources for understanding the Stack, using as examples:
+* the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) (e.g. TCP/IP protocol)
+* the [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+* the [Protocol stack](https://en.wikipedia.org/wiki/Protocol_stack)
