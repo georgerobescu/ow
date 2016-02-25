@@ -4,3 +4,6 @@
 [submodule "drawing-cursor"]
 	path = drawing-cursor
 	url = https://github.com/afincato/drawing-cursor.git
+[submodule "projects/drawing-cursor"]
+	path = projects/drawing-cursor
+	url = git@github.com:afincato/drawing-cursor.git

@@ -19,6 +19,7 @@ material/**/*
 projects/*
 !projects/*.txt
 !projects/*.md
+!projects/drawing-cursor
 
 notes/*
 !notes/*.txt
