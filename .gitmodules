@@ -1,3 +1,6 @@
 [submodule "projects/ow_draft--1"]
 	path = projects/ow_draft--1
 	url = git@github.com:afincato/ow_draft--1.git
+[submodule "drawing-cursor"]
+	path = drawing-cursor
+	url = https://github.com/afincato/drawing-cursor.git
