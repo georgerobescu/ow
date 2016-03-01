@@ -1,0 +1,13 @@
+# Drawing cursor
+
+In almost two session (and a half) I put together the first prototype of the idea, in the form of a website.
+
+Besides the many technical problems encountered, mostly because I just don’t know javascript, not because of technical limitations, the first feelings about the usage of the app is quite positive: it’s funny. Not much, but never done something “funny” before.
+
+What I am really looking forward is how it would feel when it will take the form of a Chrome Extension: you won’t see the utility itself displayed on the page, because it’s running with `visibility: hidden;`, I suppose. 
+
+This triggers different reactions:
+1. you will use the app in an “unconscious” way, because you can’t see what’s happening in it, so how this will influence the final output?
+2. will you show and hide the app visibility (if I decide to add that option) every now and then? How much performative is it?
+
+The interesting part will be the relationship between using something without seeing it and “having control” of it, and the final output it will produce. Especially, will it ever happen that you might forget about this utility to be on and running so you loose a bit yourself? Then?

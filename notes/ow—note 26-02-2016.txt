@@ -1,0 +1,32 @@
+# Drawing cursor
+
+The other night I came up with the idea to transform the movement of a cursor on a screen, performed by a/the user, into drawings. Meaning, tracking the cursor’s movements and translate those paths into lines and other graphical forms (e.g., a click would become a circle, instead than a line).
+
+Reporting my initial notes jotted down on paper:
+
+> A piece of software that runs in the background and draws lines based on the cursor’s movements (dragging, scrolling, moving, clicking, etc.) of a user.
+
+> The recording time can be set to be from 1 hour to a full day (=8 hours? 15 hours?).
+
+> Send email to A V and ask him how much this is feasible to accomplish.
+
+> *What to do with this drawings? Why do I want to produce them*?
+  
+> As a mirror and consideration of the level of passive exploitation of a user’s activity.
+
+> Then: how can this be related to an extended understanding of the user in the Stack’s sense?
+
+Talking with G the whys behind the idea seemed silly. Instead, the action itself to do something like this (an app that tracks and traduces your cursor’s movements into drawings) acquired a performative and bodily value: it means embodying a user’s usage of “one of the most hyper-intimate instrument”. [^1]
+
+Said this, as a quick and dirty test, I want to implement this as a Chrome extension. There’s already plugin that lets you draw on a webpage, using the `<canvas>` object as a... canvas.
+
+The order of actions I am giving myself now, to execute the project, is as follows:
+
+1. Building a webpage were moving the cursor automatically initiates a drawing session on the page, without having to click on a button or anything to start drawing.
+2. Transforming the above ↑ in a Chrome extension, were clicking on the extension’s icon initiates the tracking of the cursor, hence a drawing session; and clicking again on it will stop the session.
+3. Transforming the above ↑ in an app/utility to install on your computer, and in this way being able to always track your cursor’s movement, no matter the context (e.g., only in the browser).
+
+At the end of each drawing session you’ll have the chance to export your drawing session in a `.png` file.
+
+
+[^1]: Holly Herndon in an interview for The Guardian: “A lot of people complain about it being less engaging, less natural, less emotional, but my laptop mediates so much of my life: my Skype, my bank account, my emails, my relationships,” she says. “It’s actually a hyper-emotional instrument; it has more emotional content than a violin could ever dream of.”, [article](http://www.theguardian.com/music/2015/apr/26/holly-herndon-platform-interview-queen-of-tech-topia-electronic-music-paradise-politics).
