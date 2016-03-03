@@ -1,0 +1,28 @@
+Presented the first prototype of Drawing Cursor to David and Rebecca: they were impressed and hooked up by the idea.
+
+The fact of positioning this output around the idea of user as an inevitable subject who produces data, no matter what kind (body temperature, physical gestures on a computer, interaction of any sorts, non interaction either, etc.) was clear to them and became more clear also to me.
+
+User defined by the production of data that he she it produces, willingly or not (a proposition of sort, maybe quite fragile).
+
+If a user produces data independently of his will, then what is his politics about what he produces? Is he going to share it freely, since in a post-workerist scenario a universal basic income would guarantee him all the basic necessities for living a good life? To be clear, is there a way to discuss also the politics of copyright, copyleft (e.g. creative commons) and anti-copyrights? One way is when a company or an external subject is capitalising through the act of using data out of you (that you produced in some way via an interaction with it); another is to produce something out of your own will—for some reasons—and deciding how to share this, if at all. In both cases, Discussing how the output of your labour is shared within a society is crucial and could be one of the ways in which touching the theme of democracy but also of a “planetary-scale infrastructure”.
+
+The next step, is to scale up and transition from the personal size to a “planetary scale”. Tracing the relationship between user and platforms, which have become new states, new government, bringing new forms of governance and of what defines a political subjects.
+
+What’s the interaction between a user who, no matter what, is defined by the labour he, willingly or not, produces (data production and extraction) and the platform where he resides. As a new form of citizenship, if a subject is not working, does it mean he has no more citizenship?
+
+There is a clear line of comparison between a sketchy hypothesis like this, and one of the first notes I wrote two winters ago:
+> Italy as a democratic republic, founded on the principle that work is an essential right to its citizens, in order to have a life (being autonomous, etc.): see Article n° 1 of the Italian Constitution.
+
+Which is anyway an essential requirements in most, at least western-based, societies. Since a user is ontologically a productive unit, how can he she it might try to lose his her its citizenship, if that in his desires?
+
+How does democracy play in this new geo-political scenario? How dark this scenario could turn out to be?
+
+* * *
+
+From gen gen’s essay on Holly Herndon’s video “Home”, focused on user as a post-human subject, and my comment of it:
+
+>> “Home” proposes a focus on her intentions for intimacy and grasping for the possibilities for our relationship with technology beyond the (*still) colonized language of operating systems and platforms that we use*.
+
+> Can a highly personalised Linux distro be a non-colonised OS? What do you mean by this expression? Is the final user colonised by the choices made by the devs/company who produced the OS or is the OS itself colonised by either or both its users and developers? This is really interesting.
+
+How would it be to think of making something (stupid example, a website) also from the perspective of the tool you are using to make it (in this example a computer)? Is this a possibile post-human position?

@@ -1,0 +1,17 @@
+# Drawing Cursor
+
+While writing the about text for the website, and adding an emojis at the end of it, I thought “what I instead of adding circles I add a random emoji?”; or, what if, instead of the double click changing background color, it adds and emoji and not a circle and a new background color?
+
+Might be an option, as if it was a “trick” you do in Street Fighter and instead of the simple circle you can get a randomly selected emoji.
+
+* * *
+
+> Drawing Cursor is a first prototytpe, before the realisation of a Chrome Extension and subsequently a small app/utility, that keeps track of your cursor movements (moving, clicking, scrolling, etc.) and translates them into graphical marks.
+
+> As a visual translation of a form of embodiment, I am very curious to see the outputs it can produce when it will run in the background and, after a while, you might forget about it.
+
+> The idea is to exasperate user's activity, reaching a new level of passive exploitation, to the point of creating "artworks" out of his her basic interaction with a computer. And also out of his her own will.
+
+> To what extent can the production of user's data be used to extract surplus value? Is there a level of uselessness after which monetisation is not possible?
+
+> Soon the Chrome Extension 
