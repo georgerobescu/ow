@@ -1,0 +1,33 @@
+# Drawing Cursor
+
+An example in the possibility, or not, of user’s agency within a system or a situation.
+
+# Userface workshop
+
+Breaking down the usage of something into all its different agencies.
+
+Use sound-recording as a form of data registration.
+
+Build a website like [o-o-o-o.co.uk](http://o-o-o-o.co.uk/) to let other users, or the participants of the workshop, to assemble that material.
+
+The material is people saying a set of things of their own will, and reassemble those small bits with different users (let x user, of mineral nature, say this and that).
+
+Conversely, just use the recorded audio material to build a website like [o-o-o-o.co.uk](http://o-o-o-o.co.uk/), where to show the different exercises of the workshop. Let the user, or “visitor”, reassemble the material at its will.
+
+## general
+
+Less alienation toward machines, robots for a future of full automation (which is not the replacement of labour, but of some of its tasks).
+
+## Idea #1
+
+A website, a continuation of drawing-cursor, where a user will have to reply to a set of questions in order to let the tools set up themselves (tools such as the front-end and back-end of the websites, and the interactions you can accomplish on the website). After that, the “physical” environment you helped to set up, appears to you: you can for example drag thing (say the above-mentioned audio tracks from the documentation of the userface workshop) but you can decide till a certain point. Your actions have a kind of agency which is totally dependent on the tools your are using, and that depends on how your reply to the initial questions. So if you drag something to x point, it might let you go till that point, and then slide a bit off that object, or it might let you go until 10px before that point.
+
+What I am interested in, for this project, is showing the level of micro-agencies running across the actions we do as human-based users, and trying to get in contact, through a sort of “physical” reaction against our actions, with all the different users operating to make “our” action possible.
+
+Finding not a new position of subservient awareness in regards to them, but of friends? Comrades? A different ethics based on post-humanism.
+
+# Idea #2
+
+Taking this animation as an example, doing something similar but in the opposite direction: if in the gif the human-shaped body “received” from atop a layer, could be a fabric, with printed human-flesh colours (is it a face the subject of the print? or the skin layer for the human-shaped body?); what I would like to do, rather, would be to make this fabric being wore up, as if it was a pair of trousers, from bottom to top. 
+
+This because the user is at the topmost layer in the stack, and see what’s behind him her it.Hence, when the user activates a column (the full procedure to make the stack work), it is as if the stack is going to it and it is wearing it with a gestures that’s from the bottom to the top.
