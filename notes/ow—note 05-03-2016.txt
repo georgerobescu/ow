@@ -1,3 +1,5 @@
+# Brief summary of topics
+
 * universal basic income
 * full automation
 * user as production of data (which can be monetised)
@@ -17,3 +19,4 @@ What about the anti-copyright stance on intellectual property, then?
 → Is this data comparable to intellectual property? (see the digital environment factor)
 
 ⤷ the passage from free software to open source software and the case of github.
+
