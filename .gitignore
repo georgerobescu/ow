@@ -10,19 +10,12 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
-log/**/*
+!.gitignore
+
+assets/*
+
+log/*
 !log/**/*blog-item.txt
 
 material/**/*
 !material/**/*index.txt
-
-projects/*
-!projects/*.txt
-!projects/*.md
-!projects/drawing-cursor
-
-notes/*
-!notes/*.txt
-!notes/*.md
-notes/**/*
-!notes/**/*.txt
