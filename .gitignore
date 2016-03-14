@@ -18,3 +18,7 @@ log/*/**
 
 material/**/*
 !material/**/*index.txt
+
+notes/*/**
+!notes/*.txt
+!notes/*/**/*.txt
