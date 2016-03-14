@@ -1,0 +1,53 @@
+Title: Toward a Lexicon of Usership—Stephen Wright
+
+----
+
+Date: 2016-01-03
+
+----
+
+Tags: usership,lexicon,stephen-wright
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+A very useful introduction, though very art-world centric (≠ artist's centric or art centric), to the world of the user in the twenty first century.
+
+From an entry titled UIT (‘use it together’):
+
+> *‘Own it!’* If it appears innocuous, that is only because the ideology of ownership is by now so deeply embedded in the contemporary psyche.
+
+> (...)
+
+> Of course with the mass availability and usership of digital media, what might be called UIY (use it yourself) culture has become a major form of knowledge and value production. But can one really use alone?
+
+> Usership is a strangely impersonal collective noun—it doesn't really name a collectivity of users, but it definitely implies multiplicity (...) the mutualization both by affinity and by contagion implied by usership.
+
+See the concept of [forking](https://en.wikipedia.org/wiki/Fork_(software_development)) (on github, wikipedia, etc.). Conversely, whats' the difference between UIT and p2p?
+
+* * *
+
+From the entry on Usership:
+
+> It is expert culture (...) which is most hostile to usership. From the perspective of expertise, premised as it is on notions of universality and the general interest, usership is a particularly egregious mode of self-interest. For the expert (...) use is invariably misuse.
+
+> How long will communities of use sit by as their user-generated content value, rather than being remunerated is expropriated and privatised?
+
+> The challenge is clearly to imagine, and to instantiate, a non-instrumental, emancipated form of usership.
+
+> (...)
+
+> Because it is radically imperformative [usership]. To perform usership would be to spectacularise it, make it an event—that is, to negate it, to make it into something else. (...) spectatorship is to the spectacle as usership is to... the usual.
+
+----
+
+Aside: (file: toward-a-lexicon-of-usership.pdf text: Here the pdf).

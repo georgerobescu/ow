@@ -1,0 +1,33 @@
+Title: 2016 will be the year of conversational commerce
+
+----
+
+Date: 2016-02-14
+
+----
+
+Tags: user,usership,commerce,silicon-valley,text-app,chris-messina
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+Too keep in mind, and connected to [The future of UI is text](http://andrefincato.com/ow/the-future-of-ui-is-text):
+
+> Before I begin, I want to clarify that *conversational commerce* (as I see it) largely **pertains to utilizing chat, messaging, or other natural language interfaces (i.e. voice) to interact with people, brands, or services and bots that heretofore have had no real place in the bidirectional, asynchronous messaging context.** The net result is that you and I will be talking to brands and companies over Facebook Messenger, WhatsApp, Telegram, Slack, and elsewhere before year’s end, and will find it *normal*. Indeed, there are several examples of this phenomenon already, but those examples are few and far between, and fit in a Product Hunt collection rather than demand an entire App Store (wait for it).
+
+> Additionally, I’m less interested in whether a conversational service is provided by a human, bot, or some combination thereof. If I use these terms interchangeably, it’s not *unintentional*. It’s just that over an increasing period of time, computer-driven bots will become more human-feeling, to the point where the user can’t detect the difference, and will interact with either human agent or computer bot in roughly the same interaction paradigm.
+
+⤷ [source](https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.pl7bkfgxj)
+
+----
+
+Aside: 

@@ -1,0 +1,32 @@
+Title: J.G. Biberkopf—Ecologies
+
+----
+
+Date: 2015-12-02
+
+----
+
+Tags: j.g.-biberkopf,k-n-i-v-e-s,git
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+> He says of the project’s inception, that he was intrigued by an oddly “naive idea of nature that seemed strikingly prevalent in my social environment.. I was curious to know how these simulations of Nature work in digital media, how do we do experience these simulated materials”.
+*J.G. Biberkopf about its album [Ecologies](https://soundcloud.com/kxnxv/sets/knv001-j-g-biberkopf)*
+
+Similarly, my interest with this video (probably “these videos”) (cfr. *Embodying git*[^1]) lies in the explorative dimension of how much git influences a certain way of working, thinking, acting, moving, and so forth. Hence, which kind of imaginaries does it provoke in one’s mind? Which kind of associations when thinking about `git-init` or `git-commit` or `git-push`?
+
+[^1]: *Embodying git* is an attempt to move towards the idea of embodying and or translating git’s commands into physical representation imageries of physical activities and desires.
+
+----
+
+Aside: 

@@ -1,0 +1,37 @@
+Title: The IPFS Project
+
+----
+
+Date: 2016-01-07
+
+----
+
+Tags: p2p,bittorrent,git
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+The reason why this sounds interesting is because I want to learn more about peer2peer sharing technologies (and reverse-enginereed them). This is a shiny new experiment and and and
+
+> The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
+
+> IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. In some ways, IPFS is similar to the Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository. In other words, IPFS provides a high throughput content-addressed block storage model, with content-addressed hyperlinks. This forms a generalized Merkle DAG, a data structure upon which one can build versioned file systems, blockchains, and even a Permanent Web. IPFS combines a distributed hashtable, an incentivized block exchange, and a self-certifying namespace. IPFS has no single point of failure, and nodes do not need to trust each other.
+
+⤷ [source](http://ipfs.io)
+
+----
+
+Aside: 
+
+(file: ipfs-p2p-file-system.pdf text: The Paper) about the project in pdf format.
+
+The [github repository](https://github.com/ipfs/ipfs).

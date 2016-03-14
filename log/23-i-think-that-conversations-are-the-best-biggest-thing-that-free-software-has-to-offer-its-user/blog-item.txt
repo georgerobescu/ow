@@ -1,0 +1,29 @@
+Title: I think that conversations are the best biggest thing that Free Software has to offer its user
+
+----
+
+Date: 2016-01-07
+
+----
+
+Tags: free-software,ethics,design
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+> *Conversations* is an extensive collection of dialogues between developers and designers involved in the wider ecosystem of Libre Graphics. Its lengthy title, "I think that conversations are the best, biggest thing that Free Software has to offer its user", is taken from an interview with Debian developer Asheesh Laroia. His remark points at the difference that Free Software can make when users are invited to consider, interrogate and discuss not only the technical details of software, but its concepts and histories as well.
+
+⤷ [source](http://conversations.tools)
+
+----
+
+Aside: 

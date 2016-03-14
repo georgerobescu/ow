@@ -1,0 +1,67 @@
+Title: Kirsty Hendry—Performing Software
+
+----
+
+Date: 2015-11-13
+
+----
+
+Tags: software,interface,talk,kirsty-hendry,rwx
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+[Such an amazing text](http://l-o-c-a-l-h-o-s-t.com/#id=localhost:events:rwx:kirsty_hendry_-_performing-software), given as a talk by Kirsty Hendry at the [RWX](http://l-o-c-a-l-h-o-s-t.com/wiki/doku.php?id=localhost:events:rwx): Read Symposium about the history of building interfaces from the beginning of the computer era back in the 40s up to nowadays with personal assistants like Siri.
+
+> The development of ‘software’ however is intrinsically bound to a very literal performance of gendered labour. Before ‘computer’ hardened to noun, it was once an adjective. Computers were female programmers during WW2 and software was the ‘daughter’ to hardware.
+
+> Responding to ‘commands’ issued by male analysts, the female computers were not simply fulfilling tasks but helped make the male command legible to the machine, shaping these early machines to make them functional.
+
+Interpreting male programmers's commands to make them understandable to computers.
+
+> The efficiency of these early machines subsequently obscured the female labour that had enhanced them, embedding the precarity of the female workforce within each ‘automated’ function. The data sets generated through their ‘performance of software’ was instrumental in the shifting command structure from commanding ‘girls’ to commanding machines, reducing the time spent on task from 40 hours, to 15 minutes to a matter of seconds.
+
+These *impossible* tasks are still accomplished nowadays by female bodies, for example in the case of Amazon Mechanical Turk. Moreover, the trajectory of using the female body and competencies to build new technologies has one of its best examples in:
+
+> the disembodied voice of the ‘personal’ assistant. Siri, Cortana – comfortably futuristic in name so as to shirk any immediate perception of cultural context, and mundane in tonality - ambiently perform social tasks.
+
+> The perpetually attendant female voice aims to annihilate the interval between sender and receiver, to obfuscate origin and orphan process. The voice becomes a mechanism for concealment and display. The female voice becomes an amplification that takes shape only in the form of its interlocutor. 
+
+Female bodies as pure interfaces, in order to fill missing, hard to accomplish or yet impossible for a computer, functionalities.
+
+> Her performance of subordination is a form of soft control designed to interpellate the user as sovereign subject.
+
+Kirsty goes on bringing other examples of how the female voice has since long time normalised within particular set of boundaries. It has to be functional and work according to specific parameters:
+
+> ‘Appropriate’ women's speech avoids expressive and emotive feeling as is proper in rational civil business. No civil space would contain it unregulated.
+
+Then she asks the central question:
+
+> What are the material implications of utilising the ‘regulated’ female voice to perform software as metaphorical shorthand for traditional conceptions of feminised labour when it’s success is predicated by its ability to conceal the performance of it’s own labour?
+
+and replies with
+
+> a successful interface is characterised by the same criteria as a successful performance; the technical magic that supports the representation, as in the theatre, is behind the scenes.
+
+> By the technical stage craft of precarity - women erase their own labour by performing it.
+
+* * *
+
+> How might we extend our humanity to these dimensions without reproducing and entrenching potent gendered and cultural stereotypes.
+
+How can we? 
+
+⤷ [Here the full text](http://l-o-c-a-l-h-o-s-t.com/#id=localhost:events:rwx:kirsty_hendry_-_performing-software).
+
+----
+
+Aside: 

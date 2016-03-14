@@ -1,0 +1,58 @@
+Title: Kuedo—Assertion of a Surrounding Presence
+
+----
+
+Date: 2015-10-20
+
+----
+
+Tags: production,neoliberalism,kuedo,k-n-i-v-e-s
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+While reading about new music (which happened because I clicked on an article *also* about [Xenofeminism](http://laboriacuboniks.net) that brought me to an Italian blog), I came across [K-N-I-V-E-S](http://www.k-n-i-v-e-s.com) and in particular to Kuedo's latest album.
+
+I found [this review](http://www.tinymixtapes.com/music-review/kuedo-assertion-surrounding-presence) and some passages just stuck in my mind and mostly fucked with my brain.
+
+For the most part, the text talks about the way K-N-I-V-E-S's approach to production within a Capitalist system is implemented. And the major point of friction is how to escape the trap of being regurgitated by the same system and ideology you are attempting to critique.
+
+> Yet, unlike similar net-located movements responsive to socio-philosophical subject matter, many “music & art” labels oddly make sure that their artefacts get pumped right back into the system that they attempt to critique—to the point where we get to witness “the best” of our cultural commentators have their work get pressed and designed (gorgeously) into nice fetish objects that get shipped all over the world, ultimately getting nestled in the bedroom milk-crates of our most privileged and our most alienated.
+
+> Their method acknowledges a swift digital presence, a serious A&R, that asserts `the proliferation of beautiful physical objects as a counter-current to other objects. This is an “assertion of a surrounding presence” on the publication scale, asserting that the art object is flexible within the capital discourse in order to exist with efficacy; yet the assertion is packaged alongside the beautiful, powerful, horrifying realization that critique itself is capitalistically valorised`. Given all the critical music getting produced these days—music that Knives will arrange, design, and release now and into the future—the hope is that the cultural price of admission, so to speak, is worth the actual utility of the critique [^1]. Even with all this cultural and professional necessity, perhaps the most compelling thing to see is an entire tumult of discourse and ambient signification become realized in a solid effort to arrive at something, well, solid.
+
+> Oddly enough, I’m almost certain I heard the instantaneously provocative “Eyeless Angel Intervention” at the end of design team [Metahaven’s “After Effects”](https://www.youtube.com/watch?v=arcEK5f4Lm8) lecture a few months ago in New York. The lecture meditated on softened and affect-oriented production techniques that hone intended messages, ones that function as perpetual propaganda occurring at the local and global levels to code any message as a representative spectacle. `Ultimately, Metahaven was pointing out that ideology itself is becoming increasingly located within the hardware and software infrastructures that bring media to global audiences: cameras, Ableton Live, Fujiflex, or vinyl records. Given the geo-political commentary apparently running through Kuedo’s album, the very geopolitics he seems to be commenting on are directly embodied in his music as a spectacular application of hardware/software, his spectacular production`. The album work is clearly propagandizing the cultural zeitgeist, or, as Knives so aptly put it, “divining a metaphysical cybernetic zeitgeist in the vaulted reverb structures of [Kuedo’s] [Ghost In The Shell](https://en.wikipedia.org/wiki/Ghost_in_the_Shell) nod,” a soundtrack that happens to contain the “Eastern” mystification that finds further resonance in the gamelan-driven “Event Tracking Across Populated Terrain.”
+
+> Kuedo’s newest, as well as Knives’s recent orientation as a whole, wants to allow for production itself to become the critique—a definite possibility given our complex and overloaded cultural “zeitgeist” consistently evolving and freezing itself through its sheer capability.
+
+A couple of things:
+1. The approach to criticise the dominant ideology of anything using the same tools that you want to criticise to produce that critique
+2. A music label so much committed to a certain* modus operandi* within a geo-political (and aesthetic) context.
+
+What happens is that their artefacts are forms of production taking place in a specific reality[^2], and the way the music label makes use of the critical literature it feeds itself is translated into it with a) the artefacts they produce and b) the way they are produced.
+
+Internet has a fundamental role in all this, being both part of the materials the music is composed of and at the same time the network through which these products are exchanged.
+
+[ow_draft--1](../ow/ow-draft-1) shares with the ideas quoted above the same attitude in analysing and producing something out of the tools you have an interest in, without really escaping them—remaining within their boundaries.
+
+I'd like to stitch together different outputs produced using the tools I am addressing in the content and forms of those outputs in a never ending, self-feeding loop [^3].
+
+[^1]: Before in the same text:
+> We see this in the mass-proliferation of Holly Herndon’s collaborative “platform” by way of 4AD, or Knives’s 90 Euro price tag used to fund the expensive production of Fujiflex reflective silver halide printed art objects.
+
+[^2]: Is the western capitalist-driven world still so specific? Or is it shattered  all over the place, badly or better reproduced in different part of the world?
+
+[^3]: The first sketch of that, was translating the text I wrote for *ow_draft--1*—and [published on github](https://github.com/afincato/ow_draft--1)—into an audio format : each section was a short audio track produced using Ableton Live and [shared on Soundcloud](https://soundcloud.com/afincato/sets/ow_draft-1-text-to-speech) in a podcast-like format .
+
+----
+
+Aside: Link to [Ghost in the Shell: Arise OST](https://soundcloud.com/smelly-hippie/sets/ghost-in-the-shell-arise-ost).

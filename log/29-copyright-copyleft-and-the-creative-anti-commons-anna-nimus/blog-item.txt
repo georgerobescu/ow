@@ -1,0 +1,186 @@
+Title: Copyright, Copyleft And The Creative Anti-Commons—Anna Nimus
+
+----
+
+Date: 2016-01-20
+
+----
+
+Tags: copyright,copyleft,creative-anti-commons,anna-nimus
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+The creative anti-commons stands for an «All rights dispersed» approach to author's copyright. Text [available here](http://subsol.c3.hu/subsol_2/contributors0/nimustext.html).
+
+Passages I underlined ⤵︎
+
+#### From "A Genealogy of Authors’ Property Rights"
+> Art was governed by a gift economy: aristocratic patronage was a gift in return for the symbolic gift of the work.
+
+> The sharp rise in literacy created a new middle-class public of consumers – a necessary precondition for commercializing culture. The capacity of the printing press to mass reproduce and distribute the written word destroyed established values, displacing art from the courts to coffee houses and salons.
+
+See also, journalism.
+
+ * * *
+
+> By locating the work of art in a pre-social, natural self, its meaning was free from contamination with everyday life.
+
+> (...) in 1791 Fichte argued that for an idea to be regarded as property it had to have some distinguishing characteristic that allowed only a single individual to claim it.
+
+Poor boy.
+
+> The Romantic worldview tried to elevate art to a pure space above commodity production, but its definition of the creative work as property reintegrated art into the very sphere it sought to negate.
+
+* * *
+
+> (...) copyright was attached to the author at birth but automatically assumed by publishers through the “neutral” mechanisms of the market.
+
+And it continues with
+
+> Authors had a right to own the products of their labour in theory, but since they created immaterial ideas and lacked the technological means to produce books, they had to sell their rights to another party with enough capital to exploit them. In essence, it was no different than having to sell their labour. *The exploitation of the author was embedded in the intellectual property regime from its inception*.
+
+> During the 19th century, American publishing companies justified their unauthorized publication of British writers on the utilitarian grounds that the public’s interest to have great works available for the cheapest possible price outweighed authors’ rights. By the beginning of the 20th century, as American authors became popular in Europe and American publishing companies became exporters of intellectual property, the law conveniently shifted, suddenly recognizing the natural rights of authors to own their ideas and forgetting previous theories of social utility.
+
+> Until the middle of the 19th century, copyright meant only protection against verbatim copying. Toward the end of the 19th century, this was redefined so that the property protected by copyright consisted (against Fichte’s definition) in the substance, and not in the form alone – which meant *translations* were also subject to copyright. Later this protection was extended to any close approximation of the original, like the plot of a novel or play or the use of the characters from a movie or book to create a sequel.
+
+> During a landmark court case in 1983 it was argued that computer software was also a “work” of original authorship analogous to poetry, music and painting in its ability to capture the author’s originality and creative imagination. This illustrates the wildly different contexts in which the myth of the creative genius has been invoked to legitimate economic interests. *And in each of the landmark cases the focus has always shifted away from corporations* (the real beneficiaries) *to the sympathetic figure of the author*, who people identify with and want to reward.
+
+#### From "Intellectual Property as Fraud"
+
+> If property is theft, as Proudhon famously argued, then intellectual property is fraud.
+
+> Unlike a material object, which can exist in only one place at a given time, ideas are non-rivalrous and non-exclusive.
+
+> The most famous rant against piracy was Samuel Richardson’s 1753 pamphlets denouncing unauthorized Irish reprints of his novel *Sir Charles Grandison*. *Contrasting the enlightened English book industry with the savagery and wickedness of Irish piracy, Richardson criminalizes the reprints as theft.*
+
+> By arguing that this Cause is the Cause of Literature in general, Richardson framed the battle over literary property in purely aesthetic terms, isolating it from its political and economic context. (...)
+
+> (...) But his use of the piracy metaphor recalled Britain’s colonial history and brutal repression of sea pirates. 18th century maritime piracy has itself been interpreted as a form of guerrilla warfare against British imperialism, which also created alternative models of work, property and social relations based on a spirit of democracy, sharing, and mutual insurance.
+
+What is the link with (democracy?)
+
+* * *
+
+> The idea of originality, and the possessive individualism it spawned, created a tidal wave of paranoia among the author “*geniuses*,” whose fear of being robbed seemed to mask a more basic fear that their claim to *originality was nothing but a fiction*.
+
+> The term *plagiarist* (literally, kidnapper) was first used by Martial in the 1st century to describe someone who kidnapped his poems by copying them whole and circulating them under the copier’s name.
+
+> After the invention of the creative genius, practices of collaboration, appropriation and transmission were actively forgotten.
+
+> It is not plagiarism that dispossesses an “owner” of the use of an idea; it is intellectual property, backed by the invasive violence of the state, that dispossesses everyone else from using their common culture.
+
+> The author-function represents a form of despotism over the proliferation of ideas. The effects of this despotism, and of the system of intellectual property that it shelters and preserves, is that it robs us of our cultural memory, censors our words, and chains our imagination to the law.
+
+#### From "The Revolt against Intellectual Property"
+
+> (...) Lautreamont called for a return of impersonal poetry, a poetry written by all. He added, Plagiarism is necessary. Progress implies it. (...)
+
+> His definition subverted the myth of individual creativity, which was used to justify property relations in the name of progress when it actually impeded progress by privatizing culture. The natural response was to reappropriate culture as a sphere of collective production without acknowledging artificial enclosures of authorship.
+
+* * *
+
+> In 1985 he [John Oswald] coined the term plunder phonics for the practice of audio piracy as a compositional prerogative (...) [His] motto was: "*if creativity is a field, copyright is the fence*."
+
+* * *
+
+> Steward Home, a well-known proponent of plagiarism and organizer of several Festivals of Plagiarsm from 1988-1989, has also advocated *the use of multiple names as a tactic for challenging the myth of the creative genius*. (...) the use of multiple names requires a self-effacement that draws attention away from the name of the author.
+
+> Wu Ming adds that this notion, which once appeared natural but has been marginalized for the past two centuries, is now becoming dominant again because of the digital revolution and the success of free software and the General Public License.
+
+> Copyrighting online writing seems increasingly absurd, because it is often collectively produced and immediately multiplied. As online information circulates without regard for the conventions of copyright, the concept of the proprietary author really seems to have become a ghost of the past. Perhaps the most important effect of digitalization is that it threatens the traditional benefactors of intellectual property since monopolistic control by book publishers, music labels and the film industry is no longer necessary as ordinary people are taking up the means of production and distribution for themselves.
+
+P2P, youtube, soundcloud, etc.?
+
+* * *
+
+> Copyleft claims ownership legally only to relinquish it practically by allowing everyone to use the work as they choose as long the copyleft is passed down.
+
+> The gesture by writers of anti copyrighting their works was made in a spirit of generosity, affirming that knowledge can flourish only when it has no owners.
+
+cfr. the gift.
+
+* * *
+
+> copyleft represents a coming of age, a painful lesson that relinquishing all rights can lead to abuse by profiteers.
+
+> those who want to share the common resources have certain *ethical obligations to respect the rights of other users*. Everyone can add to the commons, but no one may subtract from it.
+
+* * *
+
+> The “left” in copyleft resembles a vague sort of libertarianism whose main enemies are closed, nontransparent systems and totalitarian restrictions on access to information rather than economic privilege or the exploitation of labour.
+
+> The GPL and copyleft is frequently invoked as an example of the free software movement’s anticommercial bias.
+
+> To be free means to be open to commercial appropriation, since freedom is defined as the nonrestrictive circulation of information rather than as freedom from exploitation.
+
+> Wu Ming claim it is necessary to place a restriction on commercial use or use for profit in order to prohibit the parasitic exploitation of cultural workers. They justify this restriction, and its divergence from the GPL and GFDL versions of copyleft,* on the grounds that the struggle against exploitation and the fight for a fair remuneration of labour is the cornerstone of the history of the left*.
+
+Whereas Marx himself said to aim for freedom from a wage labour.
+
+> Other content providers and book publishers (Verso, for example) have expanded this restriction by claiming that copying, modifying and redistributing should not only be non-profit but also in the spirit of the original - *without explaining what this “spirit” means*.
+
+Lousy Hegelism.
+
+* * *
+
+> While some have multiplied restrictions, others have rejected any restriction at all, including the single restriction imposed by the initial copyleft. It is the movement around peer-to-peer filesharing that comes closest to the gesture of anti copyright.
+
+☺︎
+
+> The best example is the [Copyriot blog](http://copyriot.se) by [Rasmus Fleischer](https://en.wikipedia.org/wiki/Rasmus_Fleischer) of Pyratbiran (Bureau of Piracy), an anti-IP think tank and the one-time founders of Pirate Bay, the most used Bittorent tracker in the P2P community. *The motto of copyriot is no copyright, no license*. But there is a difference from the older anti copyright tradition.
+
+> Fleischer claims that copyright has become absurd in the age of digital technology because it has to resort to all sorts of fictions, like *distinctions between uploading and downloading or between producer and consumer, which don’t actually exist in horizontal P2P communication*. 
+
+> Pyratbiran rejects copyright in its entirety – not because it was flawed in its inception, but because it was invented to regulate an expensive, one-way machine like the printing press, and it no longer corresponds to the practices that have been made possible by current technologies of reproduction.
+
+Lovely expression, "expensive, one-way machine like the printing press". One-way machine.
+
+* * *
+
+> The more restrictive definitions of copyleft attempt to found an information commons that is not just about the free flow of information but sees itself as part of a larger social movement that bases its commonality on shared leftist principles.
+
+> By contrast, anti copyright is a gesture of radicality that refuses pragmatic compromises and seeks to abolish intellectual property in its entirety. *Anti copyright affirms a freedom that is absolute and recognizes no limits to its desire*.
+
+The second sentence may sound also very capitalist.
+
+#### From "The Creative Anti-Commons Compromise"
+
+> The commons denies producer-control and insists on the freedom of consumers.
+
+> (...) the notion of a cultural commons abolishes the distinction between producers and consumers, viewing them as equal actors in an ongoing process.
+
+> Creative Commons legitimates, rather than denies, producer-control and enforces, rather than abolishes, the distinction between producer and consumer.
+
+> It expands the legal framework for producers to deny consumers the possibility to create use-value or exchange-value out of the common stock.
+
+> The pick and choose CC licenses allow arbitrary restrictions on the freedom of users based on an authors’ particular preferences and tastes. In this sense, Creative Commons is a more elaborate version of copyright.
+
+> What began as a movement for the abolition of intellectual property has become a movement of *customizing* owners’ licenses.
+
+Capital is laughing so hard, man.
+
+* * *
+
+> When capital is threatened, it *co-opts* its opposition. (...) its most spectacular example is the transformation of self-organized workers’ councils into a trade union movement that negotiates legal contracts with the owners of corporations.
+
+> Creative Commons is part of a larger *copyfight movement*, which is defined as a fight to keep intellectual property tethered to its original purpose and to prevent it from going too far. The individuals and groups associated with this movement (John Perry Barlow, David Bollier, James Boyle, Creative Commons, EFF, freeculture.org, Larry Lessig, Jessica Litman, Eric Raymond, Slashdot.org) advocate what Boyle has called a smarter IP, or a reform of intellectual property that doesn’t threaten free speech, democracy, competition, innovation, education, the progress of science, and other things that are critically important to our (?) social, cultural, and economic well-being.
+
+> “free culture” to be a separate sphere existing in splendid isolation from the world of material production.
+
+CC and Free Culture are the two most dominant approaches to produce and share stuff on the internet. I first encountered the CC license on Flickr, back in 2007. Soundcloud is doing the same, to safeguard and give "more control" to the author of an audiotrack uploaded on their servers. It's quite shocking this has become the de-facto standard way to morally and ethically feel safe and protected from whoever evil person might rip off your work on and through the web.
+
+> *Berlin, 2006. Anti copyright. **All rights dispersed**.*
+
+----
+
+Aside: (file: copyright-copyleft-and-the-creative-anti-commons-anna-nimus.pdf text: Here a pdf version) I made.

@@ -1,0 +1,25 @@
+Title: RWX: The Situationist File System
+
+----
+
+Date: 2016-01-04
+
+----
+
+Tags: rwx,filesystem,game,alienation,situationism
+
+----
+
+Video: https://vimeo.com/144557453
+
+----
+
+Soundcloud: 
+
+----
+
+Text: A draft of a project to turn the filesystem into an exploratory game and make users less alienated.
+
+----
+
+Aside: 

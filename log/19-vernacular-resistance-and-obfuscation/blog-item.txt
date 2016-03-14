@@ -1,0 +1,211 @@
+Title: Vernacular resistance to data collection and analysis: A political theory of obfuscation
+
+----
+
+Date: 2015-12-08
+
+----
+
+Tags: resistance,data-collection,obfuscation,finn-brunton,Helen-Nissenbaum
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+Resonating passages from the text and related annotations:
+
+> The introduction of store “loyalty cards” perfectly fit a decades–long pattern: rewarding loyal customers with additional discounts in return for better data, which could inform mailings, coupon campaigns, even which products to shelve together.
+
+♥︎
+
+* * *
+
+> By obfuscation, we mean producing misleading, false, or ambiguous data to make data gathering less reliable and therefore less valuable.
+
+* * *
+
+> Are obfuscation tactics typically the response of the weak against the strong, adopted by those outside of circles of power and influence, or vice versa?
+
+* * *
+
+> Multiple databases consolidated and cross–referenced, with `incidental details` linking previously disconnected bodies of information, produce a far more significant whole than any one part would suggest: identities, tendencies, groups and patterns with both historically revelatory and predictive power.
+
+Incidental details: black holes' effect? Language's glitch?
+
+* * *
+
+> Counteracting the visions of doom (...) are the celebratory visions of enlightenment, knowledge, transparency, understanding, efficiency, and security through data analysis.
+
+* * *
+
+> in–car black boxes can improve gas mileage and turn every automobile accident into a `learning experience` for the prevention of future accidents.
+
+Learning experience: no.
+
+* * *
+
+> the powerful narrative of `sharing, love and community` which is deployed around user–created content and open source software today.
+
+Part of the myths?
+
+* * *
+
+> the notion that we are undergoing a profound social shift in which personal privacy ceases to matter to all but society’s malefactors.
+
+* * *
+
+> The power and the weakness of myth (...) is that it profoundly `simplifies`.
+
+* * *
+
+> we are often not fully aware of the monitoring, and do not know what will become of the information produced by that monitoring, nor where it will go and what can be done to it — the time–traveling robots problem [^1].
+
+* * *
+
+> The context is often a major power imbalance, between (...) citizens and governments.
+
+* * *
+
+> We don’t have access to the other databases, nor the techniques and the training in mathematics and computer science, `to comprehend what can be done with seemingly trivial details from our lives and activities`, and how they can provide more powerful, total and revealing analyses than we could have anticipated. The inconsequential and even benign can quickly become the problematic and sinister.
+
+* * *
+
+> The steady rhetorical drumbeat in the discussion around data privacy is that refusal is a personal responsibility. If you’re so offended by the way these companies collect and deploy your data, just don’t use their services — opt out. No one is forcing you. `To which we reply: yes and no.
+
+* * *
+
+>To rely entirely on personal choice is to leave all but the most dedicated and privacy obsessed at the mercy of the more conventional means of regulation — or resistance, with whatever means and capacities they have available.
+
+cfr. [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy).
+
+* * *
+
+> Furthermore, no matter how convincing the technical developments and standards, adoption by key societal actors whose organizations and institutions mediate much data flow is another matter and fraught with politics.
+
+cfr whatsapp and telegram.
+
+* * *
+
+> Obfuscation in its broadest and most general form offers a strategy for mitigating the impact of the cycle of monitoring, aggregation, analysis, and profiling, adding noise to an existing collection of data in order to make the collection more ambiguous, confusing, harder to use, and therefore less valuable.
+
+cfr. the [steam bath](../ow/chu).
+
+* * *
+
+> “If you could generate a large number of quotes that your competitors have to process, but you can ignore since you generated them, you gain valuable processing time” (Nanex, 2010).
+
+(image: nanex.gif)
+⤷ [Supercommunity, September 2nd 2015—Day 86 * Antonio Negri—NOTES ON THE ABSTRACT STRIKE](http://supercommunity.e-flux.com/texts/notes-on-the-abstract-strike/)
+
+* * *
+
+> Early loyalty card programs were relatively innocuous, used to (...) make extra margin from people who didn’t use the card,
+
+Like me, I don't own one and always refused to (up to now at least).
+
+* * *
+
+> (...) quite quickly (...) people shared cards (...) increasingly in large populations and over wide geographical regions (...) to obfuscate their data.
+
+* * *
+
+> This is obfuscation as a group activity: the more who are willing to share their cards, the farther the cards travel, the more unreliable the data gets.
+
+* * *
+
+> `private participatory sensing` obfuscates it beyond a certain degree of specificity — the data works generally, but not for identifying or tracking anyone in particular.
+
+* * *
+
+> `To protect these individuals, Hydra obfuscates by adding random IP addresses to the tracker, addresses that have been used for BitTorrent at some point. This means that periodically, as you request pieces of the file you want, you will be directed to another user that doesn’t actually have what you’re looking for. 
+
+* * *
+
+> Hydra does not avert data collection, but contaminates the results, making any specific case problematic and doubtful.
+
+* * *
+
+> If you want the value of an LBS, to be part of the network that your friends are on so you can meet if you are nearby, then you will have to sacrifice some privacy, and get used to the service provider knowing where you are.
+
+Sacrifice subjectivity ≠ sacrifice privacy.
+
+* * *
+
+> unable to distinguish the beginning from the end of a route, where you came from, and where you mean to go, still less where you are now. The salient data, the data we wish to keep to ourselves, is buried inside a space of other, equally likely data.
+
+[Steam bath](../ow/chu), again.
+
+* * *
+
+> `“[I]f we can’t completely prevent the transmission, is there something we can do so that the message is received with some of its content missing? Or might we distort it enough that it is hard to recover or, better yet, it is entirely misleading?”
+
+* * *
+
+> “`constructive disinformation`” attack where a receiver is unaware the message has been tampered with. “What if, instead of just destroying the key information in the message, we were able to replace parts of it with false, but convincing, information? (...)”
+
+* * *
+
+> (...) we must examine whether it is morally defensible.
+
+> (...) obfuscation has no ethical or political valence of its own, only to the ends that it serves.
+
+cfr. technology? lol.
+
+* * *
+
+> continuing to enjoy benefits without contributing to the cost by yielding one’s own data into the pool.
+
+* * *
+
+> Those who run adblockers can be among a privileged few to enjoy a quieter, faster–loading, ad–free Web, with free content underwritten by suckers who have not installed adblockers.
+
+* * *
+
+> “[F]or some profile information (e.g., an address or a phone number), it is ethically questionable to replace it with fake information that turns out to be the real information for somebody else.”
+
+* * *
+
+> As a possible counterargument, however, if we believe that these databases and the uses to which they are put are malign, this bug becomes a feature.
+
+* * *
+
+> The question about ends need not be as straightforward as whether or not they are morally sound but whether or not they are proportional. The obfuscator running TrackMeNot need not have to show that Google’s accumulating query logs is wrong outright; it may be enough to show that the accumulation of logs is disproportional` to the legitimate ends.
+
+* * *
+
+> at what point does inaccurate, confusing and ambiguous data render a given project or business effectively worthless? Obfuscation that does not interfere with a system’s primary functioning but affects only secondary uses of information might be quite fair.
+
+* * *
+
+> When pushed to the corner, in cases where the issues of extra load on resources, free riding, and data tainting cannot be denied, where the obfuscator acts earnestly to resist the machinations of monitoring and analysis, obfuscation must be evaluated as an act of reasonable and morally sound `disobedience`.
+
+So suspicious the idea and practice of civil disobedience.
+
+* * *
+
+> 1. Is it possible to create a meaningfully quantified science of obfuscation? Can we optimize different obfuscation tactics for different scenarios, and find weak points in the overall strategy?
+
+> 2. Does our description of obfuscation as viable and reasonable method of last–ditch privacy protection lead to the same political problems created by other systems of privacy preserving technology and possibilities like opt out — that is, putting the responsibility back on the private user and side–stepping the need to create a mature civil society around managing data?
+
+> 3. Are there methods for counter–profiling — figuring out how the profilers work to fine–tune our data strategies to best stymie them — that could be incorporated into the project of refining obfuscation?
+
+* * *
+
+> whatever claims profit–seeking CEOs make about “human nature” and its transformations.
+
+cfr. facebook.
+
+[^1]: From note #1 in the same text:
+> The relevant passage: “The time traveling robots from the future that I am talking about are all of the people in this room who are working on AI … You are going to get better at face recognition, speech recognition, identifying people from their voices and so on. Those AIs from the future are going to be able to come into the past — not literally … — but metaphorically in that they will be able to search all of these databases that we build now with better tools. They will be able to look at all the video that is being recorded today and all the ATM machines you used and say, ‘Where was Brad on February 7 of 2009? Oh, our modern face recognition software can look through those old records and find out.’ The sins of the past will be visited upon you in the future with tools that you did not know existed.”
+
+----
+
+Aside: Here the complete (file: vernacular-resistance-to-data-collection-and-analysis-a-political-theory-of-obfuscationfinn-brunton-and-helen-nissenbaum.pdf text: text).

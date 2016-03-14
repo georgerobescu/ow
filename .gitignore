@@ -10,12 +10,11 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
-!.gitignore
-
 assets/*
 
-log/*
-!log/**/*blog-item.txt
+log/*/**
+!log/*.txt
+!log/*/**/*.txt
 
 material/**/*
 !material/**/*index.txt

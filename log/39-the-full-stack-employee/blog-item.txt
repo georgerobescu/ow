@@ -1,0 +1,43 @@
+Title: The full-stack employee
+
+----
+
+Date: 2016-02-14
+
+----
+
+Tags: worker,work-ethic,full-stack-employee,silicon-valley,chris-messina
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+A "[think piece](https://medium.com/chris-messina/the-full-stack-employee-ed0db089f0a1#.6lscakrth)" by Chris Messina, a designer (?) who worked at Google and now at Uber, describing a new emerging kind of worker—more than a "Jack of all trades" because:
+
+> Despite the challenges of being a full stack employee, there are many upsides. For one, they have more freedom to work the way they want, where they want (with services like [Teleport](http://teleport.org) helping them find inexpensive places to work), when they want. They can use the [latest tools](https://www.producthunt.com/@chrismessina), as they’re expected to be self-sufficient and self-directed. They also have a broader range and variety of experiences owing to the collaborative, interdisciplinary nature of their work. They have increasing influence across the organization, as their voice is raised in more conversations, and carry a deeper personal responsibility for the company’s success, and are invested in the entire team’s success.
+
+* * *
+
+And on the "future of work":
+
+> It’s too much to suggest that the future of work will be led by full stack employees, but there is a significant trend in this direction, at the very least driven by the recent emphasis on entrepreneurship globally coupled with Millennial work trends. Certainly the nature of work is changing, and the highest value employees are those who can handle ambiguity and synthesizing enormous amounts of information into strategically useful tactics.
+
+> Moreover, we’re only a decade into, and before, the widespread presence of working robots. As they take over repetitive tasks like writing sports news stories or driving and package delivery, humans will need to re-articulate the roles they’re best suited for. Likely among them will be roles where human sensibilities and synthesis are at the fore, or where human language, nuance, and empathy are necessary to perform complex or sensitive tasks. The full stack employee will help us transition to this future, as they will be key to the new hybrid economy.
+
+----
+
+Aside: 
+
+At the end of the post on Medium:
+
+> This post was written in conjunction with Canon, as a contribution to their #GetThroughIT campaign, which celebrates the launch of the Canon Color imageCLASS MF820Cdn/MF810Cdn printer series for small- and mid-sized businesses. Canon sponsored this article, but the opinions are my own and don’t necessarily represent Canon’s positions or strategies.
+
+You, really.

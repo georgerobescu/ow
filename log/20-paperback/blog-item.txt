@@ -1,0 +1,31 @@
+Title: Paperback
+
+----
+
+Date: 2015-09-21
+
+----
+
+Tags: backup,paper,oleh-yuschuk
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+> PaperBack is a free application that allows you to back up your precious files on the ordinary paper in the form of the oversized bitmaps. If you have a good laser printer with the 600 dpi resolution, you can save up to 500,000 bytes of uncompressed data on the single A4/Letter sheet. Integrated packer allows for much better data density - up to 3,000,000+ (three megabytes) of C code per page.
+
+> You may ask - why? Why, for heaven's sake, do I need to make paper backups, if there are so many alternative possibilities like CD-R's, DVD±R's, memory sticks, flash cards, hard disks, streamer tapes, ZIP drives, network storages, magnetooptical cartridges, and even 8-inch double-sided floppy disks formatted for DEC PDP-11? (I still have some). The answer is simple: you don't. However, by looking on CD or magnetic tape, you are not able to tell whether your data is readable or not. You must insert your medium into the drive (if you have one!) and try to read it.
+
+⤷ [www](http://ollydbg.de/Paperbak/#1)
+
+----
+
+Aside: Still trying to make a picture in my head of how the printed backup would look like.

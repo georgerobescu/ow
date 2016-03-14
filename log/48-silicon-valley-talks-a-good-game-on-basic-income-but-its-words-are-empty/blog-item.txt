@@ -1,0 +1,31 @@
+Title: Silicon Valley talks a good game on ‘basic income’, but its words are empty
+
+----
+
+Date: 2016-02-29
+
+----
+
+Tags: basic-income,silicon-valley,evgeny-morozov
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+Evgeny Morozov on Silicon Valley's interest towards a basic income:
+
+> In fact, Silicon Valley can easily make the first step towards the introduction of basic income: why not make us, the users, the owners of our own data? At the very minimum, it could help us to find alternative, non-commercial users of this data. At its most ambitious you can think of a mechanism whereby cities, municipalities and eventually nation states, starved of the data that now accrues almost exclusively to the big tech firms, would compensate citizens for their data with some kind of basic income, that might be either direct (cash) or indirect (free services such as transportation).
+
+This point is the very problem with the piece: if it has to be a basic income, you will just get it no matter what, otherwise it's work.
+
+----
+
+Aside: [Inventing the Future](http://www.versobooks.com/books/1989-inventing-the-future) was a good read, with all its problems.

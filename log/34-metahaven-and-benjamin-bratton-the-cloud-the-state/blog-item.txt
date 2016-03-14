@@ -1,0 +1,42 @@
+Title: The Cloud, the State, and the Stack: Metahaven in Conversation with Benjamin Bratton
+
+----
+
+Date: 2016-01-28
+
+----
+
+Tags: cloud,state,the-stack,metahaven,benjamin-h.-bratton
+
+----
+
+Video: 
+
+----
+
+Soundcloud: 
+
+----
+
+Text: 
+
+> **BB** (...) The geographic-topological distinction between fixed node or fluid edge, central or de-central, could locate States on either side of the distinction and that amphibiousness is only increasing. I take “State” to mean a kind of formal jurisdictional structure that absorbs a geographic domain into its purview, that can assign identity and address, which can control mobility within a certain field, and which can claim final authority over the legitimacy of violence within a specific domain. But “networks” do all those things too.
+
+> (...)
+
+> **MH** How exactly are Clouds de facto States? They can bring together a rather large polity (like the Facebook population, for example), but this polity has no rights within that Cloud and does not share its (for example) Facebook citizenship with other Facebook users as their primary sense of citizenship yet… correct?
+
+> **BB** I will rely on the characterization of The Stack as a design brief. You are correct that no private Cloud platform existing today has the full power of a State, and perhaps they never will.But Cloud platforms will gain in influence and ubiquity and so may result in modes of sovereignty that are very different but equally impactful as those of States. Perhaps your Google ID will mean more in terms of your effective ability to migrate and trade and communicate than your passport or State ID. Furthermore, and equally important States will themselves increasingly become Cloud-like in various ways. The conversion works both directions.
+The curious example of the Google Maps war between Nicaragua and Costa Rica, where a change in Google Maps almost initiated a conflict between the two countries, is telling. The naming and measuring of the ground over which and into which politics might maneuver used to be a core function of the State. In this example, States defer to Google Maps to draw the nomos.
+
+* * *
+
+> **BB** (...) The optimistic scenario is the emergence of “new modes of sovereignty” that would let people assemble and connect in ways that better serve their real needs and wants. Perhaps these are not recognizable as states, platforms, corporations, or commons, but some bizarre hybrid of all four plus three new things we don’t know yet.
+Equally likely is what we can call Cloud Feudalism. In this scenario, the walls of some gardens are hard and thick. The mechanization and routinization of everyday life is amplified beyond measure and all politics (including biopolitics) reduce user-citizens reduced to mere personnel.
+Those without means to purchase their way into a Sky Club Sovereignty are left to the wilderness: no privacy, poor services, easily curtailed access, highly restricted channels of online work, etc. Perhaps that is simply to say that Cognitive Capitalism creates its own bourgeoise, proletariat and lumpen proletariat, and that the highly centralized nature of Cloud platforms to date suggests that their architecture is Feudal.
+
+⤷ [source](http://mthvn.tumblr.com/post/38098461078/thecloudthestateandthestack)
+
+----
+
+Aside: 
