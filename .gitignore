@@ -22,3 +22,7 @@ material/**/*
 notes/*/**
 !notes/*.txt
 !notes/*/**/*.txt
+
+projects/*/**
+!projects/*.txt
+!projects/*/**/*.txt
