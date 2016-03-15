@@ -5,37 +5,60 @@
 * Research questions
 * Table of Contents w/ chapters summaries (100w max)
 * Literature/Reading List + planning till May
+* a written update on your end exam project as it now stands: how does the thesis relate to it? How will the final thesis be presented: a booklet, online?
+* any other related writing or ideas that you would like me to prepare comments on
 
 ## Research questions
 
-* What is the agency of the user in The Stack of a post-work society?
-* How do we reconfigure, as human users[^1], our understanding of labour within a post-work society?
+* What is the agency of the user in The Stack[^1] of a post-work society?
+* How do we reconfigure, as human users[^2], our understanding of labour within a post-work society?
 * Or, how do we build a new post-human ethics for the user of a post-work society?
 
-[^1]: The user, as described in The Stack by Benjamin Bratton, is anything able to interface with another user, be it a human agent, a non-human one, an animal, a machine, a mineral, a plant, a robot, an algorithm, etc.
+[^1]: The Stack is “[the accidental megastructure](http://www.e-flux.com/journal/the-black-stack/)” which governs everything (computable) in the world. It is formed by six layers, from top to bottom: 1. user, 2. interface, 3. address, 4. city. 5. cloud, 6. earth.
+
+[^2]: The user, as described in The Stack by Benjamin Bratton, is anything able to interface with another user, be it a human agent, a non-human one, an animal, a machine, a mineral, a plant, a robot, an algorithm, etc.
 Further, since the centrality of work as the main vector to form one’s subjectivity in the world (after the death of God), how would a user’s subjectivity be formed in a post-work society? Rather than minimising labour, which is a constituent part of the experience of being a user, labour might be reformulated and understood in a different way: not something to do in order to stay alive, but an activity amongst others accomplished out of personal interest. The universal basic income (ubi), an essential element of a post-work society, further problematises the situation, since we should define who can have access to it: e.g., what about robots? Post-humanism is all about co-habiting with subjects of different natures, instead of making them subservients as it is now.
 
 ## Table of Contents w/ chapters summaries
 
-1. user’s agency
-2. co-usership through alienation
-3. platform’s politics
+1. **User’s agency**
+    * The Stack and the User
+    * from God to labour
+    * hubris
+2. **Building usership through alienation**
+    * alienation and post-humanism
+    * what are a user
+3. **Platform’s politics**
+    * github’s terms and conditions
+    * git’s decentralised structure and github’s centralised one
+    * from free software to open-source software
+    * intellectual property
 
+**User’s agency**:  
+Contextualisation of the user subject within the structure of The Stack; analysis of the passage from God to labour as the central element to build one’s subjectivity; exploration of *hubris* within *agency*, in regard to a post-humanist conception of subject.
 
+**Building usership through alienation**:  
+Using alienation to strecht the current set of ethics between human-based users and other kind of users, in order to expand them and making a new set of post-human ethics for the user.
 
+**Platform’s politics**:  
+Using [github.com](https://github.com/) as example of the Cloud level of The Stack. Analysis of its political structure and modus operandi. Focus on the passage from git’s[^3] decentralise structure to github.com’s centralised one and from free software to open-source software. Finally, exploring the idea of intellectual property for the user of The Stack.
 
+[^3]: git is the tool, invented by the founder of Linux, to keep track of software changes during its development. At its core is built around a decentralised architecture, for which each developer can duplicate a copy of the shared project on which the whole team is working on, making edits, and submit those changes to the rest of the team, without touching the “original”, or master, copy of the project.
 
-
-
-
-
-## Reading List:
-* The Stack, Benjamin Bratton (reading it)
-* Willing Slaves of Capital, Frédéric Lordon (reading it)
-* Xenofeminist Manifesto, Laboria Cuboniks (read)
-* Copyright, Copyleft and the Creative Anti-Commons, Anna Nimus (read)
-* Inventing the Future, Nick Srnicek and Alex Williams (read)
-* Towards a Lexicon of Usership (read)
+## Reading List
+* The Stack, Benjamin Bratton
+* Willing Slaves of Capital, Frédéric Lordon
+* Xenofeminist Manifesto, Laboria Cuboniks
+* Copyright, Copyleft and the Creative Anti-Commons, Anna Nimus
+* Inventing the Future, Nick Srnicek and Alex Williams
+* Towards a Lexicon of Usership
 * Vernacular Resistance to Data Collection and Analysis: A political theory of obfuscation, Finn Brunton and Helen Nissenbaum
 * The Last Night, Federico Campagna
 * The Uprising, Franco “Bifo” Berardi
+
+## Planning
+
+???
+
+## Project’s update
+
