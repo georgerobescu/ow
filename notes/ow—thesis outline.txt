@@ -8,17 +8,12 @@
 
 ## Research questions
 
+* What is the agency of the user in The Stack of a post-work society?
+* How do we reconfigure, as human users[^1], our understanding of labour within a post-work society?
+* Or, how do we build a new post-human ethics for the user of a post-work society?
 
-
-
-
-
-
-
-
-
-
-
+[^1]: The user, as described in The Stack by Benjamin Bratton, is anything able to interface with another user, be it a human agent, a non-human one, an animal, a machine, a mineral, a plant, a robot, an algorithm, etc.
+Further, since the centrality of work as the main vector to form one’s subjectivity in the world (after the death of God), how would a user’s subjectivity be formed in a post-work society? Rather than minimising labour, which is a constituent part of the experience of being a user, labour might be reformulated and understood in a different way: not something to do in order to stay alive, but an activity amongst others accomplished out of personal interest. The universal basic income (ubi), an essential element of a post-work society, further problematises the situation, since we should define who can have access to it: e.g., what about robots? Post-humanism is all about co-habiting with subjects of different natures, instead of making them subservients as it is now.
 
 ## Table of Contents w/ chapters summaries
 
