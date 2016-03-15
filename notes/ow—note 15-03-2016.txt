@@ -1,0 +1,54 @@
+I began this project out of an interest for user’s data production on the internet (and for the internet): using gmail, facebook, amazon, etc.
+
+Then I moved to post-fordism, labour, feminist theories, the idea of the gift, “alternative” forms of economies and currencies (for example the Bank of Time).
+
+I individuated in github an excellent example in which and through which I was able to converge different interests I had at the same time: self-tracking of one’s activities (git-commit, log, building a history and a narrative of actions); free labour (under the label of open-source software) and the ethics around it (*toc: 1. ethics; 2. participation; 3. peer production; 4. transparency; 5. maintenance work*, see [ow_draft--1](https://github.com/afincato/ow_draft--1))
+
+From there on I slowly approached the theme of the user, as a subject who transformed (or is still transforming) from the position of the worker: both in the sense that nowadays people are unemployed and the only form of labour they produce is through the usage of some internet services (big stretch but somehow pretty valid), but also in a kind of ontological passage from the subject of the worker to the one of the user. User is the current state of being. You can also be a worker of some kind, but very often (at least in the western world) you are most probably also a user—first and foremost a user.
+
+Unable to decide how to tackle the topic of “internet and labour”, how to narrow it down to some more precise topics, I saw in the figure of the user a very intriguing starting, if not central, point to start from and to work on.
+
+In parallel, the idea of a basic income, sometimes universal, sometimes not, began to appear and I found it very interesting in connection to the new figure of the user on the internet: what would it be the role, the subjectivity and most importantly the set of ethics that the user on the internet might have in the context of a post-work society—where a universal basic income has become institutionalised and part of the commons (ugh), or of the general guaranteed assets for a human being?
+
+The ethics of the user in the context of a post-work society. How does he she it perceive and understand labour, in this particular society? What if labour becomes for the most part free-labour, but instead of a form of surplus-value for some big company, it would be merely an activity that you do to frame your life? So instead of free labour, just labour.
+
+Rather than withdrawing or obfuscate user’s data production, is there a point where this procedures become useless, rather than useful (at least in a monetary sense?)
+
+With an understanding of the user as one or more agents able to interface with another user, and referring to agent as any kind of subject, be it human, non-human, ahuman, animal, vegetal, algorithmic, stone-based, robot, etc., how do we redefine user’s agency? How much is due to a human being action that an email is sent?
+
+The subject of the user, for how it is talked about in The Stack (Benjamin Bratton), is indeed a passage from a human-centric world, to a post-human one. Leaving aside dualistic view of human/machine, human/animals, human/non-human, what I am interested is to explore this situation and trying to find ways to move to a different way to relate with other entities which take part in the user experience that we have as humans. 
+
+Alienation could be a strategy to undertake this change in the conception of other subjects which surround us: rather than making robots subservients to human needs, is there a different way for which we can cooperate together?
+
+> XF [Xenofeminism] seizes alienation as an impetus to generate new worlds. We are all alienated—but have we ever been otherwise? It is through, and not despite, our alienated condition that we can free ourselves from the muck of immediacy. (...) The construction of freedom involves not less but more alienation: alienation is the labour of freedom's construction. Nothing should be accepted as fixed, permanent, or 'given'—neither material conditions nor social forms. XF mutates, navigates and probes every horizon.  
+
+*from the Xenofeminist Manifesto*
+
+If we understand freedom as also, freedom from the current anthropocentric standpoints that we have on our experience and understanding of the world, “generating new worlds” means to find new positions in regards to all the other users (non-humans) participating in our experience of the world.
+
+Same with the rest of the other agents operating all the time when we do something (again, think about sending an email or just the constitution of our body, 90% and more of which is made of non-human microbes). 
+
+I don’t want to anthropomorphise all these other actors, giving them human qualities or agency. I’m interested in finding ways to become more aware of all these sub-agencies (which is still a human-centric way of looking at it) and giving them proper recognition. Taking away as much human hubris as possible. This is in fact the first action toward a post-humanist set of ethics.
+
+Interdependence not only between human beings but also between other users, of different nature.
+
+* * *
+
+My questions are:
+* ~~How do we reconfigure our understanding of labour in a post-work society—where work is automatised but not fully replaced by machines?~~
+* ~~How do we find ways to live our position of users as not, often, the main subject constituting it?~~
+* ~~Or, how do we build a new post-human ethics in a post-work society?~~
+* ~~What is the agency of the user, within The Stack?~~
+* ~~What is the agency of the user in a post-work society?~~
+* ~~Is it possible to subvert the current extreme level of exploitation of our actions into data-production, to the point where they are non-monetizable (useless data to whoever wants to exploit surplus value out of it; useful in some way to the user who produced it)~~
+
+* What is the agency of the user in The Stack, within a post-work society?
+* How do we reconfigure, as human users, our understanding of labour within a post-work society?
+* Or, how do we build a new post-human ethics for the user in a post-work society?
+
+* What is the agency of the user in a post-work society?
+** How do we reconfigure our understanding of labour in a post-work society—where work is automatised but not fully replaced by machines?
+** How do we find ways to live our position of users as, often, not the main subject constituting it?
+
+* How do we reconfigure, as human users, our understanding of labour within a post-work society?
+** Is it possible to subvert the current extreme level of exploitation of our actions into data-production, to the point where they are non-monetizable (useless data to whoever wants to exploit surplus value out of it; useful in some way to the user who produced it)
