@@ -90,3 +90,6 @@
 11/03/16 22:12:00 — Undoing Property_BOOK.pdf
 11/03/16 22:14:32 — Leila McGlew.webloc
 15/03/16 21:47:58 — Red stack attack! Algorithms, capital and the automation of the .webloc
+23/03/16 16:12:03 — rosi-braidotti-the-posthuman.pdf
+24/03/16 11:15:04 — rosi-braidotti-posthuman-all-too-human-towards-a-new-process-ontology.pdf
+24/03/16 11:18:19 — Rosello, M. 2011. 'Rudimentariness as Home'.pdf
