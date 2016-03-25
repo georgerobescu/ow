@@ -1,0 +1,39 @@
+# Thesis’s outline, update after the talk
+
+Proposed outline draft #1:
+
+1. **User’s agency**
+    * The Stack and the User
+    * From God to Work
+    * Hubris
+2. **Building usership through alienation**
+    * Alienation and Post-Humanism
+    * What are a user
+3. **Post-work society**
+    * Universal Basic Income
+    * Intellectual Property
+4. **Platform’s politics**
+    * github’s terms and conditions
+    * git’s decentralised structure and github’s centralised one
+
+Updates:
+* keeping as the main object of the thesis github.com;
+* the user is the only other element part of the research
+* resizing the rest of the material either within the sphere of the user or the one of the platform
+
+1. user
+    * from post-fordism to internet-based usership
+    * user’s agency (from God to Work, hubris)
+    * the stack and the user
+    * alienation (alienation and post-humanism)
+2. platform’s politics
+    * terms and conditions
+    * git’s decentralised structure and github’s centralised one
+    * universal basic income
+    * intellectual property
+
+user → github → post-work society
+
+github and redistribution of economy; github and its underlaying structure (which might seem invisible when it works flawlessly but it is “always” there) and how the platform tried to hide what’s the final output of the user operating in it.
+
+Positive alienation, able to induce a user to take a step back and see how the platform she’s part of is really functioning and built. Positive alienation, able to change the current dominant set of ethics present in our western society, toward a different understanding and relationship with other non-human and ahuman users.
