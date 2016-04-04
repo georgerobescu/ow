@@ -106,3 +106,26 @@ May 26–June 1,
 ## Project’s update
 
 Something I’d like to discuss with you is if using the example of github as a “body” to discuss the overall thesis. For this, as I showed you briefly last time, it would be really nice if you could read this text I presented last year as my project’s draft proposal—[ow_draft--1](https://github.com/afincato/ow_draft--1).
+
+* * *
+
+01.04.2016
+
+0. introduction
+    * what is work
+    * what is git and github
+    * on the irrelevance of democracy to understand the “situation” [^1]
+1. user
+    * from the post-fordist worker to the internet user
+    * user’s agency
+    * the stack and the user
+2. platform’s politics
+    * terms and conditions
+    * git’s decentralised structure and github’s centralised one
+
+
+To address:
+* universal basic income (put it in the introduction or at the end in a new chapter?)
+* intellectual property
+
+[^1]: The “situation” is both the current one but especially a future scenario for the posthuman and the post-anthropocene. If humanity will stop to feel so central to the world, then why using democracy? Which “people” (demos)? Demos, in the best case, will be one part of the overall picture.
