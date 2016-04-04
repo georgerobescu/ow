@@ -1,0 +1,58 @@
+# Note on git and github.com
+
+Amongst the different examples one can choose to give an idea of how the activity of work is being shaped nowadays (year 2016), and at the same time focusing the attention to the new figure of worker par-excellence in our society, `git` and github.com are a pretty valid choice.
+
+For two reasons:
+* the rise of the worker figure writing code for a living (be it at different levels of capacity, from programmer to software developer, to coder, to computer scientist)
+* the very interesting architecture that `git`, an utility to helps whoever write code (or any text) to keep track of the changes implemented and build a history of the project he she is working on, has built in order to be useful for someone using it.
+
+In both cases, there is a common element of transition from being a figure/tool living in the shadows, judged from the mainstream society as a weirdo (but still useful nonetheless), to a growing popularity thanks to the capitalisation made on new markets thanks to it (finance, internet services, phone’s apps, etc).
+
+In this framework, I’ll introduce how `git` and the platform github.com work.
+
+* * *
+
+`git` was initially created by Linus Torvalds, the same person who created Linux. Consequently both projects have been kept developing by the rest of the team working on the Linux kernel.
+
+`git` was designed as a free-software replacement to BitKeeper, a similar, but proprietary, application.
+
+As a piece of software, `git` works as an invisible folder created within the project folder you want to keep track of.
+
+Then, either by using the terminal.app or another dedicated application, `git` tracks every change you produce to the files present in the project folder and lets you see and process those changes. 
+
+This changes are asked by git to be commented on, meaning that you have to give a short description of what you did with those files and give an OK to those changes to be sent to the main history of your git.
+
+With this action, indeed, you are slowly building a history of all the actions you made while working on a particular project. This is really useful in two ways:
+* you can go back to a previous version of a certain file, in the case you made an error that is invalidating your project
+* someone else working on the same project within your team can easily see what has been done, without having to ask anybody “who did what”
+
+This two core principles, made `git` extremely useful when working in a software developer team for example, in that often each member of the team is focused on a particular feature of the application, and with this architecture she he can have both a micro and a macro view of the status of the project. The option to go back to a previous state (or version) of the software (down to a single file) is of course quintessential to its widely-spread adoption as the de-facto version-control system between most software developers and companies.
+
+`git` is built around a very precise architecture, which is then mirrored to the user itself, through the behaviours and way of thinking she he has to adopt in order to make use of the tool.
+
+In parallel, `git` can be see also as a very curious example of how to bring back a certain structure within the post-fordist worker subject. It often re-iterates some basic principles imposed by the neo-liberal regime to this new ontological class of worker (which maybe it’s not even a class due to how widespread in society it is?), such as the concept of governmentality and accountability.
+
+Github.com, perversely, has become one (if not the one) of the major online platforms where a git-user can upload her his repositories (the project folders governed by `git`), share them with other users and use the platform as an extra backup to one’s files present on her his computer.
+
+This fact is curious and perverse since it breaks completely the fundamental architecture of `git` as a decentralised system.
+
+`git` in fact, automatically duplicates the main project folder a team is working on for each of its members, meaning that:
+* a master repository exists somewhere (let’s say on a server)
+* each member, when taking part in the project, `git-fork` the repository—they make a copy of that folder on their computer
+
+Whenever they have done some major changes, they can send an updated version of the their local project-folder to the master folder, which in turns triggers an automatic question to all the other members of the team saying “user-x wants to update the project with this new version, do you accept it?”.
+
+In the case someone says yes and the update appears to contain some problems, hence making the master folder unstable, it is possible to simply reject the last update and going back to the previous state of the project. In addition, any other member can fix it because she he still has an original copy of the master folder in their git, so they can replace the new unstable version with the previous one which is not.
+
+The perverse element present in github.com is that, most people use it because it makes it easier to share projects and find new ones you can use for your own needs, since it is just one website.
+
+But this breaks the idea of having several, maybe smaller, servers, mirroring git repositories all around the network and thus avoiding a “server is down” scenario in the case that might happen with github.com. This act of “mirroring” through the network clones and clones of the same git-repositories (hence having the master folder of each repository always available thanks to this multiplicity of objects), works as a direct physical form of decentralised system.
+
+Linus Torvalds famously said he doesn’t need to do any backup, because all his files are spread over the internet by other people cloning his projects. I wonder how he does when the files are pictures or music or personal text files—in that case maybe it doesn’t really work and probably he doesn’t even want that to happen, preferring to keep those sensible data on a local hard-disk; but still it’s fascinating to hear this liberating approach of embracing for real git, the network, and a decentralised approach to data. Then of course he’s in a very privileged position, being very famous in the community he’s active, so for sure there will be tons of people who have cloned some of his projects on their github accounts or personal servers, where he can trace back his files.
+
+Github.com it’s an interesting object of inquiry precisely because it embodies two different states of mind: decentralisation and centralisation.
+
+As a mega-structure, it acts as a giant factory composed of small to medium to very relevant actors (from weekend coders to major companies), merging together different kind of ethics one on top of the others (free-software, open-source, peer2peer), and possibly functioning as a mirror to the current state of society and other subterranean (if still living) tendencies. Moreover, it depicts the transformation from post-fordist worker to user in one of its most recognised and zeitgeist-y form, the software developer (and whoever writes code in some form).
+
+* How is work structured both at the level of production and on the body of the worker (or user)?
+* How is the site of production (factory, office, etc.) replaced by platforms?
