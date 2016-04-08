@@ -1,0 +1,13 @@
+# embodying-git
+
+Embodying-git, once born as a video series, is now moving toward, also, a zine in the form of a dictionary, a user-manual, and a general translation of git within the greater general world (eg. using metaphors to explain some git-commands into other actions)? Is it?
+
+The zine will focus on the basics of git and the repercussions and influence on the user:
+* basic git-commands
+* git’s dynamics and architecture (master repository, branches, submodules)
+
+Screenshots and processes.
+
+A comparison between The Stack multi-layer structure and git’s multi branch and submodule structure.
+
+For each git-command a counterpart physical-bodily action.
