@@ -113,7 +113,7 @@ Something I’d like to discuss with you is if using the example of github as a 
 
 0. introduction
     * what is work
-    * what is git and github
+    * git and github.com
     * on the irrelevance of democracy to understand the “situation” [^1]
 1. user
     * from the post-fordist worker to the internet user
