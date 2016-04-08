@@ -1,0 +1,9 @@
+# Notes from the talk with thesis tutor
+
+* comparison between github user and users from other platform (eg. stackoverflow)
+* building status on github (fork, watch, start)
+* comparison between github platform and political organisation, status and meritocracy (as closing section of the essay)
+* the potential of the readme.md file (see ow_draft--1)
+* accountability (git’s history building)
+* copyrights, copyleft and anti-copyrights on github
+* larger ecosystem of github (eg. the ethical implication of using free software to make money)
