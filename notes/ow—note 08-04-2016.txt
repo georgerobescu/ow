@@ -1,0 +1,5 @@
+# Some notes for possible projects
+
+* make an interview with Federico Campagna, that becomes a video as part of the final artefacts (going to London—where he lives—to film the whole thing [w/ Luca?]? Or make it over Google Hangout)—read Willing Slaves of Capital and focus the interview on why the desire to work in a post-work, posthuman society (and what does this mean)
+* play and experiment with graphic design on “New form of literacy on computation, where the body is data: git”, as a way to give form to the embodying-git project? Or in general to the focus on git and github
+** this could ideally turn into a small booklet to introduce others (a public) to git and github, such as: a zine with basic git commands and relative more common (metaphorical) examples to make them more graspable, but especially to translate them into other forms (but with same principles)
