@@ -20,24 +20,57 @@ So, since this reshaping of human being’s reality, how is work perceived, espe
 
 ## Email
 
-Hello Federico,
-I’m André, a designer currently finishing an MFA at the Sandberg Instituut, Amsterdam—in a master programme called [Designing Democracy](http://www.designingdemocracy.com/).
+Hi Federico,
+My name is André, I am a designer based in Amsterdam and am currently finishing my MFA in the [Designing Democracy](http://www.designingdemocracy.com/) program at the Sandberg Instituut.
 
-My research project revolves around the transformation of labour on the internet, especially with the transition from a post-fordist worker subject to an internet user subject. I’m using [github.com](https://github.com/) as the object of my inquiry, to point to a possible modality and shift in the understanding of work, and at the same time to look at the platform’s politics in use on this website.
+My research project revolves around the transformation of labour on the internet, particularly through the turn of post-fordist worker to internet user.
 
-As a theoretical backdrop for the project, I’m setting a possible future scenario in a post-work, posthuman society. I’m particularly interested in how the rising of automation for many jobs, together with a planetary-scale, non-citizen based Universal Basic Income would push away human beings from identifying themselves with the work they perform daily: not because they will stop working, but because they won’t have a need to go to work in order to make a living.
+Since for the beginning of my research I read your book The Last Night, and found it quite impressive in the propositions you suggest to adopt for a different understanding of work, I’d like to ask if I could interview you on these topics. 
+
+If you’re interested in this, let me know and I’ll send you more details and some initial questions. I’d like to come to London in early May to film the interview and use it as part of the exhibition for my thesis project, but can also be flexible with timing if that doesn’t work for you.
+
+Thank you for your consideration.
+
+* * *
+
+As a theoretical backdrop for the project, I’m setting a possible future scenario in a post-work, posthuman society. I’m particularly interested in how the rising of automation for many jobs, together with a planetary-scale, non-citizen based Universal Basic Income would push human beings away from identifying themselves with the work they perform daily: not because they will stop working, but because they won’t have a need to go to work in order to make a living.
 
 I’m reading Frédéric Lordon’s Willing Slaves of Capital, and I find the concept of the (spinozian) conatus quite fascinating in this sense. The connection with the shift in importance between human beings and work is striking in my mind.
 
-Since for the beginning of my research I read your book The Last Night, and found it quite impressive in the propositions you suggest to adopt for a different understanding of work, I’d like to ask you if you are available to make an interview on these topics. 
+Here is more informations about the project — [http://andrefincato.info/ow](http://andrefincato.info/ow)
 
-If you’re interested in this, let me know and I’ll send you more details and a bunch of initial questions. Ideally I’d like to come over to London in early May to film the interview and use it as part of the exhibition for my project, but if that would not be possible I’m willing to find other options with you.
-
-Here more infos about the project — [http://andrefincato.info/ow](http://andrefincato.info/ow)
-
-
-Thanks.
 
 Bests,
 André
 
+* * *
+
+## Questions
+
+1. In your book The Last Night, you propose the figure of the adventurer and squanderer, as a parasite “who use work as a tool to provide him-herself with all he she need—or with all he she can take.” Would this figure still persists in the context of a post-work, Universal Basic Income-based society?
+2. The shift to a post-work society includes also a shift to the conatus toward work as the primary mean to sustain one’s life. How would this influence the relationship between a worker and the activity of worship that she he performs toward his her job? Would this mantra break?
+3. Or, rather, would it be the opposite? A stronger and more pure mantra toward work, because less dependant on providing material needs.
+4. Why should one go to work, then, if it’s not a necessary activity in order to sustain one’s life?
+
+5. Since the almost total superimposition of labour on life in the internet user subject—as a constant extraction of surplus value from any possible activity one performs—how can one be an adventurer and squanderer when in this position? Is really a predilection towards autonomy the better counter-act one can choose to do?
+6. Would you say that it’s possible to define a difference between labour and work? The former as any activity performed within a job and the latter, instead, as a general activity demanding a certain amount of energy, attention, and interest no matter the context? Or is it maybe the opposite?
+
+* * *
+
+## General notes for the video interview
+
+The interview should have 3-5 solid, very focused questions, that delineate the trajectory from the current work-centred (or rather waged-labour) society to a post-work one. In doing this, the questions should point out possible fallacy or irrelevant concepts and values in use when talking about work.
+
+The interview should last maximum 5 minutes.
+
+Possibly, there should be 4 core questions. Then, adding other questions in order to later evaluate if they can expand the 4 basic ones in an interesting way. They could be integrated in the final edit of the interview.
+
+More than looking for very specific answers, the interview should be the entry point toward the project exhibition. Hence, laying out basic, defining pillars that can be messed up and expanded later on in the rest of the work. Moreover, the interview doesn’t already introduce the subject of the internet user, so as an introduction it might work better—always if this will stay the introduction of the project.
+
+But in essence, I am asking, if you don’t have to really work in order to make a living, for what reasons would you possibly do that?
+  
+* * *
+
+How much sense would it make to edit the video adding other material on top of it (as in embodying-git)?
+
+Then, should I be in the final edit as well, asking questions or should the question appear on screen as a way to frame and give a certain visual structure to the 3-4 core questions?
