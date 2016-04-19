@@ -1,15 +1,38 @@
+# On ending the introduction chapter of the thesis
+
+## Democracy as desert, freedom from work
+
 Carmelo Bene on democracy:
 
 > What's the only form of government which guarantees something? Democracy, no doubts. Paradoxically it's the most acceptable. Emil Cioran made a good analysis about it.
 
-> So I ask you: what does democracy guarantee that a dictatorship does not? Sure! It guarantees something—do you know what is it? It guarantees life to be unlivable. It doesn't figure out your life! Who chooses democracy, who chooses freedom, chooses the desert—if democracy were freedom at all. But democracy is nothing, democracy is pure demagogy.
+> So I ask you: what does democracy guarantee that a dictatorship does not? Sure! It guarantees something—do you know what is it? **It guarantees life to be unlivable**. It doesn't figure out your life! Who chooses democracy, who chooses freedom, chooses the desert—if democracy were freedom at all. But democracy is nothing, democracy is pure demagogy.
 
-A framing of democracy as the one quoted above—though very hypothetical in its declaration—positions one’s life to a very radical question: what does frame and shape your life?
+A framing of democracy as the one quoted above—though quite hypothetical in its declaration [^1]—positions one’s life to a very radical question: what does frame and shape your life?
 
-If this kind of freedom would exist and or would be reached by someone, then this someone would be confronted by this kind of query.
+[^1]: For only to the fact that democracy might never really have happened.
 
-What would happen then, if work would shift to a different grade of importance in the making of one’s life?
+What would happen then, if work would lose its centrality in the society we live in and shifted to a different grade of importance in the making of one’s life?
 
-(This already somehow contradicts the nature of democracy itself, which is participation: if everyone takes part in its processes, they would all be at work, in some form.
+It is this understanding of democracy that connects well with the postulation of a post-work society: as Carmelo Bene said, freedom would be, first of all, liberation from work.
 
-What makes a difference then, is)
+Though work would never go away from human’s activities, a reframing of its cultural importance is necessary to move away from the contemporary ubiquity it has today. 
+
+The most crucial challenge is not to get rid of work in itself, understood either as a job or as any activity performed in order to sustain one’s life and make a living. Rather, it is shifting work to any activity demanding a certain amount of energy, attention, and interest no matter the context.
+
+The democratic aspect in this process of transformation, lies in the fact that work is set free from a basic desire of subsistence, of conatus as work.
+
+This is not to prevent the production of other form of values and rather, it is a way to foster many other “excessive energies” [^2] from the activities one can perform instead of dead wage-labour.
+
+[^2]: With “excessive energies” I refer to Georges Bataille’s ideas expressed in The Accursed Share.
+
+## 2. socialism? and value production and distribution
+
+Though I don’t really know about how to make use of socialism, both because I don’t really know much about it and also as a way to manage value production and redistribution, I still quickly want to see if it might be a better, more interesting and potentially viable way to accomplish such task, instead of relying to democracy.
+
+If socialism happens when each of us own the means of production, making tabula rasa then of capitalists and capitalism as a set of hegemonic ideas and values, then could socialism be applied to the current organisational structure of github.com?
+
+First quick reply: as a github user, you own the data you upload over their servers, but since they provide the infrastructure, does that mean you technically don’t own your means of production?
+
+`git` is a free and open source software project, so it’s yours to be used. The git logo and term “git” is not, in order to «[avoid confusion](https://git-scm.com/about/free-and-open-source)» and github.com is not really.
+
