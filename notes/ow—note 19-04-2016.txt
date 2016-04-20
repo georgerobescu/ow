@@ -32,7 +32,19 @@ Though I don’t really know about how to make use of socialism, both because I 
 
 If socialism happens when each of us own the means of production, making tabula rasa then of capitalists and capitalism as a set of hegemonic ideas and values, then could socialism be applied to the current organisational structure of github.com?
 
-First quick reply: as a github user, you own the data you upload over their servers, but since they provide the infrastructure, does that mean you technically don’t own your means of production?
+First quick reply: as a github user, you own the data you upload over their servers, but since they provide the infrastructure, you are in their hands, whether there’s any problem on the servers, the software running github.com, etc.
 
-`git` is a free and open source software project, so it’s yours to be used. The git logo and term “git” is not, in order to «[avoid confusion](https://git-scm.com/about/free-and-open-source)» and github.com is not really.
+`git` is a free and open source software project, so it’s yours to be used. The git logo and term “git” is not anyway, in order to «[avoid confusion](https://git-scm.com/about/free-and-open-source)».
 
+This brings to the questions of using a decentralised-by-design system in a centralised website.
+
+At the same time, there’s a factor for which, still keep using github.com is useful (since you should anyway have local copies of your repositories in the case the service would fail or change too much for your own taste to still own your data), and it mostly has to do with the problem of living in a current situation enmeshed within a particular dominant society:
+* even if you spend all the time you have to set up your private, decentralised servers for emails, git, and any other thing you might need both for personal and professional use, how do you deal when you have to work with other people in a company using one of the dominant, non-free software, service available? Same when you have to show your work in order, for example, to get a job;
+* it takes time to learn and maintain those technologies you want to set up by yourself in order to not be dependant on centralised option
+
+
+> And this example is one of many that shows why we free software people are not the many but the few: because we need help from large organizations, given that we’re WORKERS and not some kind of ideal entity with all the time of the world and all the resources. We need our little free time after work for ourselves, and we also need our identity when facing society to be a legit one and not a pariah/freak one. And that’s a big deal. We need the FSF, Mozilla, Wikimedia, and so on, because it’s not that simple as installing GNU on our devices and setting up our own server instances of whatever.
+
+* * *
+
+What’s the weight of new literacy about technologies, tied together with new “progressive infrastructures” that adopt non-centralised cultural and technical systems?
