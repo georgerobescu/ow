@@ -141,3 +141,31 @@ My disinterest in democracy as a framework to understand the situation is twofol
 For as much as democracy tries to take into account minorities, it often produces enormous disasters: think about the idea and multiple experiments with culture integration. A way to normalise and dumbing down someone’s else culture, in order to make it digestible for the society it is in.
 
 ## Democracy as desert
+
+It is in this context that democracy will be made use of as a way to further radicalise the breach between human beings and work, especially as it is understood nowadays at a cultural level.
+
+Carmelo Bene (c.b.), an Italian “man of theatre” [^2], talks in these terms on what makes democracy different from, for example, a dictatorship:
+
+> What's the only form of government which guarantees something? Democracy, no doubts. Paradoxically it's the most acceptable. Emil Cioran made a good analysis about it.
+
+> So I ask you: what does democracy guarantee that a dictatorship does not? Sure! It guarantees something—do you know what is it? It guarantees life to be unlivable. It doesn't figure out your life! Who chooses democracy, who chooses freedom, chooses the desert—if democracy were freedom at all. But democracy is nothing, democracy is pure demagogy.
+
+[^2]: Carmelo Bene has been one of the most prominent figures of the theatre scene in the second half of the 20th century. Born in the south of Italy, he developed the so called actorial-machine, a set of techniques to overcome and go beyond the usage of actors (with their egos, etc.) in theatre. In 1972, together with Gilles Deleuze, he wrote a book called “Superpositions”, on contemporary theatre-making.
+
+What would happen then, if work would lose its centrality in the society we live in and shifted to a different grade of importance in the making of one’s life?
+
+Though it would never go away from human’s activities, a reframing of its cultural importance is necessary to change the contemporary ubiquity it has today. 
+
+The most crucial challenge is not to get rid of work in itself, understood as any activity performed in order to sustain one’s life and make a living. Rather, it means shifting the activity of work to any activity demanding a certain amount of energy, attention, and interest no matter the context.
+
+The democratic aspect in this process of transformation, lies in the fact that work is set free from the basic desire of subsistence, of conatus as work. As c.b. continues, freedom, first of all, should be liberation from work, and not being employed in a job.
+
+The problem that arises with github.com then, is one of literacy and means of production. 
+
+If on one side `git` is a free and open source software project, a decentralised-by-design system, github.com moves in the opposite direction of the spectrum, employing a centralised architecture framework.
+
+Whereas `git` was conceived to be used on personal or small group-based servers (imagine a local server at the office), github.com implemented the same strategy of many other social networks, trying to gather and contain anyone using `git` under its roof. 
+
+Simplicity and convenience won over the long run of developing a new literacy of computation. Learning a new tool takes time and energies, two things that are often hard to get and manage, in a society where efficiency is the utmost value to pursue. For now, github.com simplifies the job for many companies and users, but on the long run it slows down a process of computing literacy that would let gain a bit more of knowledge to all the users working with `git`.
+
+The underlaying political question is then: how do you scale new kind of progressive organisations up, in order to both spread new literacy on these topics and tools, and also to sustain and help to grow the number of users adopting this software and taking part in its political discourses, rather than relying—sometimes because of major forces—to the most widespread and dominant proprietary services?
