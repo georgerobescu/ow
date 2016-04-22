@@ -147,7 +147,7 @@ Every Friday between week 11–17/04 and 2–8/05.
 
 0. introduction
     * what is work
-    * git and github.com
+    * github.com
     * democracy as desert
 1. user
     * from the post-fordist worker to the internet user
