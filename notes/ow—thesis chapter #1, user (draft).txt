@@ -68,23 +68,36 @@ So the internet user is a moving away from the anthropocentric conception of wor
 
 * * *
 
-There still is a strong desire amongst freelance workers, that is able to spur them to take a solo, independent career and, in doing so, avoiding to be under a boss.
+## From the post-fordist worker to the internet user
 
-Only for being under a variety of bosses, being them a company, a client, they themselves even, and so forth.
+There still is a strong desire amongst freelance workers able to spur them to take a solo, independent career and, in doing so, avoiding to be under a boss.
+
+Only for then being under a variety of bosses, being that a company, a client, they themselves even, and so forth.
 
 Post-fordism arose in the early 1970s as a transformation of the current production model of the time, the fordist-method applied to the factory and, fresh of the free liberation of desires coming from the 1968, together with the application, for the first time, of neoliberal politics, repositioned in the figures of information producers and workers a new faith for the extraction of surplus value.
 
-Common and more glamorous examples of these new job positions are the journalist, the academic researcher, the designer, etc.
+Common examples of these new job positions are the ones of the journalist, the academic researcher, the designer, etc.
 
-But since the production and usage of informations means indeed the production of language, also figures like the one of the call-center worker are part of this new island. And more over, it is important to remember all the care work, meaning affective and emotional labour performed mainly by women in different context: waitress and shopkeeper, care worker, nurse, masseuse, prostitute and so on.
+But since the production and usage of informations means indeed the production of language, also figures like the one of the call-center worker are part of this new area. And more over, it is important to remember all the care work, meaning affective and emotional labour performed mainly by women in different context: waitresses and shopkeepers, care workers, nurses, masseuses, prostitutes and so on.
 
-Affective and emotional labour are not exclusive of these jobs—it is present in different quantities in many other form of labour—but for sure it is the most visible and often forgotten type of employments, when talking about post-fordism.
+Affective and emotional labour are not exclusive of these jobs—they are present, in different quantities, in many other form of labour—but for sure it is the most visible and often forgotten type of employments, when talking about post-fordism.
 
-A common element many, if not all, of these jobs have in common is giving importance to flexibility. When during the late 60s and early 70s flexibility was requested by workers, as part of the transformations taking place in the work field, it was seen by workers as a positive and important achievement. They could finally manage, on their on terms, their life and work. They could set their own working schedule. Ironically, this same lust for flexibility was also happily accepted by the employers, the capitalist. And the capital began to capture not the traditional workforce in the sense of physical, brutal energy, sealed in each and everyone worker; but the working-desire, the desire for work they all had. There was a transition from only demanding physical energy, to demand mental and affective energy on top of the physical one.
+A common element that many, if not all, of these jobs have in common is giving value to flexibility. When during the late 60s and early 70s flexibility was requested by students-finding-a-job and workers, as part of the transformations taking place in the work field, it was seen by these subjects as a positive and important achievement. They could finally manage, on their on terms, their life and work, they could set their own working schedule, they could decide to have a short-term contract and spend three months at a job, three months in another job, then other five months, for example, travelling (or fulfilling personal aspirations). Ironically, this same lust for flexibility was also happily accepted by the employers, the capitalist. And the capital began to capture not the traditional workforce in the form of brutal, physical energy, sealed in each and every worker; but the working-desire, the desire for work they all had. The desire for self-realisation and, together with this, the energies produced through intellectual/mental labour and the one from emotional and affective labour. This passage marked a transition from the employers only demanding physical energy, to demand mental and affective energy on top of the physical one.
 
 Workers were happy to not have fixed jobs. This meant going against a long tradition imposed by their family, for which you had to look for the job of life—which was essential to build a family, a shared life, and reaching a form of stability. Instead, post-fordism introduced words such as part-time job, flexible hours, and in so doing also the idea of precarity.
 
-For many job positions, such as, for e.g., the one of the journalist, the academics, the designer, etc. these new elements could have been taken in such a way that, after some years of paying one’s dues, you may have reached a better position at the office you were working at, or maybe even setting up your own studio. But what would have changed after five years of working at a call-center? Or as a care-worker for and with elderly and disabled people?
+For many job positions, such as, for e.g., the one of the journalist, the academics, the designer, etc. these new elements could have been taken in such a way that, after some years of paying one’s dues, they may have reached a better position at the office they were working at, or maybe even setting up their own practice. But what would have changed after five years of working at a call-center? Or as a care-worker for and with elderly and disabled people?
 
+From the beginning of this new economy—which for the most part developed in the western world, but now can be seen outsourced to countries of the south-east Asia such as India (cfr. click-farms)—the popularisation of computers and databases were, for sure, essential elements defining a new working environment, which then became part of the larger society. 
 
+When in 1996, Maurizio Lazzarato wrote a text on Immaterial Labour, that umbrella term was quite useful to try to define and bring to light a new iteration of what post-fordism became after twenty-five years of development.
 
+> The consumer is no longer limited to consuming commodities (destroying them in the act of consumption). On the contrary, his or her consumption should be productive in accordance to the necessary conditions and the new products. Consumption is then first of all a consumption of information. Consumption is no longer only the "manufacturing" of a product, but a real and proper social process that for the moment is defined with the term communication.
+
+Nowadays, that description has become obslete, because it is so embedded in the dominant societal order in which we live, that nobody is out of its reach.
+
+If in moving to the post-fordist worker subject, Capital began to be interested in accumulating desires, in the form of information production of some kind, while getting a bit more closer and intimate with the subjective sphere of a worker (mental labour, emotional labour, and so on); now with the internet user it is a matter of simply “living” and doing the things you do in your everyday life: the Capital needs only that to extract surplus value from your activities.
+
+It is this the connection between post-fordist worker and internet user: data is now relevant for the Capital, not only when produced at work and for some very specific purposes (during a job), but as data itself, not matter the kind of environment in which it is born. Value is produced out of this data no matter what.
+
+Data, besides this, is also essential to re-understand the subject of the user, since this position implies an expansion of the nature capable of taking part in such a role, that opens up, besides to human-beings, to animal, mineral, plant, machinic, bot and algorithmic users. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
