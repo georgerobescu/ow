@@ -1,0 +1,90 @@
+# ow—thesis chapter #1, user
+
+* from the post-fordist worker to the internet user
+* user’s agency
+* building status
+* building history
+
+⤷ comparison between github’s user and stackoverflow’s user?
+
+* * *
+
+## From the post-fordist worker to the internet user
+
+There is a common desire, between freelancers, to escape the position of employers, and so becoming “willing slaves of Capital” [^1], or of a boss, with the counter-effect instead, of having turned their life to work, completely.
+
+[^1]: From Frédéric Lordon’s book *Willing Slaves of Capital*: a willing slave of capital is (...)
+
+When at the beginning of the 70s, the new figure of the post-fordist worker began to arise, there seemed to be so many possibilities for autonomy and liberation from work: I can be empowered by flexible working hours, so deciding my own schedule; I can set my own hourly price-rate; I can work for six months and save some money, then spend the next six months fulfilling my own desires (travelling, focusing on my real interests, etc.).
+
+For the most part, this empowerment flipped from being from the side of the self-employed worker to the one of the boss. Flexibility became «you can set your own schedule, but we can call you anytime any day». 
+
+Precarity began to spread as the virus and byproduct of neoliberal and managerial politics, which fully understood the potentiality for subtle power-relations, while still leaving the impression to workers of giving them more freedom than it used to be only a decade before.
+
+Paradoxically, now in the Netherlands and in other European countries, whenever you apply for a job, often times you are hired as a freelancer: they don’t have to pay taxes for your work, they can conclude the contract anytime they want (with a minimum of warning), they can set a variable price-rate, *but* they keep all the positive sides from hiring a freelancer: maximum flexibility and usually good-quality of the job produced. Freelancers become total “willing slaves of capital” as well.
+
+This is not the only scenario possible—people are able to live off of it and build a good life—but still, in all cases, flexibility from the side of the self-employed worker is always requested and has become the de-facto concession you have to give, as a freelancer, to the company or boss hiring you for a job: you’re position comes with many privileges, for example working from home or a cafe all day, so there has to be something *more* you can give back, or give up—depending on how you see it.
+
+It is often kept away from the set of bodies composing the post-fordist worker subject, all the people performing affective and emotional labour. From care worker spending their days, for e.g., with elderly and disabled people, to precariats working at call-centers, to waitresses and shopkeepers, the affective aspect of the labour performed may vary in the percentage demanded, but it has become a prerequisite for all the jobs in the service economy. At first reclaimed by feminists during the 70s (in parallel with the formation of the post-fordist worker) as the essential labour housewives performed from centuries without any recognition, but simply seen as a form of women’s natural predisposition in becoming mothers and partners; now emotional labour it is still not fully recognised as a task enveloping the outer side of a job, hence deserving monetary compensation, but it is always asked as part of one’s skills set, renamed *soft skills*.
+
+Post-fordism can be divided into a) intellectual, or mental; and b) affective and emotional labour. The most cited examples to represent the position are the ones of the journalist, the academic, the designer, and so forth. But it is important to recall all the area of care work performed and, as said, often not taking part in the definition of post-fordism. Because most post-fordist jobs are in their definition, precary, temporary, seasonal, for-project jobs, etc. And if that on one side, might have (maybe) helped the market for a part-time job for students and newly became mothers who before having babies had a full time job, it then drifted to perversely making people having to find three or four part-time jobs for mere life reproduction. The empowerment of flexibility flipped side once again and became a nightmare.
+
+The internet user outlines as the last iteration of a process began with the formation of the post-fordist worker. Before that, most people were working in factories or in office jobs, and the division of space-time where, for the most part, very much defined. The sentence, or tagline, or aphorism, that goes “work is play and play is work” wasn’t really part of the popular culture as it might be today. 
+
+Internet overcame that space-time division even more than the development of post-fordism could have ever done, in that you can really work from anywhere with a computer terminal and an internet connection. But if that was the case already during the late 80s and mid 90s, where there was still a clear act of performing labour, in the sense of working and being aware of doing that, we are now embedded in a moment where capital comes to look for you: you sending a message over facebook to your friend? That’s good metadata to sell to some ad-company; you buying a flight ticket to London using google? Then google can suggest you also these other products.
+
+This ontological shift in the definition of the internet user is essential in understanding how labour has transformed on one side, and also to re-understand what a subject is nowadays.
+
+With user, indeed, I refer to “anything producing data and able to interface with another entity producing data as well” (The Stack, Benjamin Bratton). This already brings up a conception of subject much more than only the human subject, and for this not less able to perform the most various set of tasks you can imagine.
+
+So the internet user is a moving away from the anthropocentric conception of worker, being it in the fordist manner as it is in a factory, or in the post-fordist one when suddenly he she was able to organise his her life and also the job(s) to sustain such life. With internet user, I defin
+
+
+
+* * *
+
+> any entity positioned as a User, however briefly or permanently, brings with it a contextual history that is not reducible to software instructions and can twist the terms of subject delineation for its own purposes.
+
+> The open entanglements of multiple apparatuses express different postures and positions, some of which can innovate cultural norms and invent new Users on the scene.
+> More often, however, at the global scale of The Stack, the User position is reserved for a reductive regularization into customized utilitarianism, and when that is mobilized for planetary-scale interfacial regimes, then its identification with the local reflections of computational mirrors can make it alien even to its own experiences. (...) and in the revelation of the robust subjectivity of other nonhuman but computationally complex Users.
+
+> The more salient design problem seems less to design for Users, as if they were stable forms to be known and served, than to design and redesign the User itself in the image of whatever program might enroll it.
+
+> (...) “death of the user.” By this, I mean the expiration of a specific kind of user, and the displacement its soft humanism from the conceptual center of design strategy by the proliferation and predominance of both nonhuman and nonindividuated actors within the expanded field of ubiquitous computation.
+
+> The baseline design brief for the User layer of The Stack may go something like this: In the image of planetary-scale information infrastructure, comprising trillions of addressable haecceities, the resolved scale of the platform need not be for one User at a time, drifting into and out of narcissistic virtual reality, but for pluralities of partial users, quasi-users, human and nonhuman, organic and inorganic, intermingling in intersubjective alliances, sharing perceptions, memory, algorithms and techniques, visualization rhetorics situated among the semantic graphs of aggregate User experiences predicated not just on autobiographical interoperability, but on direct physical and cognitive promiscuity. Imagine one sort of User logging the totality of her perceptions and interactions not as an atomic iota lost in her own manifestations (like Bell’s MyLifeBits QS persona) but as a population of 10 billion absolute Users, all generating content and all feeding off one another’s issuances. Plural systems provide plural images, which provide plural Users—two of us, ten of us, a hundred of us, an entire city of us—literally seeing through each other’s eyes, remembering through one another’s experiences, walking in one another’s shadows. Imagine Jakob von Uexküll’s foray through the garden of Umwelten, where he encountered the interweaving but exclusive lifeworlds of plants, animals, flowers, and insects, but in our biosemiotic field, everything can now swap points of view. Tomorrow, may I have your yesterday? Unexpected alliances, continental organizations, linguistic traditions, and politico-theological communions ensue, any one User moving into and out of several of them, just as they move into and out of him. The profile reflected back is not of a resolved individual but of empathetic assemblages across multiple spatial and rhythmic scales. Furthermore, as nonhuman users (sensors, animals, artificial intelligence, what-have-you) are enrolled into these collaborative perceptual-interfacial affiliations and plat- forms, the contingent hierarchies between physical subjects and objects are put once again into play. So instead of the Shanghai Expo’s universal User scenario, where the cosmopolitan apparatus of The Stack would interpolate each human as an interoperable atomic profile, however comparable and equalized they might appear, *can it instead come to provide and even demand far more alien subjectification en masse*? These would perhaps be unaccountable, even invisible to, the dynamics of individuation versus collectivization, physicalization versus virtualization, localization versus globalization—neither solution nor dissolution, only strange columns up and down The Stack, and from strange columns new geographies and geopolitics for a post-Anthropocenic User.
+
+> To the extent that the composition of the User as a biopolitical subject also includes vectors of data—genomic, microbial, microeconomic, metaecological—into the living diagram of interpolation, then the site of the subject is experienced as fully infused and overcome with extrinsic flows such that the coherence, stability, and confidence previously invested in the visual fade away.
+
+> putting nonhumans into that User position should be seen as a temporary station at best, but perhaps a means to invent different kinds of agencies, not just mimicking this degraded human. We must save the nonhumans from being merely humans, so that they could show us a different way for us to be both human and not.
+> In its place we imagine a re-wilded landscape of inhumanist intentions, mapped by multipolar points of control, composing a more polysynchronic and less chauvinistic system of systems.
+
+> Something else needs to sideline the vestigial, embarrassing anthropocentrism that brings the false flattery of passive (or passive-aggressive) assistants. In fact, the stage management of the human User as somehow commanding the work of the App is already, we may conclude, an unnecessary alibi protecting the essential opposite effect (that the mammal User is only a provisional mechanism for dragging gigaflop tracking devices through the avenues of cities and for remonetizing these routes as the spatial career of algorithmic capital and its successors).
+
+> the longer-term geopolitical design problem is the design of the User itself—its limits, vulnerabilities, velocities.
+
+> Counterintuitive as it may seem, the design decision should not be to locate sovereignty in the encapsulated person who steps into the User position but instead into the position itself.
+> From The Stack’s perspective, the User is (...) defined by what it connects to, not by who or what it “is.”
+
+* * *
+
+There still is a strong desire amongst freelance workers, that is able to spur them to take a solo, independent career and, in doing so, avoiding to be under a boss.
+
+Only for being under a variety of bosses, being them a company, a client, they themselves even, and so forth.
+
+Post-fordism arose in the early 1970s as a transformation of the current production model of the time, the fordist-method applied to the factory and, fresh of the free liberation of desires coming from the 1968, together with the application, for the first time, of neoliberal politics, repositioned in the figures of information producers and workers a new faith for the extraction of surplus value.
+
+Common and more glamorous examples of these new job positions are the journalist, the academic researcher, the designer, etc.
+
+But since the production and usage of informations means indeed the production of language, also figures like the one of the call-center worker are part of this new island. And more over, it is important to remember all the care work, meaning affective and emotional labour performed mainly by women in different context: waitress and shopkeeper, care worker, nurse, masseuse, prostitute and so on.
+
+Affective and emotional labour are not exclusive of these jobs—it is present in different quantities in many other form of labour—but for sure it is the most visible and often forgotten type of employments, when talking about post-fordism.
+
+A common element many, if not all, of these jobs have in common is giving importance to flexibility. When during the late 60s and early 70s flexibility was requested by workers, as part of the transformations taking place in the work field, it was seen by workers as a positive and important achievement. They could finally manage, on their on terms, their life and work. They could set their own working schedule. Ironically, this same lust for flexibility was also happily accepted by the employers, the capitalist. And the capital began to capture not the traditional workforce in the sense of physical, brutal energy, sealed in each and everyone worker; but the working-desire, the desire for work they all had. There was a transition from only demanding physical energy, to demand mental and affective energy on top of the physical one.
+
+Workers were happy to not have fixed jobs. This meant going against a long tradition imposed by their family, for which you had to look for the job of life—which was essential to build a family, a shared life, and reaching a form of stability. Instead, post-fordism introduced words such as part-time job, flexible hours, and in so doing also the idea of precarity.
+
+For many job positions, such as, for e.g., the one of the journalist, the academics, the designer, etc. these new elements could have been taken in such a way that, after some years of paying one’s dues, you may have reached a better position at the office you were working at, or maybe even setting up your own studio. But what would have changed after five years of working at a call-center? Or as a care-worker for and with elderly and disabled people?
+
+
+
