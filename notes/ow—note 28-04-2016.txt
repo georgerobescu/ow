@@ -1,0 +1,17 @@
+## drawing cursor
+
+Putting on display (during the exhibition) a second screen where you see the browser inspector pane showing all the coordinates of the actions you are performing with the cursor?
+
+A way to give a layer of data as an attempt to make the situation more readable for the user, but probably not because too overwhelming? Or still, giving the opportunity to see what happens in terms of user agency and how much the browser is interpreting the human-user’s actions?
+
+## git-embodied, embodying-git
+
+Data as the material to reposition the body. The way in which embodying git then, or having git embodying you, is through actions happening on git and reflection on your body. I wonder if it’s still a viable way using other metaphors and or comparison using nature, for example (plants, rocks, etc.)
+
+Figuring out a way to use alienation as a way to get closer with other users rather than as a way to get far from them (and yourself, and reality).
+
+I’m telling myself these things since last January, but this repositioning of data as a central material to being inter-operative with other users and the platform is a recent news to me (thanks gen-gen).
+
+Since git and github are the two main elements around and through which think the rest, I still wonder if in some ways it would make sense of using the project’s git main repository in a way or another.
+
+I’m becoming more and more sure to want doing a zine with git’s actions and human-user and possibly other users respective-relative actions and counteractions and reactions.
