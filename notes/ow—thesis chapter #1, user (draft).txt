@@ -98,6 +98,30 @@ Nowadays, that description has become obslete, because it is so embedded in the 
 
 If in moving to the post-fordist worker subject, Capital began to be interested in accumulating desires, in the form of information production of some kind, while getting a bit more closer and intimate with the subjective sphere of a worker (mental labour, emotional labour, and so on); now with the internet user it is a matter of simply “living” and doing the things you do in your everyday life: the Capital needs only that to extract surplus value from your activities.
 
-It is this the connection between post-fordist worker and internet user: data is now relevant for the Capital, not only when produced at work and for some very specific purposes (during a job), but as data itself, not matter the kind of environment in which it is born. Value is produced out of this data no matter what.
+It is this the connection between post-fordist worker and internet user: data is now relevant for the Capital, not only when produced at work and for some very specific purposes, but as data itself, not matter the kind of environment in which it is born. Value is produced out of this data no matter what. The precarious position often embedded in any job within the post-fordist realm, if not a position of unemployment, now makes sense. Everybody at home being capitalised by only browsing the internet. Labour has dematerialised both in terms of time, space, and also action.
 
-Data, besides this, is also essential to re-understand the subject of the user, since this position implies an expansion of the nature capable of taking part in such a role, that opens up, besides to human-beings, to animal, mineral, plant, machinic, bot and algorithmic users. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
+## User’s agency
+
+Data is essential to re-understand the user subject, since this position implies an expansion of the entities capable of taking part in such a role, that opens up to animal, mineral, plant, machinic, bot and algorithmic natures, besides humans. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
+
+For this reason, there must be a shift at an ontological level in the language we use to talk about it: organism can’t gather all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
+
+It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through producing data (*being operative*), traces a line to the concept of conatus.
+
+If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being.» [^1], then is this still applicable to any form of user, beyond only living organism?
+
+[^1]: Frédéric Lordon quoting Benedictus de Spinoza, Ethics, part III, in “Willing Slaves of Capital”.
+
+What do we mean by «strives to persevere in its being» in connection to a user? Does a user strives to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user? Or maybe it’s not really a matter of having dead periods of time since we can compare the status of being operative as the one of being alive and breathing?
+
+In a sense, then, the question might not be how much of an effort users have to do in order to keep striving to persevere in their beings, but rather how much they are aware of the streams of data production and interaction they are part of and, even, maybe, how much they do want to acknowledge this as “effort”.
+
+For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of users, labour is not anymore always a conscious performative act, but something always happening no matter the effort one’s put in it, which then can be channelled for a specific outcome when this data is use for this or that other reasons, tasks, aim, etc.
+
+Being operative, in this frame, means then not being alive, or being on/off. Instead, it’s a matter of how to interface with other users and produce a different output with the convergence of two, or more, fluxes of data.
+
+In the context of a post-work society where human users will live with a Universal Basic Income, will the idea of conatus disappear even more? Or will it change in the way it frames its significance since, with the rising and acknowledgment of many other users, human beings will have to strive to keep being relevant in their inter-operativeness amongst other peers?
+
+Looking at it in this way, conatus then, for human users, will not be a matter of striving for one’s sustaining, but striving for finding new ways to interface with all the rest of users, in forms which destabilise humanist understanding of *being* in the world, of language and accountability, and so forth.
+
+Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and so how to use one’s data production to re-position oneself in the world.
