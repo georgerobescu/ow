@@ -102,13 +102,13 @@ It is this the connection between post-fordist worker and internet user: data is
 
 ## User’s agency
 
-Data is essential to re-understand the user subject, since this position implies an expansion of the entities capable of taking part in such a role, that opens up to animal, mineral, plant, machinic, bot and algorithmic natures, besides humans. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
+Data is essential to re-understand the user subject. This position implies an expansion of the entities capable of taking part in this role, opening it up to animal, mineral, plant, machinic, bot and algorithmic natures, besides humans. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
 
-For this reason, there must be a shift at an ontological level in the language we use to talk about it: organism can’t gather all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
+For this reason, there must be a shift at the ontological level in the language we use to talk about it: organism can’t include all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
 
 It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through producing data (*being operative*), traces a line to the concept of conatus.
 
-If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being.» [^1], then is this still applicable to any form of user, beyond only living organism?
+If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being» [^1], then is this still applicable to any form of user, beyond living organism?
 
 [^1]: Frédéric Lordon quoting Benedictus de Spinoza, Ethics, part III, in “Willing Slaves of Capital”.
 
@@ -116,12 +116,15 @@ What do we mean by «strives to persevere in its being» in connection to a user
 
 In a sense, then, the question might not be how much of an effort users have to do in order to keep striving to persevere in their beings, but rather how much they are aware of the streams of data production and interaction they are part of and, even, maybe, how much they do want to acknowledge this as “effort”.
 
-For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of users, labour is not anymore always a conscious performative act, but something always happening no matter the effort one’s put in it, which then can be channelled for a specific outcome when this data is use for this or that other reasons, tasks, aim, etc.
+For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of users, labour is not always a conscious performative act anymore, but an ever-happening activity no matter the effort one’s put in it: it then can be channelled for a specific outcome when the produced data is use for this or that other reasons, tasks, aim, etc.
 
 Being operative, in this frame, means then not being alive, or being on/off. Instead, it’s a matter of how to interface with other users and produce a different output with the convergence of two, or more, fluxes of data.
 
-In the context of a post-work society where human users will live with a Universal Basic Income, will the idea of conatus disappear even more? Or will it change in the way it frames its significance since, with the rising and acknowledgment of many other users, human beings will have to strive to keep being relevant in their inter-operativeness amongst other peers?
+In the context of a post-work society where human users will live with a Universal Basic Income, will the idea of conatus disappear even more? Or will it change in the way it frames its significance since, with the rising and acknowledgment of many other users, human beings will have to strive to keep being relevant in their inter-operativeness amongst other peers [^2]?
 
-Looking at it in this way, conatus then, for human users, will not be a matter of striving for one’s sustaining, but striving for finding new ways to interface with all the rest of users, in forms which destabilise humanist understanding of *being* in the world, of language and accountability, and so forth.
+[^2]: From Benjamin Bratton’s [The Black Stack](http://www.e-flux.com/journal/the-black-stack/):  
+> For some dramas, but hopefully not for the fabrication of the Stack-to-come (Black or otherwise), a certain humanism and companion figure of humanity still presumes its traditional place in the center of the frame. We must let go of the demand that any Artificial Intelligence arriving at sentience or sapience must care deeply about humanity—us specifically—as the subject and object of its knowing and its desire. The real nightmare, worse than the one in which the big machine wants to kill you, is the one in which it sees you as irrelevant, or as not even a discrete thing to know. *Worse than being seen as an enemy is not being seen at all. As Eliezer Yudkowsky puts it, “The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else*.”
 
-Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and so how to use one’s data production to re-position oneself in the world.
+Looking at it in this way then, for human users conatus will not be a matter of striving for one’s sustaining, but striving for finding new ways to interface with all the rest of users, in forms which destabilise humanist understanding of *being* in the world, of language and accountability, and so forth.
+
+Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and so, in how to use one’s data production to re-position oneself in the world.
