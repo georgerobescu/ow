@@ -60,3 +60,17 @@ In the context of a post-work society where human users will live with a Univers
 Looking at it in this way then, for human users conatus will not be a matter of striving for one’s sustaining, but striving for finding new ways to interface with all the rest of users, in forms which destabilise humanist understanding of *being* in the world, of language and accountability, and so forth.
 
 Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and so, in how to use one’s data production to re-position oneself in the world.
+
+* * *
+
+How does user’s agency manifest itself or is being manifested, then?
+
+Unlike one might assume, an entity (algorithmic, mineral, human, etc.) does not correspond to a user in a 1:1 ratio: a subject takes place in the user position fulfilling a set of actions, but in doing this, being transformed because of that position.
+
+To give an example: when we send an email, the user is composed by a part of us (the one thinking and writing the text, choosing a recipient, etc.), but also the email client and the service provider.
+
+For these reasons, user’s agency doesn’t correspond to only one entity’s desires, but is shaped by many different agents, including the ones of the entity taking part in the performing of the action.
+
+In recent years the tracking activities employed by many web services have been put under light and have become topics of the public opinion. Keeping the same logic described above in this other example, it is easier to see how often the intentions we have and put in action, say sending a message in which we talk about particular things, is being captured, read, processed and spitted back to us in the form of tailored ads, holding a direct relation between the subjects in our conversations and the products suggested.
+
+Agency is then, as we user are becoming, computational. Data is the common language that permits everyone taking place in the user position, to find interfaces, hence languages, to talk and read and listen to other agents part of, for example, a platform.
