@@ -1,0 +1,53 @@
+# embodying-git, git-embodying
+
+(continuation from yesterday’s note)
+
+* if labour, at its conatus level, becomes building interfaces between users of different natures, then github is the process and building of these interfaces, as it could be the process and building of subjectivities?
+* what about this and the relationship with the centrality of repositories over users?
+* specifically, what are repositories in this frame?
+* labour committed to git as a mirror of one’s subjectivity, in the form of interfaciability with other users? 
+* as in: nowadays still one’s value, professionalism, skills etc. are what make one good at his her job; in this new other frame, instead, it is one’s capacity to be with others what’s good labour.
+* spending time with other becomes a job, requires work, is labour?
+
+* * *
+
+A book describing how git might be embodied by a human user or how a human user using git might be embodied by it.
+
+Focusing on the shift of the idea of conatus as labour, from sustaining one’s life to interface with users of different nature.
+
+Showing `ow`’s repo as a way to track one research?
+
+Building a set of images (photographs) where git is part of each of them and stress a part of the process of interfacing with a user other than human (eg. stone, etc).
+
+Have a list of basic git-commands necessary to process something.
+
+* conatus
+* basic git-commands
+* interfaces and interfacing
+* set of images as examples of possible interfacing moments with users of different nature: for each of them show how a git-based process might be/look like/take place, from `git-adding` and drawing data from them, to the interaction phase (edit and consequent `git-commit`)
+
+* git-init
+* git-add
+* git-status
+* (git-diff)
+* git-commmit
+* git-rm
+* git-merge
+* git-pull
+* git-push
+
+There is still the idea of making a series of short videos, but now I wonder how much more interesting they might be than having photographs (one photograph per action)?
+
+Still, I could just apply a basic git-based process for each other user and or object of interaction part of each video.
+
+Beside this, how do the act of interfacing and the interface itself play a role in this?
+
+Risking of stubbornly wanting to interface a human user with a mineral-user “just by looking at it”, rather than, for example, being able to interface with its data and so having a common ground of interaction.
+
+For example, how do people who use github to keep track of every “project” of their life reframe their own life and the life of other people they might involve in theirs (through this process of gitting life)?
+
+Life projects not in the sense of life-long projects, but rather things they want/have to take care of or are interested in, for example wedding, house renovation, gym’s activity, etc.
+
+Do they open an issue every time there is a problem? Do they make other people directly part of the project interface with github to resolve it?
+
+Overall, is this a more mediated but at the same time “transparent” way to lead one’s life?
