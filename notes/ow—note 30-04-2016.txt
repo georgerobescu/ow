@@ -23,6 +23,7 @@ Have a list of basic git-commands necessary to process something.
 
 * conatus
 * basic git-commands
+* the readme.md file
 * interfaces and interfacing
 * set of images as examples of possible interfacing moments with users of different nature: for each of them show how a git-based process might be/look like/take place, from `git-adding` and drawing data from them, to the interaction phase (edit and consequent `git-commit`)
 
