@@ -102,6 +102,8 @@ It is this the connection between post-fordist worker and internet user: data is
 
 ## User’s agency
 
+(re-understanding conatus as labour in relation to computation)
+
 Data is essential to re-understand the user subject. This position implies an expansion of the entities capable of taking part in this role, opening it up to animal, mineral, plant, machinic, bot and algorithmic natures, besides humans. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
 
 For this reason, there must be a shift at the ontological level in the language we use to talk about it: organism can’t include all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
@@ -131,15 +133,29 @@ Conatus becomes a new form of labour, addressing a personal strive to stay toget
 
 * * *
 
-How does user’s agency manifest itself or is being manifested, then?
+(user’s agency)
 
-Unlike one might assume, an entity (algorithmic, mineral, human, etc.) does not correspond to a user in a 1:1 ratio: a subject takes place in the user position fulfilling a set of actions, but in doing this, being transformed because of that position.
+How does user’s agency manifest itself, then?
 
-To give an example: when we send an email, the user is composed by a part of us (the one thinking and writing the text, choosing a recipient, etc.), but also the email client and the service provider.
+Unlike one might assume, an entity (algorithmic, mineral, human, etc.) does not correspond to a user in a 1:1 ratio: a subject takes place in the user position fulfilling a set of actions, but in doing this, it is being transformed because of that position.
 
-For these reasons, user’s agency doesn’t correspond to only one entity’s desires, but is shaped by many different agents, including the ones of the entity taking part in the performing of the action.
+To give an example: when we send an email, the user is composed by a part of us (the one thinking and writing the text, choosing a recipient, etc.) [^3], but also by the email client and the service provider.
 
-In recent years the tracking activities employed by many web services have been put under light and have become topics of the public opinion. Keeping the same logic described above in this other example, it is easier to see how often the intentions we have and put in action, say sending a message in which we talk about particular things, is being captured, read, processed and spitted back to us in the form of tailored ads, holding a direct relation between the subjects in our conversations and the products suggested.
+[^3]: But then, language is not spoken by us, we are spoken by it (add reference?). So even in this action of language production the human user is a composite user composed by human agent and language.
 
-Agency is then, as we user are becoming, computational. Data is the common language that permits everyone taking place in the user position, to find interfaces, hence languages, to talk and read and listen to other agents part of, for example, a platform.
+For these reasons, user’s agency doesn’t correspond to only one entity’s desires, but it is shaped by many different agents, including the ones of the entity taking part in the performing of the action.
+
+In recent years the tracking activities employed by many web services have been under the light and have become topics in the general public opinion. Keeping the same logic described above, it is easier to see how often the intentions we have and want to put in action, say sending a message in which we talk about particular things, is being captured, read, processed and spitted back to us in the form of tailored ads, tracing a direct relation between the topics in our conversations and the products suggested to us.
+
+Agency is then, as the user position, computational. Data is the common language that permits everyone taking place in the user position, to find interfaces, hence languages, through which to talk and read and listen to other agents—part of, for example, a platform.
+
+It is clear how, more often than not, we are part of composite users. When we interact with other users and get a (momentarily) final output for the actions we have accomplished, it is not only because of our actions that the final result has been achieved. But instead of thinking of “other users” as “other human beings”, we need to apply the word user to a more vast variety of entities that we normally consider tools. Computation makes this easier to understand because transform everything into data-format. This constitute the pre-moment for when we want to use interfaces of different kinds. Without a common format with which passing around informations, being it objects, moods, weather conditions etc, we would’t be able to even get a chance to talk with other users.
+
+
+
+Conversely, in the process of destroying humanist values and anthropocentric orders in the world, computation—the passage of transformation that put us in a situation where we can interact on a common base with other entities—makes no exception or favour. There is a need for a new literacy of computation, after the failed project of cybernetics.
+
+* * *
+
+(building status and building history)
 
