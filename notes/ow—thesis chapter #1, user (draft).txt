@@ -98,27 +98,27 @@ Nowadays, that description has become obslete, because it is so embedded in the 
 
 If in moving to the post-fordist worker subject, Capital began to be interested in accumulating desires—in the form of information production of some kind—while getting a bit more closer and intimate with the subjective sphere of a worker (mental labour, emotional labour, and so on); now with the internet user it is a matter of simply “living” and doing the things you do in your everyday life: the Capital needs only that to extract surplus value from your activities.
 
-It is this the connection between post-fordist worker and internet user: data is now relevant for the Capital, not only when produced at work and for some very specific purposes, but as data itself, no matter the kind of environment in which it is born. Some value is produced out of anyway. The precarious position often embedded within the post-fordist subject, even in the position of unemployment, now makes sense. Everybody at home can be capitalised by only browsing the internet. And home might be seen as your phone and computer, rather than a physical site. Labour has been dematerialised (?) both in terms of time, space, and also action.
+It is this the connection between post-fordist worker and internet user: data is now relevant for the Capital, not only when produced at work and for some very specific purposes, but as data itself, no matter the kind of environment in which it is born. Some value is produced out of it anyway. The precarious position often embedded within the post-fordist subject, even in the position of unemployment, now makes sense. Everybody at home can be capitalised by only browsing the internet. And home has become your phone and computer, rather than a physical fixed site. Labour has been dematerialised (?) both in terms of time, space, and also action.
 
 ## User’s agency
 
 (re-understanding conatus as labour in relation to computation)
 
-Data is essential to re-understand the user subject. This position implies an expansion of the entities capable of taking part in this role, opening it up to animal, mineral, plant, machinic, bot and algorithmic natures, besides humans. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
+Data is essential to re-understand the user subject. This position implies an expansion of the entities capable of taking part in this role, opening it up to animal, mineral, plant, machinic, bot and algorithmic user, besides the human one. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
 
 For this reason, there must be a shift at the ontological level in the language we use to talk about it: organism can’t include all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
 
 It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through producing data (*being operative*), traces a line to the concept of conatus.
 
-If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being» [^1], then is this still applicable to any form of user, beyond living organism?
+If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being» [^1], then is this still applicable to any form of user, beyond living organisms?
 
 [^1]: Frédéric Lordon quoting Benedictus de Spinoza, Ethics, part III, in “Willing Slaves of Capital”.
 
-What do we mean by «strives to persevere in its being» in connection to a user? Does a user strives to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user? Or maybe it’s not really a matter of having dead periods of time since we can compare the status of being operative as the one of being alive and breathing?
+What do we mean by «strives to persevere in its being» in connection to a user? Does a user strive to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user? Or maybe it’s not really a matter of having dead periods of time since we can compare the status of being operative as the one of being alive and breathing?
 
-In a sense, then, the question might not be how much of an effort users have to do in order to keep striving to persevere in their beings, but rather how much they are aware of the streams of data production and interaction they are part of and, even, maybe, how much they do want to acknowledge this as “effort”.
+In a sense, then, the question might not be how much of an effort users have to do in order to keep striving to persevere in their beings, but rather how much they are aware of the streams of data production and interaction they are part of and, even maybe, how much they do want to acknowledge this as “effort”.
 
-For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of users, labour is not always a conscious performative act anymore, but an ever-happening activity no matter the effort one’s put in it: it then can be channelled for a specific outcome when the produced data is use for this or that other reasons, tasks, aim, etc.
+For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of the user, labour is not always a conscious performative act, but an ever-happening activity, no matter the effort one’s put in it: it then can be channelled for a specific outcome when the outputted data is used for this or that other reasons, tasks, aim, etc.
 
 Being operative, in this frame, means then not being alive, or being on/off. Instead, it’s a matter of how to interface with other users and produce a different output with the convergence of two, or more, fluxes of data.
 
@@ -127,7 +127,7 @@ In the context of a post-work society where human users will live with a Univers
 [^2]: From Benjamin Bratton’s [The Black Stack](http://www.e-flux.com/journal/the-black-stack/):  
 > Worse than being seen as an enemy is not being seen at all. As Eliezer Yudkowsky puts it, “The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.”
 
-Looking at it in this way then, for human users conatus will not be a matter of striving for one’s sustaining, but striving for finding new ways to interface with all the rest of users, in forms which destabilise humanist understanding of *being* in the world, of language and accountability, and so forth.
+Looking at it in this way then, for human users conatus will not be a matter of striving for one’s sustaining, but striving for finding new ways to interface with all the rest of users, in forms which destabilise humanist understanding of *being* in the world, language and accountability, and so forth.
 
 Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and so, in how to use one’s data production to re-position oneself in the world.
 
@@ -141,21 +141,29 @@ Unlike one might assume, an entity (algorithmic, mineral, human, etc.) does not 
 
 To give an example: when we send an email, the user is composed by a part of us (the one thinking and writing the text, choosing a recipient, etc.) [^3], but also by the email client and the service provider.
 
-[^3]: But then, language is not spoken by us, we are spoken by it (add reference?). So even in this action of language production the human user is a composite user composed by human agent and language.
+[^3]: But then, language is not spoken by us, we are spoken by it (add reference?). So even in this action of language production the human user is a composite user formed by a human agent and language.
 
-For these reasons, user’s agency doesn’t correspond to only one entity’s desires, but it is shaped by many different agents, including the ones of the entity taking part in the performing of the action.
+For these reasons, user’s agency doesn’t correspond to only one entity’s desires, but it is shaped by many different agents, forming an array of desires and positions often visible in ways we at first don’t recognise.
 
-In recent years the tracking activities employed by many web services have been under the light and have become topics in the general public opinion. Keeping the same logic described above, it is easier to see how often the intentions we have and want to put in action, say sending a message in which we talk about particular things, is being captured, read, processed and spitted back to us in the form of tailored ads, tracing a direct relation between the topics in our conversations and the products suggested to us.
+For example: in recent years the tracking activities employed by many web services have become part of public opinion’s general topics of discussion. Keeping the same logic described above, it is easier to see how often the intentions we have and want to put into actions, say sending a message in which we talk about particular things, are being captured, read, processed and spitted back to us in the form of tailored ads, tracing a direct relation between the topics in our conversations and the products suggested to us.
 
-Agency is then, as the user position, computational. Data is the common language that permits everyone taking place in the user position, to find interfaces, hence languages, through which to talk and read and listen to other agents—part of, for example, a platform.
+Agency is then, like the user position, computational. Data is the common language that permits everyone taking place in the user position, to find interfaces, hence languages, through which to talk and read and listen to other agents—for example, part of a platform.
 
-It is clear how, more often than not, we are part of composite users. When we interact with other users and get a (momentarily) final output for the actions we have accomplished, it is not only because of our actions that the final result has been achieved. But instead of thinking of “other users” as “other human beings”, we need to apply the word user to a more vast variety of entities that we normally consider tools. Computation makes this easier to understand because transform everything into data-format. This constitute the pre-moment for when we want to use interfaces of different kinds. Without a common format with which passing around informations, being it objects, moods, weather conditions etc, we would’t be able to even get a chance to talk with other users.
+It is clear how, more often than not, we are part of composite users. But instead of thinking of “other users” as “other human beings”, we need to apply the word user to a more vast variety of entities that, for e.g., we normally consider tools. Computation makes this easier to understand, because it transforms everything into data-format. Conversely computation, in the process of destroying humanist values and anthropocentric orders of the world, makes no exception or favour to anyone.
 
+There is a need for a new literacy of computation, after the failed project of cybernetics. Instead of looking for an original cosmological order, or silently praying for chaos, we have the chance to step out and aside of the current human language we have in use, to get closer to a variety of users in ways different than before.
 
+Interfaces are the place where disputing how user’s agency is being read and performed. Also for this, they become integral in the redefinition of what is life, what is labour, and the transformation of these two spheres into the one of operations, operational and being operative.
 
-Conversely, in the process of destroying humanist values and anthropocentric orders in the world, computation—the passage of transformation that put us in a situation where we can interact on a common base with other entities—makes no exception or favour. There is a need for a new literacy of computation, after the failed project of cybernetics.
+`git` and github.com can be an experiment for a new literacy of computation.
 
 * * *
 
 (building status and building history)
+
+Whereas oral language tends toward the creation of missing links  (black holes) in the recalling of a fact we used to know, and it takes over someone’s memory, computational language, even better than written human language, has a tendency to track everything. It keeps traces of what it has been processed and put them in indexes. It’s possible to edit those traces, but that’s not the point. 
+
+At a structural level, computational language transformed the substantive archive into a verb. In turn, that’s what we began to do as well, as human users.
+
+
 
