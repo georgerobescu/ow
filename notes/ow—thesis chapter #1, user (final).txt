@@ -1,0 +1,62 @@
+# ow—thesis chapter #1, user
+
+## From the post-fordist worker to the internet user
+
+There still is a strong desire amongst freelance workers able to spur them to take a solo, independent career and, in doing so, avoiding to be under a boss.
+
+Only for then being under a variety of bosses, being that a company, a client, they themselves even, and so forth.
+
+Post-fordism arose in the early 1970s as a transformation of the current production model of the time, the fordist-method applied to the factory and, fresh of the free liberation of desires coming from the 1968, together with the application, for the first time, of neoliberal politics, repositioned in the figures of information producers and workers a new faith for the extraction of surplus value.
+
+Common examples of these new job positions are the ones of the journalist, the academic researcher, the designer, etc.
+
+But since the production and usage of informations means indeed the production of language, also figures like the one of the call-center worker are part of this new area. And more over, it is important to remember also all the care work area, meaning affective and emotional labour performed mainly by women in different context: waitresses and shopkeepers, care workers, nurses, masseuses, prostitutes and so on.
+
+Affective and emotional labour are not exclusive of these jobs—they are present, in different quantities, in many other form of labour—but for sure they are the most visible and often forgotten type of employments, when talking about post-fordism.
+
+A common element that many, if not all, of these jobs have in common is giving value to flexibility. When during the late 60s and early 70s flexibility was requested by students-finding-a-job and workers, as part of the transformations taking place in the work field, it was seen by these subjects as a positive and important achievement. They could finally manage, on their on terms, their life and work, they could set their own working schedule, they could decide to have a short-term contract and spend three months at a job, three months in another job, then other five months, for example, travelling (or fulfilling personal aspirations). Ironically, this same lust for flexibility was also happily accepted by the employers. And the capital shifted in the capturing of the workforce from the traditional one in the form of brutal, physical energy, sealed in each and every worker; to the working-desire, the desire for work they all had. The desire for self-realisation and, together with this, the energies produced through intellectual/mental labour and the one from emotional and affective labour. This passage marked a transition from the employers mainly demanding physical energy, to demand mental and affective energy on top of the physical one.
+
+Workers were happy not to have fixed jobs. This meant going against a long tradition imposed by their family, for which you had to look out for the job of life—which was essential to build a family, a shared life, and reaching a form of stability. Instead, post-fordism introduced words such as part-time job, flexible hours, and in so doing also the idea of precarity.
+
+For many job positions, such as, for e.g., the one of the journalist, the academic, the designer, etc. these new elements could have been taken in such a way that, after some years of paying one’s dues, they may have reached a better position at the office they were working at, or maybe even setting up their own practice. But what would have changed after five years of working at a call-center? Or as a care-worker for and with elderly and disabled people?
+
+From the beginning of this new economy—which for the most part developed in the western world, but now can be seen outsourced to countries of the south-east Asia such as India (cfr. click-farms)—the popularisation of computers and databases were, for sure, essential elements in defining a new working environment, slowly then becoming part of society at large. 
+
+When in 1996, Maurizio Lazzarato wrote a text on Immaterial Labour, that umbrella term was quite useful to try to define and bring to light a new iteration of what post-fordism became after twenty-five years of development.
+
+> The consumer is no longer limited to consuming commodities (destroying them in the act of consumption). On the contrary, his or her consumption should be productive in accordance to the necessary conditions and the new products. Consumption is then first of all a consumption of information. Consumption is no longer only the "manufacturing" of a product, but a real and proper social process that for the moment is defined with the term communication.
+
+Nowadays, that description has become obslete, because it is so embedded in the dominant societal order in which we live, that nobody is out of its reach. It is no more a specialised subset of professions for the most part contributing to this economic processes, but whoever being in some form, part of society. 
+
+If in moving to the post-fordist worker subject, Capital began to be interested in accumulating desires—in the form of information production of some kind—while getting a bit more closer and intimate with the subjective sphere of a worker (mental labour, emotional labour, and so on); now with the internet user it is a matter of simply “living” and doing the things you do in your everyday life: the Capital needs only that to extract surplus value from your activities.
+
+It is this the connection between post-fordist worker and internet user: data is now relevant for the Capital, not only when produced at work and for some very specific purposes, but as data itself, no matter the kind of environment in which it is born. Some value is produced out of anyway. The precarious position often embedded within the post-fordist subject, even in the position of unemployment, now makes sense. Everybody at home can be capitalised by only browsing the internet. And home might be seen as your phone and computer, rather than a physical site. Labour has been dematerialised (?) both in terms of time, space, and also action.
+
+## User’s agency
+
+Data is essential to re-understand the user subject. This position implies an expansion of the entities capable of taking part in this role, opening it up to animal, mineral, plant, machinic, bot and algorithmic natures, besides humans. Data becomes the common ground that enables human-user to interface with non-human and in-human ones.
+
+For this reason, there must be a shift at the ontological level in the language we use to talk about it: organism can’t include all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
+
+It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through producing data (*being operative*), traces a line to the concept of conatus.
+
+If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being» [^1], then is this still applicable to any form of user, beyond living organism?
+
+[^1]: Frédéric Lordon quoting Benedictus de Spinoza, Ethics, part III, in “Willing Slaves of Capital”.
+
+What do we mean by «strives to persevere in its being» in connection to a user? Does a user strives to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user? Or maybe it’s not really a matter of having dead periods of time since we can compare the status of being operative as the one of being alive and breathing?
+
+In a sense, then, the question might not be how much of an effort users have to do in order to keep striving to persevere in their beings, but rather how much they are aware of the streams of data production and interaction they are part of and, even, maybe, how much they do want to acknowledge this as “effort”.
+
+For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of users, labour is not always a conscious performative act anymore, but an ever-happening activity no matter the effort one’s put in it: it then can be channelled for a specific outcome when the produced data is use for this or that other reasons, tasks, aim, etc.
+
+Being operative, in this frame, means then not being alive, or being on/off. Instead, it’s a matter of how to interface with other users and produce a different output with the convergence of two, or more, fluxes of data.
+
+In the context of a post-work society where human users will live with a Universal Basic Income, will the idea of conatus disappear even more? Or will it change in the way it frames its significance since, with the rising and acknowledgment of many other users, human beings will have to strive to keep being relevant in their inter-operativeness amongst other peers [^2]?
+
+[^2]: From Benjamin Bratton’s [The Black Stack](http://www.e-flux.com/journal/the-black-stack/):  
+> For some dramas, but hopefully not for the fabrication of the Stack-to-come (Black or otherwise), a certain humanism and companion figure of humanity still presumes its traditional place in the center of the frame. We must let go of the demand that any Artificial Intelligence arriving at sentience or sapience must care deeply about humanity—us specifically—as the subject and object of its knowing and its desire. The real nightmare, worse than the one in which the big machine wants to kill you, is the one in which it sees you as irrelevant, or as not even a discrete thing to know. *Worse than being seen as an enemy is not being seen at all. As Eliezer Yudkowsky puts it, “The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else*.”
+
+Looking at it in this way then, for human users conatus will not be a matter of striving for one’s sustaining, but striving for finding new ways to interface with all the rest of users, in forms which destabilise humanist understanding of *being* in the world, of language and accountability, and so forth.
+
+Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and so, in how to use one’s data production to re-position oneself in the world.
