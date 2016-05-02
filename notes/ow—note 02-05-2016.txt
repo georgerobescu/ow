@@ -1,0 +1,8 @@
+
+# Notes for a new literacy of computation
+
+Using the reformulated concept of conatus, understood as a continuous strive to interface (find the interface to interface) with another user (users of different natures) in connection with `git` as a way to track (compute?) the experience of it.
+
+`git`’s project repositories are computed facts (or attempts to be facts), interfaces are survival mechanisms to cope with being operative as users.
+
+This is part of *git-embodying—embodying-git*.
