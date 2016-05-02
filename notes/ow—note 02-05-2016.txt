@@ -6,3 +6,21 @@ Using the reformulated concept of conatus, understood as a continuous strive to 
 `git`’s project repositories are computed facts (or attempts to be facts), interfaces are survival mechanisms to cope with being operative as users.
 
 This is part of *git-embodying—embodying-git*.
+
+* * *
+
+*Posthuman user and labour*
+
+* post-work society: human’s struggle to provide him herself a basic sustaining is over
+* conatus moves away from being associated with activities to sustain one’s life, obtained through work, but turns into a continual attempt–research to find the better interface with which interacting with users of different nature
+* the common language-material to build these interfaces is (user-produced) data and computation
+* to shift from post-fordist workers to internet users, git and github.com are used, in order to track the basic conatus of interfaces-finding while interacting with other users
+* git then, becomes a way to assess one’s being in the world, not because of a living entity, but because of his-her-its being operative.
+
+on work:
+* post-fordist worker → internet user
+* conatus as constant struggle to preserving one’s usership (as in, the user’s ontological feature of being operative)
+* towards a post-work and posthuman society
+* labour shifts from a way to sustain one’s life, to retain one’s operativeness (a user’s capacity to interface with another user and exchange data)
+* git as a form (or a help) to track this operativeness (interfacing data)
+* git helps in figuring out new interfaces on-the-go and preserving these experiences (and or facts)
