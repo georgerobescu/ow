@@ -1,0 +1,11 @@
+# ow—thesis chapter #2, platform
+
+(or platform’s politics?)
+
+* git’s decentralised structure and github’s centralised one
+* the potential of the readme.md file
+* terms and conditions
+* intellectual property
+
+* * *
+
