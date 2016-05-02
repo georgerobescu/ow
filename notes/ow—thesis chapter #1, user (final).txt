@@ -111,4 +111,4 @@ What is important to remember, is that this is as well a mechanism to build one�
 
 In a sense then, the process of developing a project, double binds with both the process of building a history of that project, and at the same time of building a level of accountability for each contributor who takes part in it.
 
-As an uncommon choice for a social platform’s architecture, on github.com first and foremost comes the project repositories, then the users working on them. With this shift in the order and visibility of a user, it is clear to see why his or her accountability is directly attached to specific projects. I commit therefore I am operative.
+As an uncommon choice for a social platform’s architecture, on github.com first and foremost comes the project repositories, then the users working on them. With this shift in the order and visibility of a user, it is clear to see why his or her accountability is directly attached to specific projects. I commit therefore I operate.
