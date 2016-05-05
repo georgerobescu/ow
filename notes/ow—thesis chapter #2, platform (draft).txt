@@ -2,10 +2,70 @@
 
 (or platform’s politics?)
 
-* git’s decentralised structure and github’s centralised one
-* the potential of the readme.md file
+* why github.com?
 * terms and conditions
+* git’s decentralised structure and github’s centralised one
+* the potential of the readme.md file (ethics)
 * intellectual property
 
 * * *
 
+In the construction of the user, platforms assume the role of making and giving space to them, and also to influence and shaping each of them.
+
+github.com, as it happened with many other social platforms, is now hosting not only the project of programmers and software developers, but is used by big companies, like google, to share their open-source softwares.
+
+In the same vein, this movement of expansion has attracted writers and designers, for one, over to the github’s platform, enriching a user population once primarily inhabited by people using `git` for work.
+
+* * *
+
+github.com is an interesting platform because it acts as a possible new shift in the understanding of labour.
+
+Coming from the free-software and open-source ethos and ethics, for which circulation, non-copyrights, collaboration and remixing of code is (often) the founding values of how to approach work and how to do work, github.com implemented one of the most used tools to put in practice this kind of approach, `git`, at a world-wide level.
+
+While github the company is born to be sustainable and make profits, selling for this reasons private repositories and custom integration with one’s private servers, at the same time they are spreading a particular set of ideas all over the commercial internet, some of which are very useful in producing a cultural shift on many areas of what labour means.
+
+Though they are the first in not following what they are offering, as described below in regard to github’s copyrights over its own software, at its practical level a user has to adapt his her approach toward work production, in relation to an environment born from a programming background. This detail is essential in drawing a line between labour, internet, and the user.
+
+As computation replaces (or doubles) and transforms more and more parts of human life, data becomes the common material produced out of this processes. Far from suggesting that data becomes everything, disembodying bodies of different kinds and abolishing materiality, I am more concerned and curious to explore how it affects the body and how we can read it and use it to re-asset, in this case, our understanding of what constitutes work.
+
+github.com pushes users towards a very segmented and technical workflow, making ingrain in one’s mind a very strong idea of sequentiality. Moreover, it displays the very basis of computation: the process of tracking one’s action, the data being produced and manipulated, and what is possible to do after this—how to react toward it: more manipulation, consolidation of these actions into a general history, and so on.
+
+With labour on the internet often happening as a non-deliberate act (think of the CAPTCHAs [^1]), github creates a space where labour is shared, complementary, remixed, discussed, improved and helped. With labour I mean mainly code-based production, but more and more the platform is used by writers (since code is text, it works perfectly and with the same granularity) and designers.
+
+[^1]: A CAPTCHA is a task that asks a user to prove he she is a human, by typing a short combination of letters and numbers read by the user from an image. This typing is being used by many companies to scan and digitalise paper books more accurately than a robot could now, for now).
+
+*While the system might be very specific for particular jobs or labour activities, raising questions of its suitability as a model for other type of works, it nonetheless makes use of several mechanisms that affect also users not making use of `git`. For this, I think that, besides seeing github as a possible case-scenario for how work is already transforming itself now, it is also useful to show how the internet user—the new iteration of the post-fordist worker—has changed*. 
+
+*SHIT*
+
+* * *
+
+(terms and conditions)
+
+In the overall exploration of what it means to move towards a posthuman society, where the human is not replaced by better, more advanced, or different entities, but rather realise his blindness in putting at the center of the world the anthropos as the supreme being, on github machine users are acknowledged and given some options.
+
+They can be set up by other human users, to automate particular tasks for specific project repositories. To avoid spam or hacking, and in a way also a norm of human self-responsibility, these machine-user accounts cannot be automated in their  creation. A bot can’t create a bot account on github.com.
+
+As a platform, github frames the requisites of a user to be at least of a teenager age (13 yo) and human, providing a name and email address, using one account per user—unless it’s a machine user, in that case it can be hooked up by many different human users—, taking care of one’s password and content uploaded, and, as a premium, having one slot for creating a machine user account (one github (human) user account comes with one machine user account included).
+
+(git’s decentralised structure and github’s centralised one)
+
+github.com works as an interface of `git`, making the activity of working together on the same project, and sharing new code easier.
+
+Even though it is possible to set up one’s server with `git` installed, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is, as many other internet services and or social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
+
+Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows. The perversion lies in the fact that in becoming this, it is going against the principles and architecture employed and suggested by `git`.
+
+The two main factors are:
+1. decentralisation of the infrastructure
+2. copyrighting over github.com
+
+In its inception, and to put it cynically, `git` is decentralised because its creators, Linus Torvald, was in need to get patches from various developers helping in the development of Linux. For this, he created a better Version Control System than the ones existing at the time (2005), in order to collect all the suggestions and improvements produced by an array of different contributors.
+
+Decentralisation and ramification of a multiplicity of nodes was perfect for Torvald: more contributions, more choices to pick from or to fight against.
+
+This is all happening also on github, with the exception that in this case this platform wants to be the main place for this kind of data and activities. But why replacing the internet? Sure, that’s what’s happening with facebook, which for many people has become “the internet”—the only thing to check for news, messages, etc. Same for gmail. The problem is that if any of this big overarching platforms are momentarily having problems (servers are down, a function doesn’t work, and so on), the repercussion are of a world-wide scale impact.
+
+The problem with github.com copyrighting the software that makes it run is, that unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used, improved, modified, etc.
+
+Beside this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect, for which when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. Of course for this to happen, many users of github.com should invest a small amount of money in duplicating on their personal server a perfect copy of github.com. Ideally then, if we would stretch this current limitation (the biggest limitation github.com has?), there would be an easy option in the configuration panel of each user account, through which set up a copy of github following some easy steps (or even in 1-click, a la Amazon and iTunes Store buying method).
