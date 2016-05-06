@@ -5,7 +5,7 @@
 * why github.com?
 * terms and conditions
 * git’s decentralised structure and github’s centralised one
-* the potential of the readme.md file (ethics)
+* the potential of the readme file (ethics)
 * intellectual property
 
 * * *
@@ -20,19 +20,25 @@ In the same vein, this movement of expansion has attracted writers and designers
 
 github.com is an interesting platform because it acts as a possible new shift in the understanding of labour.
 
-Coming from the free-software and open-source ethos and ethics, for which circulation, non-copyrights, collaboration and remixing of code is (often) the founding values of how to approach work and how to do work, github.com implemented one of the most used tools to put in practice this kind of approach, `git`, at a world-wide level.
+Drawing from the free-software and open-source ethos and ethics, for which circulation, non-copyrights, collaboration and remixing of code is (often) the founding values of how to approach work and how to do work, github.com implemented one of the most used tools to put in practice this kind of approach, `git`, at a world-wide level.
 
-While github the company is born to be sustainable and make profits, selling for this reasons private repositories and custom integration with one’s private servers, at the same time they are spreading a particular set of ideas all over the commercial internet, some of which are very useful in producing a cultural shift on many areas of what labour means.
+While github the company is born to be sustainable and making profits, selling for this reasons private repositories and custom integration with one’s private servers, at the same time they are spreading a particular set of ideas all over the commercial internet, some of which are very useful in producing a cultural shift on many areas of what labour means.
 
-Though they are the first in not following what they are offering, as described below in regard to github’s copyrights over its own software, at its practical level a user has to adapt his her approach toward work production, in relation to an environment born from a programming background. This detail is essential in drawing a line between labour, internet, and the user.
+Though they are the first in not following what they are offering, as described below in regard to github’s copyrights over its own software, at a practical level a github user has to adapt his her approach toward work production, in relation to an environment born from a programming background. This detail is essential in drawing a line between labour, internet, and its users.
 
-As computation replaces (or doubles) and transforms more and more parts of human life, data becomes the common material produced out of this processes. Far from suggesting that data becomes everything, disembodying bodies of different kinds and abolishing materiality, I am more concerned and curious to explore how it affects the body and how we can read it and use it to re-asset, in this case, our understanding of what constitutes work.
+As computation replaces (or doubles) and transforms more and more parts of human life, data becomes the common material produced out of these processes. Far from suggesting that data takes the place of everything that build the world we live in, disembodying bodies of different kinds and abolishing materiality, I am more concerned and curious to explore how it affects the body and how we can read it and use it to re-asset our understanding of what constitutes, in this case, work.
 
-github.com pushes users towards a very segmented and technical workflow, making ingrain in one’s mind a very strong idea of sequentiality. Moreover, it displays the very basis of computation: the process of tracking one’s action, the data being produced and manipulated, and what is possible to do after this—how to react toward it: more manipulation, consolidation of these actions into a general history, and so on.
+*github.com pushes users toward a very segmented and technical workflow, slowly radicating in one’s mind a very strong idea of sequentiality. Moreover, it displays the very basis of computation (is this the very basis of computation?): the process of tracking one’s action, the data being produced and manipulated, and what is possible to do after this—how to react toward it: more manipulation, consolidation of these actions into a general history, and so on*.
 
-With labour on the internet often happening as a non-deliberate act (think of the CAPTCHAs [^1]), github creates a space where labour is shared, complementary, remixed, discussed, improved and helped. With labour I mean mainly code-based production, but more and more the platform is used by writers (since code is text, it works perfectly and with the same granularity) and designers.
+With labour on the internet often happening as a non-deliberate act (think of the CAPTCHAs [^1]), github creates a space where work is shared, complementary, remixed, discussed, improved and helped. By labour I mean mainly code-based production, but more and more the platform is used by writers (since code is text, it works perfectly and with the same granularity) and designers (github displays images and pdfs but there is not the same granularity as with text files).
 
-[^1]: A CAPTCHA is a task that asks a user to prove he she is a human, by typing a short combination of letters and numbers read by the user from an image. This typing is being used by many companies to scan and digitalise paper books more accurately than a robot could now, for now).
+In relation to a possible future scenario defined by a post-work society, platforms like github can be used as a rough blueprint to organise labour in a way, perhaps, more suitable for production executed for reasons other than earning a wage.
+
+Value will be produced and identified anyway, but will differ from money.
+
+Even more, github.com, if used *en-masse*, would familiarise its users to many of the processes and mechanisms taking place on many levels of what’s constitute a human life in the twenty-first centuryw
+
+[^1]: A CAPTCHA is a task that asks a user to prove he she is a human being, by typing a short combination of letters and numbers read by the user from a provided image. This typing is being used by many companies to scan and digitalise paper books more accurately than a robot could now—for now).
 
 *While the system might be very specific for particular jobs or labour activities, raising questions of its suitability as a model for other type of works, it nonetheless makes use of several mechanisms that affect also users not making use of `git`. For this, I think that, besides seeing github as a possible case-scenario for how work is already transforming itself now, it is also useful to show how the internet user—the new iteration of the post-fordist worker—has changed*. 
 
