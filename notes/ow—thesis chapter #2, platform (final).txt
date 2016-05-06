@@ -1,0 +1,27 @@
+# ow—thesis chapter #2, platform
+
+(why github.com?)
+
+github.com is a curious platform, because it mirrors many of the changes which have taken place in the sphere of work in the past decade or two, while acting as a possible shift in the understanding of labour itself.
+
+Drawing from the free-software and open-source ethos and ethics, for which circulation, non-copyrights, collaboration and remixing of code are the funding values of how to approach work and how to do work, github implemented one of the most used tools to practice this particular workflow, `git`, at a world-wide level.
+
+Github Inc. is born to be sustainable and making profits, selling for this reasons private repositories [^1] and custom integrations with one’s own servers. At the same time they are spreading a particular set of ideas all over the commercial internet, some of which are very useful to produce a cultural shift in the perception of work.
+
+[^1]: A free github account lets you publish your projects only as public repositories, meaning that they are freely viewable by anyone consulting the url where the page is hosted.
+
+With labour on the internet often happening as a non-deliberate act (think of the CAPTCHAs [^2]), github creates a space where work is shared, complementary, remixed, discussed and improved.
+
+[^2]: A CAPTCHA is a task that asks a user to prove he she is a human being, by typing a short combination of letters and numbers read by the user from a provided image. This typing is being used by many companies to scan and digitalise paper books more accurately than a robot could now—for now).
+
+In relation to a possible future scenario defined by a post-work society, platforms like this could be used as a rough blueprint to organise labour in a way, perhaps, more suitable for certain kinds of production executed for reasons other than earning a wage. Value will be produced and identified anyway, but will differ from money. (take this off or expand?)
+
+Though they are the first ones not following the philosphy they offer, as described below with github’s copyrights over its own software, at a practical level a github user has to adapt his her workflow in relation to an environment born from a programming background. Most people joining github.com are part or move around this circle of production, still, such aspect is essential in drawing a line between labour, internet, and its users.
+
+As computation replaces (or doubles) and transforms more and more parts of human life, data becomes the common material produced out of these processes. Far from suggesting that data takes the place of everything that build the world we live in, disembodying bodies of different kinds and abolishing materiality, I am more concerned and curious to explore how it affects the body and how we can read it and use it to readjust our understanding of what constitutes, in this case, work.
+
+If used *en-masse*, github would be able to familiarise its users to many of the mechanisms taking place on many levels of what constitutes a human life in the twenty-first century.
+
+For example, data tracking, processing, reading, extracting and its related usages, is part of what defines the transformation between individuals to dividuals. Becoming numbers instead of retaining one’s personality might have seemed the only outcome characterising the new society of information, starting from twenty five years ago.
+
+But what if we embrace all this and try to understand what are the processes put in place when tracking someone? How does computation look like when it becomes part of one’s existence, especially when most activities performed throughout your day are turned into data-tracking and value extraction?
