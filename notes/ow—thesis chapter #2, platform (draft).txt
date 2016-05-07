@@ -44,30 +44,54 @@ But what if we embrace this for real and try to understand what are the processe
 
 (terms and conditions)
 
-In the overall exploration of what it means to move towards a posthuman society, where the human is not replaced by better, more advanced, or different entities, but rather realise his blindness in putting at the center of the world the anthropos as the supreme being, on github machine users are acknowledged and given some options.
+To create an account on github.com, the requisites are: 1) to be at least of a teenager age (13 yo) and human, 2) providing a name and email address, 3) using one account per user, unless it’s a machine user—in that case it can be hooked up by as much human users as needed, and 4) taking care of one’s password and uploaded content. As a bonus, a human user has the option to create one machine user account.
 
-They can be set up by other human users, to automate particular tasks for specific project repositories. To avoid spam or hacking, and in a way also a norm of human self-responsibility, these machine-user accounts cannot be automated in their  creation. A bot can’t create a bot account on github.com.
+On github machine users are acknowledged and given some options. To avoid spam or hacking, and in a way also to implement a norm of human self-responsibility, these accounts cannot be automated in their creation. They have be set up by other human users. A bot can’t create a bot account on github.com.
 
-As a platform, github frames the requisites of a user to be at least of a teenager age (13 yo) and human, providing a name and email address, using one account per user—unless it’s a machine user, in that case it can be hooked up by many different human users—, taking care of one’s password and content uploaded, and, as a premium, having one slot for creating a machine user account (one github (human) user account comes with one machine user account included).
+The main reason for wanting to use a special machine user account, is to automate tasks when working with more repositories at the same time: speeding up processes, updating a range of submodules at the same time [^2], etc.
+
+[^2]: A submodule is a repository linked to another repository as a sub-folder of the latter.
+
+In the overall exploration of what it means to move towards a posthuman society, where the human is not replaced by better, more advanced, or different entities, but rather realises his blindness in putting at the center of the world the anthropos as the supreme being, github’s acknowledgment looks cute and very worried. 
+
+The rising of bots to help human beings with mundane, boring, repetitive, or very complex computational tasks is telling in the measure each of its human creators, and the many other assemblers of it, use them for.
+
+I don’t yet see problematic github’s need for human authentication when creating a new machine user, since the platform might be seen as actively promoting a gradual transition toward a common language of data and its computation.
+
+On a more basic level, many of this bots are often dummy and troll experiments, set up, for example, to make a user’s followers growing, or spamming all repositories containing a particular component in their architecture.
+
+In this case, human user’s agency still prevails all over. But as it happens on Twitter since a while, where bots of different scopes are populating the platform and enriching the streams of many human users who follow them—from literary experiment, to snarky cut-up tweets, to any other variation in topics and form—which form might this take on github?
+
+In analysing its politics, and the technologies required, for example, to set up a bot which creates new user accounts non-stop, it appears that the limit lies in the difficulties (impossibility? suspension?) to add machine users connected to human users.
+
+A shift in the current situation, which is already much defined by programs of all kinds helping human users, would imply a recalibration of usership. To be very brutal, we can see all the technological infrastructure as using human users not as agents, but as component of larger mechanisms. Usership is defined both by using as well as by being used. Being operative is exactly that: transmitting something, receiving something else. In these two actions, informing and deforming the material being passed on.
+
+Github.com is born as a way to spread, facilitate and automate this operativity. Setting rules up where human users are the gatekeepers of the platform, makes sense: it is a process to get closer with users of other natures, and to give “only” human users permissions to add them, encounter them and being in relation to them is maybe the way to go in this initial phase.
+
+(sounds a bit retarded this looking over about machine users, make it sharper and with better reasons?)
+
+Part of github’s architecture, 
+
+* * *
 
 (git’s decentralised structure and github’s centralised one)
 
-github.com works as an interface of `git`, making the activity of working together on the same project, and sharing new code easier.
+github.com works as an interface of `git`, making the activity of working together on the same project, and sharing new code, easier.
 
-Even though it is possible to set up one’s server with `git` installed, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is, as many other internet services and or social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
+Even though it is possible to set up one’s server with `git` installed on it, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is, as many other internet services and social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
 
 Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows. The perversion lies in the fact that in becoming this, it is going against the principles and architecture employed and suggested by `git`.
 
 The two main factors are:
 1. decentralisation of the infrastructure
-2. copyrighting over github.com
+2. copyrights over github.com
 
 In its inception, and to put it cynically, `git` is decentralised because its creators, Linus Torvald, was in need to get patches from various developers helping in the development of Linux. For this, he created a better Version Control System than the ones existing at the time (2005), in order to collect all the suggestions and improvements produced by an array of different contributors.
 
-Decentralisation and ramification of a multiplicity of nodes was perfect for Torvald: more contributions, more choices to pick from or to fight against.
+Decentralisation and ramification of a multiplicity of nodes were perfect for Torvald: more contributions, more choices to pick from or to fight against.
 
-This is all happening also on github, with the exception that in this case this platform wants to be the main place for this kind of data and activities. But why replacing the internet? Sure, that’s what’s happening with facebook, which for many people has become “the internet”—the only thing to check for news, messages, etc. Same for gmail. The problem is that if any of this big overarching platforms are momentarily having problems (servers are down, a function doesn’t work, and so on), the repercussion are of a world-wide scale impact.
+This is all happening also on github, with the exception that in this case the platform wants to be the main place for this kind of activities. But why replacing the internet? Sure, that’s also happening with facebook, which for many people has become “the internet”—the only place to check for news, messages, etc. Same with gmail. The problem is that if any of these big overarching platforms are momentarily having problems (servers are down, a function doesn’t work, and so on), the repercussion are of a world-wide scale impact.
 
-The problem with github.com copyrighting the software that makes it run is, that unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used, improved, modified, etc.
+The problem with github.com copyrighting the software that makes it run is, that unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used. And improved, modified, and so forth.
 
-Beside this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect, for which when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. Of course for this to happen, many users of github.com should invest a small amount of money in duplicating on their personal server a perfect copy of github.com. Ideally then, if we would stretch this current limitation (the biggest limitation github.com has?), there would be an easy option in the configuration panel of each user account, through which set up a copy of github following some easy steps (or even in 1-click, a la Amazon and iTunes Store buying method).
+Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect, for which when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. Of course for this to happen, many users using github.com should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s softwares. Ideally then, if we would stretch this current limitation (github.com’s biggest limitation?), there would be an easy option in the configuration panel of each user account, through which set up a copy of github by only following some easy steps (or even in a 1-click fashion, a la Amazon and iTunes Store buying method).
