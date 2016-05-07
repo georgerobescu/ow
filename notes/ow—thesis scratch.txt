@@ -1,7 +1,20 @@
+chapter #2, platform
+
+* why github.com?
+* terms and conditions
+* git’s decentralised structure and github’s centralised one
+* the potential of the readme file (ethics)
+* intellectual property
+
+* * *
+
 (terms and conditions)
 
 ** user requirements for registration
 ** machine users
 ** bots
 ** issues and pull requests
+
+* * * 
+
 ** github becoming most used service to host open source projects, while being proprietary software and an inc. company
