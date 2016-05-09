@@ -102,13 +102,13 @@ That’s how you do it. Implement more and better!
 
 * * *
 
-(git’s decentralised structure and github’s centralised one)
+(git’s distributed structure and github’s centralised one)
 
-github.com works as an interface of `git`, making the activity of working together on the same project, and sharing new code, easier.
+github.com acts as an interface of `git`, making the activity of working together on the same project, and sharing new code, easier.
 
 Even though it is possible to set up one’s own server with `git` installed on it, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is, as many other internet services and social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
 
-Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows, as well as the biggest website hosting open-source projects. The perversion lies in the fact that in becoming this, it is going against the very principles and architecture employed and suggested by `git` in the first case, while finding itself in a bizarre position in the second instance.
+Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows, as well as the biggest website hosting open-source projects. The perversion lies in the fact that in becoming this, in the first case it is going against the very principles and architecture employed and suggested by `git`, while in the second instance finding itself in a bizarre position.
 
 The two main factors that put Github Inc. in the above position are:
 1. centralisation of the decentralised-by-design git’s infrastructure
@@ -120,9 +120,15 @@ Version Control Systems are divided in those implementing a centralised architec
 
 Distributed networks and multiplicities of Linux enthusiasts were perfect for Torvald: more contributions, more choices to pick from or to discard.
 
-The problem with github.com copyrighting the software that makes it run is that, unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used. And improved, modified—and so forth.
+The problem with github.com copyrighting the software that makes it run is that, unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used. And improved, modified, and so forth.
 
-Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect, for which when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. Of course for this to happen, many github users should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s softwares. Ideally then, if we would stretch this current limitation (github.com’s biggest limitation?), there would be an easy option, in the configuration panel of each user account, through which set up a copy of github by only following some easy steps (or even in a 1-click fashion, a la Amazon and iTunes Store buying method).
+Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect, for which when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. Of course for this to happen, many github users should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s softwares. Ideally then, if we would stretch this current limitation (github.com’s biggest limitation?), there would be an easy option, in the configuration panel of each user account, through which set up a copy of github by only following some easy steps (or even in a 1-click button).
+
+[GitTorrent](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/), a project by Chris Ball, aims exactly at resolving this problem. Making use of BitTorrent, in particular the way it exchanges transferring of data, GitTorrent in its first experiment, would be able to create this relay effect I sketched above. What GitTorrent proposes, is to make git decentralised for real—since the necessary architecture is there, but the infrastructure to do it it’s still requires quite some effort to well implement and keep up to date.
+
+In the case Github’s servers were down, GitTorrent would permit the user of the former platform to still access it, because each of them would be using GitTorrent, and so putting online, in a peer 2 peer network (on BitTorrent), their local repositories. It’s the same when you download a movie through torrent and then let the torrent application still on, so other users can munch bits of the movie’s file as well and complete the download process. This already happens when using Github: a user have (better, should have) a local copy of the project on his her its hard-disk, and synchronise it with the Github when new progress are made. GitTorrent moves away from this infrastructure [^5], by using a decentralised network architecture (BitTorrent) which relies on users themselves, rather than on an unique site of storage.
+
+[^5]: The project is already quite ambitious and covers—as well as made use of—other areas and technologies: for example blockchain to distribute usernames to use on the network. [Here the article](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/).
 
 * * *
 
