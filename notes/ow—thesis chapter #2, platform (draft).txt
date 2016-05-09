@@ -106,19 +106,21 @@ That’s how you do it. Implement more and better!
 
 github.com works as an interface of `git`, making the activity of working together on the same project, and sharing new code, easier.
 
-Even though it is possible to set up one’s server with `git` installed on it, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is, as many other internet services and social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
+Even though it is possible to set up one’s own server with `git` installed on it, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is, as many other internet services and social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
 
-Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows, as well as open-source projects. The perversion lies in the fact that in becoming this, it is going against the principles and architecture employed and suggested by `git` in the first case, while being in a bizarre position in the second one.
+Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows, as well as the biggest website hosting open-source projects. The perversion lies in the fact that in becoming this, it is going against the very principles and architecture employed and suggested by `git` in the first case, while finding itself in a bizarre position in the second instance.
 
-The two main factors that puts Github Inc. in this position are:
-1. centralisation of the infrastructure
-2. copyrights over github.com
+The two main factors that put Github Inc. in the above position are:
+1. centralisation of the decentralised-by-design git’s infrastructure
+2. copyrights over github.com’s software
 
-In its inception, and to put it cynically, `git` is decentralised because its creator,, Linus Torvald, was in need to get patches from the various developers helping him with the development of Linux. For this, he created a better Version Control System than the ones existing at the time (2005), in order to collect all the suggestions and improvements produced by an array of different contributors.
+In its inception, and to put it cynically, `git` is decentralised because its creator, Linus Torvald, was in need to get patches from the various developers helping him with the development of Linux. Originally, `git` was built because the Linux project had some troubles with BitKeeper—a popular Version Control System—after Andrew Tridgell, a computer programmer interested in analysing complex proprietary protocols and algorithms to implement free software version of them, tried to build a free version of it (BitKeeper is proprietary software). Torvald then, was in need of a replacement, and decided to create a free and better implementation of it to use for his needs.
 
-Decentralised network and ramification of a multiplicity Linux enthusiasts were perfect for Torvald: more contributions, more choices to pick from or to discard.
+Version Control Systems are divided in those implementing a centralised architecture, and those adopting a decentralised and distributed one. In the former case, users have to work with the same copies of the files on the same server. If the server has problems, users working with it will automatically suffer as well. `git` instead, is a distributed system, where each user has its own copy of the same project, and for this, is also a decentralised one, as users are spread all over the network.
 
-*The problem with github.com copyrighting the software that makes it run is that, unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used. And improved, modified—and so forth*.
+Distributed networks and multiplicities of Linux enthusiasts were perfect for Torvald: more contributions, more choices to pick from or to discard.
+
+The problem with github.com copyrighting the software that makes it run is that, unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used. And improved, modified—and so forth.
 
 Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect, for which when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. Of course for this to happen, many github users should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s softwares. Ideally then, if we would stretch this current limitation (github.com’s biggest limitation?), there would be an easy option, in the configuration panel of each user account, through which set up a copy of github by only following some easy steps (or even in a 1-click fashion, a la Amazon and iTunes Store buying method).
 
