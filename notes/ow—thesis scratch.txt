@@ -1,9 +1,9 @@
 chapter #2, platform
 
-* why github.com?
-* terms and conditions
-* git’s decentralised structure and github’s centralised one
-* the potential of the readme file (ethics)
+* ~~why github.com~~?
+* ~~terms and conditions~~
+* ~~git’s decentralised structure and github’s centralised one~~
+* the potential of the readme file
 * intellectual property
 
 * * *
@@ -14,5 +14,3 @@ chapter #2, platform
 * github’s reasons to be centralised and 
 * why it would be better if it wasn’t
 * github main platform for open-source project website
-
-> In 2002, Linus Torvalds announced that the kernel Linux would move to the "BitKeeper" distributed version control system (DVCS). While the decision generated much alarm and debate, BitKeeper allowed kernel developers to work in a distributed fashion in a way that, at the time, was unsupported by free software tools -- some Linux developers decided that benefits were worth the trade-off in developers' freedom. Three years later the skeptics were vindicated when BitKeeper's owner, Larry McVoy, revoked several core kernel developers' gratis licenses to BitKeeper after Andrew Tridgell attempted to write a free replacement for BitKeeper. Kernel developers were forced to write their own free software replacement: the project now known as Git.
