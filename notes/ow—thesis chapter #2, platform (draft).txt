@@ -54,49 +54,51 @@ The main reason for wanting to use a special machine user account, is to automat
 
 In the overall exploration of what it means to move towards a posthuman society, where the human is not replaced by better, more advanced, or different entities, but rather realises his blindness in putting at the centre of the world the anthropos as the supreme being, github’s acknowledgment of machine users looks emblematic.
 
-Emblematic because it reinforces github’s tagline that its platform is ‘How people build software’, while at the same time assigning proper user’s agency only to human users. Rather than a question of enslavement and or submission, which sounds almost arrogant in its embedding of souls to machine users (cfr. animism), the point gravitates around finding a common ground between human users and machine ones.
+Emblematic because it reinforces github’s tagline that its platform is ‘How people build software’, while at the same time assigning proper user’s agency only to human users. Rather than a question of enslavement and or submission, which sounds almost arrogant in its embedding of souls to machine users (cfr. animism), the point is how to find a common ground between human users and machine ones.
 
 For this, I don’t yet see problematic github’s need for human authentication when creating a new machine user, because the platform is born to organise and shared human labour first of all. But slowly, it could be used to actively promote a gradual transition toward a common language of data and its computation between human and machine users.
 
 The rising of bots to help human beings with mundane, boring, repetitive, or very complex computational tasks is telling in the measure each of its human creators use them for.
 
-On a more basic level, many of this bots are often dummy and troll experiments, set up, for example, to make a user’s followers growing, or spamming all repositories containing a particular component in their architecture.
+On a more basic level, many of this bots are often dummy and troll experiments, set up for example, to make a user’s followers growing, or spamming all repositories containing a particular component in their architecture.
 
-In this case, human user’s agency still prevails all over. But as it happens on Twitter since a while, where bots of different scopes are populating the platform and enriching the streams of many human users who follow them—from literary experiment, to snarky cut-up tweets, to any other variation in topic and form—which form could this take on github?
+In this case, human user’s agency still prevails all over. But as it happens on Twitter since a while, where bots of different scopes are populating the platform and enriching the streams of many human users who follow them—from literary experiment, to snarky cut-up tweets, to any other variation in topic and form—which shape could this take on github?
 
 A shift in the current situation, would imply a recalibration of usership. To be very brutal, we could see all technological infrastructures as using human users not as agents, but as component of larger mechanisms. Usership is defined both by using as well as by being used. Being operative is exactly that: transmitting something, receiving something else. In these two actions, informing and deforming the material being passed on.
 
-Github.com is born as a way to spread, facilitate and automate this operativity. Setting up rules where human users are the gatekeepers of the platform, makes sense in a culture still very much imbued by humanist values: it is, nonetheless, a process to get closer with users of other natures. To give “only” human users permission to add them, encounter them and being in relation to them is maybe the way to go in this initial phase. Not to let human users tame machine users, but the other way around.
+Github.com is born as a way to spread, facilitate and automate this operativity. Setting up rules where human users are the gatekeepers of the platform, makes sense in a culture still very much imbued with humanist values: it is, nonetheless, a process to get closer with users of other natures. To give “only” human users permission to add them, encounter them and being in relation to them is maybe the way to go in this initial phase. Not making this a reason to let human users tame machine users, but, effectively, the other way around.
 
 Part of github’s architecture, consists of specific features added as extensions of `git`’s existing structure.
 
 The two most used and quintessential features of the platform are *Issues* and *Pull Requests*.
 
-*Issues* gives users the possibility to report problems of any kind, that they have encountered in the usage of a particular project repository.
+*Issues* gives users the possibility to report problems of any kind that they have encountered in the usage of a particular project repository.
 
-It serves as the help&assistance centre of a project, with the benefit than anyone who wants to help or have an answer to what is posted, can participate. The creator of the repository is not the only one in charge and or in power of that position.
+It serves as the help & assistance centre of a project, with the benefit than anyone who wants to help or have an answer to what is posted, can participate. The creator of the repository is not the only one in charge and or in power of that position.
 
 The other useful area, parallel to the Issues section, is *Pull Requests*.
 
-Whereas in Issues a user would, and should only post, problems, in Pull Request users can suggest new features and improvements for the project. It’s not that uncommon for a reported bug or missing feature, to transition from Issues to Pull Requests and being transformed as a feature request. At its best, this structure lets swing from the two sites of discussion very smoothly, improving either what exists, or pushing for new expansions.
+Whereas in Issues a user would, and should only post, problems, in Pull Request users can suggest new features and improvements for the project. It’s not that uncommon for a reported bug or missing feature, to transition from Issues to Pull Requests and being transformed into a feature request. At its best, this structure lets swing from the two sites of discussion very smoothly, improving either what exists, or pushing for new expansions.
 
 Being these the two areas of conversation and exchange, one think of how to avoid bureaucratisation on the platform. There are tons of software that sits on top of github.com to better organise, filter, assign, label, and resolve issues on github.
 
-Similarly, the amounts of ad-hoc solutions, fragmentation of the apparatus into smaller tasks, and cyclical proposals coming from github users, suggests how the Issues tool has become essential within the platform usage and, exactly because of this, in need of many face-liftings—if not a structural rethinking.
+Similarly, the amounts of ad-hoc solutions, fragmentation of the apparatus into smaller tasks, and cyclical proposals coming from github users, suggests how the Issues tool has become essential within the platform and, exactly because of this, in need of many face-liftings—if not of a structural rethinking.
 
-The implementation of a quick-access option to the emojis keyboard, when typing `:` + any letter or number, lets users dealing with Issues and or Pull Requests with ease, showing their approval or disregard of a particular opinion or new implemented feature with a couple of signs.
+The implementation of a quick-access option to the emojis keyboard, when typing `:` + any letter or number, lets users dealing with Issues and or Pull Requests with ease, showing their approval or disregard of a particular opinion, or new implemented feature, with a couple of strokes.
 
-With an open ended amount of users possibly interacting on many popular open-source projects, the level of time wasted just to check a new notification—reporting yet another user adding ‘+1/👍/me too’—grows huger and huger.
+With an open ended amount of users possibly interacting on many popular open-source projects, the level of time wasted by the maintainers of these repositories just to check a new notification—reporting yet another user adding ‘+1/👍/me too’—grows huger and huger.
 
 Since this way to show support is quite widespread, a group of github users proposed to implement a proper voting system, able to transform the above reactions into +1 or -1.
 
-These users, tired of how the platform functions, and having to manage big open-source projects hosted on it, published an open letter in the form of a new repository project. [^3]
+These users, tired of how the platform functions, and having to manage big open-source projects hosted on it, published an open letter, directed to Github Inc, in the form of a new repository project. [^3]
 
 [^3]: Here the submission—[Dear Github](https://github.com/dear-github/dear-github).
 
-In it, they suggest how they would like the Issues tool to work, reaching a peak when they surf over the fact that, if github.com would be open-source, they would be more than happy to help with the implementation of what they have been asking. So many nervous grins flirting with a company who, in less then ten years, hosts the majority of the open source project on the commercial internet.
+In it, they suggest how they would like the Issues tool to work, reaching a peak when they surf over the fact that, if github.com would be open-source, they would be more than happy to help with the implementation of what they have been asking. So many nervous grins flirting with a company who, in less then ten years, now hosts the majority of the open source projects on the commercial internet.
 
-On their side, Github Inc. replied said they not only are listening to their requests, after having given to reply to their emails for two years, but also are working on some extra features to rethinking the Issues section of the platform.
+On their side, Github Inc. replied saying they not only are listening to their requests (finally given a reply to their emails after two years of silence), but are also working on some extra features to rethinking the Issues section of the platform.
+
+That’s how you do it. Implement more and better!
 
 * * *
 
@@ -106,18 +108,20 @@ github.com works as an interface of `git`, making the activity of working togeth
 
 Even though it is possible to set up one’s server with `git` installed on it, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is, as many other internet services and social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
 
-Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows. The perversion lies in the fact that in becoming this, it is going against the principles and architecture employed and suggested by `git`.
+Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows, as well as open-source projects. The perversion lies in the fact that in becoming this, it is going against the principles and architecture employed and suggested by `git` in the first case, while being in a bizarre position in the second one.
 
-The two main factors are:
-1. decentralisation of the infrastructure
+The two main factors that puts Github Inc. in this position are:
+1. centralisation of the infrastructure
 2. copyrights over github.com
 
-In its inception, and to put it cynically, `git` is decentralised because its creators, Linus Torvald, was in need to get patches from various developers helping in the development of Linux. For this, he created a better Version Control System than the ones existing at the time (2005), in order to collect all the suggestions and improvements produced by an array of different contributors.
+In its inception, and to put it cynically, `git` is decentralised because its creator,, Linus Torvald, was in need to get patches from the various developers helping him with the development of Linux. For this, he created a better Version Control System than the ones existing at the time (2005), in order to collect all the suggestions and improvements produced by an array of different contributors.
 
-Decentralisation and ramification of a multiplicity of nodes were perfect for Torvald: more contributions, more choices to pick from or to fight against.
+Decentralised network and ramification of a multiplicity Linux enthusiasts were perfect for Torvald: more contributions, more choices to pick from or to discard.
+
+*The problem with github.com copyrighting the software that makes it run is that, unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used. And improved, modified—and so forth*.
+
+Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect, for which when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. Of course for this to happen, many github users should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s softwares. Ideally then, if we would stretch this current limitation (github.com’s biggest limitation?), there would be an easy option, in the configuration panel of each user account, through which set up a copy of github by only following some easy steps (or even in a 1-click fashion, a la Amazon and iTunes Store buying method).
+
+* * *
 
 This is all happening also on github, with the exception that in this case the platform wants to be the main place for this kind of activities. But why replacing the internet? Sure, that’s also happening with facebook, which for many people has become “the internet”—the only place to check for news, messages, etc. Same with gmail. The problem is that if any of these big overarching platforms are momentarily having problems (servers are down, a function doesn’t work, and so on), the repercussion are of a world-wide scale impact.
-
-The problem with github.com copyrighting the software that makes it run is, that unlike any other repository hosted on its platform, github’s own project repository can’t be duplicated and used. And improved, modified, and so forth.
-
-Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect, for which when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. Of course for this to happen, many users using github.com should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s softwares. Ideally then, if we would stretch this current limitation (github.com’s biggest limitation?), there would be an easy option in the configuration panel of each user account, through which set up a copy of github by only following some easy steps (or even in a 1-click fashion, a la Amazon and iTunes Store buying method).
