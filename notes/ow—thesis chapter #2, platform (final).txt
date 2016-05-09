@@ -83,3 +83,33 @@ In it, they suggest how they would like the Issues tool to work, reaching a peak
 On their side, Github Inc. replied saying they not only are listening to their requests (finally given a reply to their emails after two years of silence), but are also working on some extra features to rethinking the Issues section of the platform.
 
 That’s how you do it. Implement more and better!
+
+* * *
+
+(git’s decentralised structure and Github’s centralised one)
+
+Github.com acts as an interface of `git`, making the activity of working together on the same project, and sharing new code, easier.
+
+Even though it is possible to set up one’s own server with `git` installed on it, and create a web interface to facilitate the exchange and collaboration of projects, what Github.com offers is, as many other internet services and social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
+
+Perversely, Github.com has become the most recognised and main used website for sharing `git`-based workflows, as well as the biggest website hosting open-source projects. The perversion lies in the fact that in becoming this, in the first case it is going against the very principles and architecture employed and suggested by `git`, while in the second instance it is finding itself in a bizarre situation.
+
+The two main factors that put Github Inc. in the above position are:
+1. centralisation of the decentralised-by-design git’s infrastructure
+2. copyrights over Github.com’s software
+
+In its inception, and to put it cynically, `git` is decentralised because its creator, Linus Torvald, was in need to get patches from the various developers helping him with the development of Linux. Originally, `git` was built as a reaction to some problems the Linux project had while being hosted on BitKeeper—a popular Version Control System. After Andrew Tridgell, a computer programmer involved in the free software scene, tried to build a free version of BitKeeper (which is proprietary software), part of the Linux project was treated, by BitKeepers itself, to not being stored on BitKeepers’ servers for free anymore. For this, Torvald, in need of a replacement space, decided to create a free and better implementation of this service to use for his needs.
+
+Version Control Systems are divided in those implementing a centralised architecture, and those adopting a decentralised and distributed one. In the former case, users have to work with the same copies of the files on a central server. If the server has problems, users working with it will automatically suffer as well. `git` instead, is a distributed system, where each user has its own copy of the same project, and for this, is potentially also a decentralised one, as users are spread all over the network. It is only potentially decentralised, because it implies that each user would set up his her its own git server, and would give access to other users to access it.
+
+Still, this  multiplicities of Linux enthusiasts were perfect for Torvald: more contributions, more choices to pick from or to discard.
+
+The problem with Github.com copyrighting the software that makes it run is that, unlike any other repository hosted on its platform, Github’s own project repository can’t be duplicated and used. And improved, and modified. And so forth.
+
+Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect for which, when Github.com is having some issues, another “copy” of it takes over and keeps the service up and running. If Github is down, a big chunk of the internet is down as well. Of course for this to happen, first Github should be open-sourced, whereas now it’s not; and second, many Github users should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s software and make it accessible to other Github user. Ideally then, if we would stretch this current limitation (Github.com’s biggest limitation?), there would be an easy option, in the configuration panel of each user account, through which set up a copy of Github’s software on one’s own server by only following some easy steps (or even with only a 1-click button).
+
+[GitTorrent](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-Github/), a project by Chris Ball, aims exactly at resolving this problem. Using BitTorrent as its (peer 2 peer) decentralised network infrastructure, GitTorrent in its first experiment, would be able to create this relay effect I sketched above. What GitTorrent proposes, is to make git decentralised for real—since the necessary architecture is there already, but the infrastructure to do it still requires quite some effort to be well implement and kept up to date.
+
+In the case Github’s servers were down, GitTorrent would permit the user of the former platform to still access it, because each of them would be using GitTorrent, and so putting online, in a peer 2 peer network (through BitTorrent), their local repositories. It’s the same when you download a movie through torrent and then let the torrent application still on, so other users can munch bits of the movie’s file as well and complete the download process. This already happens when using Github: a user have (or should have) a local copy of the project on his her its hard-disk, and should synchronise it with Github when making new progress. GitTorrent moves away from this infrastructure [^5], by using a decentralised network architecture (BitTorrent) which relies on users themselves, rather than on an unique site of storage.
+
+[^5]: The project is already quite ambitious and covers—as well as made use of—other areas and technologies: for example it employs blockchain to distribute usernames to adopt on the network. [Here the article](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-Github/).

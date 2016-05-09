@@ -128,6 +128,6 @@ Besides this being at odd with the fundamentals of `git`, it makes it very hard 
 
 In the case Github’s servers were down, GitTorrent would permit the user of the former platform to still access it, because each of them would be using GitTorrent, and so putting online, in a peer 2 peer network (through BitTorrent), their local repositories. It’s the same when you download a movie through torrent and then let the torrent application still on, so other users can munch bits of the movie’s file as well and complete the download process. This already happens when using Github: a user have (or should have) a local copy of the project on his her its hard-disk, and should synchronise it with Github when making new progress. GitTorrent moves away from this infrastructure [^5], by using a decentralised network architecture (BitTorrent) which relies on users themselves, rather than on an unique site of storage.
 
-[^5]: The project is already quite ambitious and covers—as well as made use of—other areas and technologies: for example it employs blockchain to distribute usernames to use on the network. [Here the article](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-Github/).
+[^5]: The project is already quite ambitious and covers—as well as made use of—other areas and technologies: for example it employs blockchain to distribute usernames to adopt on the network. [Here the article](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-Github/).
 
 * * *
