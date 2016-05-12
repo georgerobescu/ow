@@ -73,7 +73,7 @@ Unlike one might assume, an entity (algorithmic, mineral, human, etc.) does not 
 
 To give an example: when we send an email, the user is composed by a part of us (the one thinking and writing the text, choosing a recipient, etc.) [^3], but also by the email client and the service provider.
 
-[^3]: But then, language is not spoken by us, we are spoken by it (add reference?). So even in this action of language production the human user is a composite user formed by a human agent and language.
+[^3]: But then, language is not spoken by us, we are spoken by it (add reference?). So even in this action of language production, the human user is a composite user formed by a human agent and language.
 
 For these reasons, user’s agency doesn’t correspond only to one entity’s desires, but it is shaped by many different agents, forming an array of desires and positions often visible in ways we at first don’t recognise.
 
