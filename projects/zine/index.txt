@@ -1,6 +1,14 @@
-# ow—for a new literature of computation, index
+# ow—embodying-git & git-embodied, for a new literature of computation
 
-1. what is `git`?
-2. what is computation?
-3. for a new literature of computation
-4. interfaces
+index:
+1. composition
+** what is `git`?
+** what is computation?
+2. aspiration
+** for a new literature of computation  
+3. interfaces
+** git-init
+** git-add
+** git-status
+** git-commit
+** git-rm
