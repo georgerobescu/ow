@@ -20,3 +20,55 @@ With the question of “prove yourself to be human”, they supply a lack of def
 Computation is the process of resolving a problem through the execution of some kind of calculation that follows specific parameters. If we put the right mix of letters and numbers and the system assesses they are verified by two more human-users, then our computation worked well.
 
 * * *
+
+The action of listing, measuring, indexing, and in general taking note of values out of something, a situation, an object, a person, and so forth, had a boost in the past years with new words such as listicle [^1].
+
+[^1]: ‘an article on the Internet presented in the form of a numbered or bullet-pointed list’, google dictionary.
+
+`git` is a tool that tracks every change a user makes on a file, or set of files, within one or more folders she he it decided to look after.
+
+As a tool, it helps usually programmer and in general people using text files (be it filled with code or a national-based, human-language) to build histories out of all the actions they made on those files.
+
+In turn, this becomes handy for a variety of situations: working on a website, software, interview, poem, etc.—either alone or together with other people. The ability to go back to a previous iteration of one or more files become priceless after the first time you tried it, and acts as a response to the request, as users, to be able to go back and ‘undo’ one’s actions [^2].
+
+[^2]: Ola Lialina, in her User Rights’s website ([http://userrights.contemporary-home-computing.org/](http://userrights.contemporary-home-computing.org/)), proposed on date 2013-10-06 the right to UNDO. Stating that:
+> olia lialina: UNDO was a gift from developers to users, a luxury a programmable system can provide. It became an everyday luxury with the first GUI and turned into a standard for desktop OSs to follow. Things changed with the arrival of smart phones: neither Android nor Windows phone nor Blackberry provide a cross application alternative to CTRL+Z (iPhone gave to its users "shake to undo"). What is the logic of these devices' developers? Not enough space on the nice touch surface for undo button; idea that users should follow some exact path (app logic), that would lead somewhere anyway; promise that the "experience" (interface) is so smooth that you won't even need this function.  Should we believe it and give up? NO!  There are at least 3 reasons  1st: UNDO is one of not many generic ("stupid") commands. It follows a convention without sticking its nose into user's business.  2nd: UNDO has a historical importance. It marks the beginning of the period when computers started be used by people who didn't program them, the arrival of the real user, and the naive user.  The function was first mentioned in the 1976 IBM research report "Behavioral Issues in the Use of Interactive Systems" by Lance A. Miller and John C. Thomas. They outlined the necessity to provide future users with UNDO: "the benefit to the user in having -- even knowing -- of a capability to withdraw a command could be quite important (e.g, easing the acute distress often experienced by new users, who are worried about 'doing something wrong')"  3rd: UNDO is the border line between the Virtual and the Real World everybody is so keen to grasp. You can't undo IRL. If you can't undo it means you are IRL or on Android.
+> 2013-10-06 
+> olia lialina: And apart from it. UNDO is the only time travelling technology we've got for the moment. Bit by bit into the past!
+([http://userrights.contemporary-home-computing.org/31sq/undo](http://userrights.contemporary-home-computing.org/31sq/undo))
+
+Increasingly, many applications (see Google Docs), have adopted this feature, letting users go back and forth in a document’s history and retrieve bits of informations from the very beginning of the file.
+
+So, what does ‘for a new literacy of computation mean’?
+
+1. accepting our position as users
+2. relating with data production and consumption
+3. extending the usages conceived for `git` to many other possible situations
+
+Users are undergoing a shift at the ontological level in the language we use to talk about them: organism is incapable of including all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
+
+It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through data production (*being operative*), traces a line to the concept of conatus.
+
+If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being» [^1], then is this still applicable to any form of user, beyond living organisms?
+
+[^1]: Frédéric Lordon quoting Benedictus de Spinoza, Ethics, part III, in “Willing Slaves of Capital”.
+
+What do we mean by «strives to persevere in its being» in connection to a user? Does a user strive to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user? Or maybe it’s not really a matter of having dead periods of time since we can compare the status of being operative as the one of being alive and breathing?
+
+In a sense, then, the question might not be how much of an effort users have to do in order to keep striving to persevere in their beings, but rather how much they are aware of the streams of data production and interaction they are part of and, even maybe, how much they do want to acknowledge this as “effort”.
+
+For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of the user, labour is not always a conscious performative act, but an ever-happening activity, no matter the effort one’s put in it: it then can be channelled for a specific outcome when the outputted data is used for this or that other reason, task, aim, etc.
+
+Being operative, in this frame, means then not being alive, or being on/off. Instead, it’s a matter of how to interface with other users and produce a different output with the convergence of two, or more, fluxes of data.
+
+user → interface → data production and exchange ← interface ← user
+
+How does git find place in this configuration?
+
+It will be used as the stitching mechanism to create interfaces between users, to track those encounters and transforms the data produced and exchanged out of each encounter as a series of facts. Github.com, a social network where programmers—and any other user—working with `git` can upload their projects, share them and contribute to each other projects, serves as the common platform where all this happen.
+
+
+
+* * *
+
+interfaces are survival mechanisms to cope with being operative as users
