@@ -1,0 +1,15 @@
+# ow zine
+
+*What is the purpose of the zine*?
+
+The zine acts as a mixture of text and pictures, to further expand the idea of *embodying-git—git-embodying* that I am talking about both on the thesis (sketchily) and in *ow—drawing cursor*.
+
+It is for me a way to properly talk about how, for “a new literature of computation”, `git` might be used and employed, even in absurd ways, to test and see how it would be to use this tool in contexts different from its intended purposes.
+
+Whereas the texts serves as exploration of these ideas and I will draw from my own notes and thoughts, pictures could be of a different kind: they can be assemblage of pictures I took somewhere and, modified and recontextualised; or prepared anew from scratch.
+
+The only reason I am thinking of the former option, is because last December, I took some photographs of a magazine which was featuring and article with tips on how to keep your body fit when spending your whole day at an office (this was long!). There was a woman making physical exercises using desk offices, printers, office steps etc. as props. The first and strongest reaction I had when looking at it is that it was portraying quite well what used to be (we might say already?) the post-fordist worker (chic) at its best.
+
+This would help, again, to trace a transition between this figure and the one of the internet user?
+
+Otherwise, beside text, which kind of pictures should I make?
