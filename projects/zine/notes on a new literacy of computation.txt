@@ -71,4 +71,5 @@ It will be used as the stitching mechanism to create interfaces between users, t
 
 * * *
 
-interfaces are survival mechanisms to cope with being operative as users
+* interfaces are survival mechanisms to cope with being operative as users
+* git’s classical diagram “how does it work” + same diagram with updated version to work/interface between users (?)
