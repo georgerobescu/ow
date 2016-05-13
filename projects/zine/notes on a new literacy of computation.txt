@@ -1,0 +1,22 @@
+# ow—zine
+## git-embodying & embodying-git—for a new literacy of computation
+
+In the midst of resolving a CAPTCHA for obtaining the link to download a new music release on mediafire (sigh), do we think who we are in that exact moment?
+
+Computation influences and transforms most of our actions nowadays, keeping itself quiet but transparent. What does *For a new literacy of computation* mean?
+
+There is an ongoing driving force, often times imbued with angst, and usually perceived from the outside as a constant joke, in regard to Linux taking over the computer panorama.
+
+For the most part, Linux already did that—servers runs a flavour of it. What it did not take over is the consumer market. Users prefers systems which just work™, and why blaming them, or what for?
+
+On a larger scale though, the position that often we embody, the one of the user, is becoming more and more multi-faceted and it occupies a variety of situations that having a bit of a clue of what it means to be a user, would be helpful.
+
+In the understanding of what it means to be an internet user, a new literacy of computation unveils itself not as a series of notions to apprehend, but as a list of sites through which dissecting how they come together, what are the other elements constituting them, and getting, more over, a sense of the processes taking place.
+
+Back to the CAPTCHA: we know it’s a form of labour disguised as play, that helps many foundations to better digitise enormous collection of books, do we?
+
+With the question of “prove yourself to be human”, they supply a lack of definition missing in computer hardware and software. After at least three human-user had given the same answer (the same mix of letters and numbers), that bit of text is consolidated into a definite form. We have taken the place of a computer, and our resolving of the CAPTCA had been used as computation.
+
+Computation is the process of resolving a problem through the execution of some kind of calculation that follows specific parameters. If we put the right mix of letters and numbers and the system assesses they are verified by two more human-users, then our computation worked well.
+
+* * *
