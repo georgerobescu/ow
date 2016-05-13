@@ -1,5 +1,24 @@
-# ow—zine
-## git-embodying & embodying-git—for a new literacy of computation
+# ow—zine: git-embodying & embodying-git—for a new literacy of computation
+
+## composition: what is git?
+
+`git` is a tool that tracks every change a user makes on a file, or set of files, within one or more folders she he it decided to look after.
+
+As a tool, it helps usually programmer and in general people using text files (be it filled with code or a national-based, human-language) to build histories out of all the actions they made on those files.
+
+In turn, this becomes handy for a variety of situations: working on a website, software, interview, poem, etc.—either alone or together with other people. The ability to go back to a previous iteration of one or more files become priceless after the first time you tried it, and acts as a response to the request, as users, to be able to go back and ‘undo’ one’s actions [^2].
+
+[^1]: Ola Lialina, in her User Rights’s website ([http://userrights.contemporary-home-computing.org/](http://userrights.contemporary-home-computing.org/)), proposed on date 2013-10-06 the right to UNDO. Stating that:
+> olia lialina: UNDO was a gift from developers to users, a luxury a programmable system can provide. It became an everyday luxury with the first GUI and turned into a standard for desktop OSs to follow. Things changed with the arrival of smart phones: neither Android nor Windows phone nor Blackberry provide a cross application alternative to CTRL+Z (iPhone gave to its users "shake to undo"). What is the logic of these devices' developers? Not enough space on the nice touch surface for undo button; idea that users should follow some exact path (app logic), that would lead somewhere anyway; promise that the "experience" (interface) is so smooth that you won't even need this function.  Should we believe it and give up? NO!  There are at least 3 reasons  1st: UNDO is one of not many generic ("stupid") commands. It follows a convention without sticking its nose into user's business.  2nd: UNDO has a historical importance. It marks the beginning of the period when computers started be used by people who didn't program them, the arrival of the real user, and the naive user.  The function was first mentioned in the 1976 IBM research report "Behavioral Issues in the Use of Interactive Systems" by Lance A. Miller and John C. Thomas. They outlined the necessity to provide future users with UNDO: "the benefit to the user in having -- even knowing -- of a capability to withdraw a command could be quite important (e.g, easing the acute distress often experienced by new users, who are worried about 'doing something wrong')"  3rd: UNDO is the border line between the Virtual and the Real World everybody is so keen to grasp. You can't undo IRL. If you can't undo it means you are IRL or on Android.
+> 2013-10-06 
+> olia lialina: And apart from it. UNDO is the only time travelling technology we've got for the moment. Bit by bit into the past!
+([http://userrights.contemporary-home-computing.org/31sq/undo](http://userrights.contemporary-home-computing.org/31sq/undo))
+
+Increasingly, many applications (see Google Docs), have adopted this feature, letting users go back and forth in a document’s history and retrieve bits of informations from the very beginning of the file.
+
+* * *
+
+## composition: what is computation?
 
 In the midst of resolving a CAPTCHA for obtaining the link to download a new music release on mediafire (sigh), do we think who we are in that exact moment?
 
@@ -15,7 +34,7 @@ In the understanding of what it means to be an internet user, a new literacy of 
 
 Back to the CAPTCHA: we know it’s a form of labour disguised as play, that helps many foundations to better digitise enormous collection of books, do we?
 
-With the question of “prove yourself to be human”, they supply a lack of definition missing in computer hardware and software. After at least three human-user had given the same answer (the same mix of letters and numbers), that bit of text is consolidated into a definite form. We have taken the place of a computer, and our resolving of the CAPTCA had been used as computation.
+With the question of “prove yourself to be human”, they supply a lack of definition missing in computer hardware and software. After at least three human-users had given the same answer (the same mix of letters and numbers), that bit of text is consolidated into a definite form. We have taken the place of a computer, and our resolving of the CAPTCA have been used as computation.
 
 Computation is the process of resolving a problem through the execution of some kind of calculation that follows specific parameters. If we put the right mix of letters and numbers and the system assesses they are verified by two more human-users, then our computation worked well.
 
@@ -25,19 +44,9 @@ The action of listing, measuring, indexing, and in general taking note of values
 
 [^1]: ‘an article on the Internet presented in the form of a numbered or bullet-pointed list’, google dictionary.
 
-`git` is a tool that tracks every change a user makes on a file, or set of files, within one or more folders she he it decided to look after.
+* * *
 
-As a tool, it helps usually programmer and in general people using text files (be it filled with code or a national-based, human-language) to build histories out of all the actions they made on those files.
-
-In turn, this becomes handy for a variety of situations: working on a website, software, interview, poem, etc.—either alone or together with other people. The ability to go back to a previous iteration of one or more files become priceless after the first time you tried it, and acts as a response to the request, as users, to be able to go back and ‘undo’ one’s actions [^2].
-
-[^2]: Ola Lialina, in her User Rights’s website ([http://userrights.contemporary-home-computing.org/](http://userrights.contemporary-home-computing.org/)), proposed on date 2013-10-06 the right to UNDO. Stating that:
-> olia lialina: UNDO was a gift from developers to users, a luxury a programmable system can provide. It became an everyday luxury with the first GUI and turned into a standard for desktop OSs to follow. Things changed with the arrival of smart phones: neither Android nor Windows phone nor Blackberry provide a cross application alternative to CTRL+Z (iPhone gave to its users "shake to undo"). What is the logic of these devices' developers? Not enough space on the nice touch surface for undo button; idea that users should follow some exact path (app logic), that would lead somewhere anyway; promise that the "experience" (interface) is so smooth that you won't even need this function.  Should we believe it and give up? NO!  There are at least 3 reasons  1st: UNDO is one of not many generic ("stupid") commands. It follows a convention without sticking its nose into user's business.  2nd: UNDO has a historical importance. It marks the beginning of the period when computers started be used by people who didn't program them, the arrival of the real user, and the naive user.  The function was first mentioned in the 1976 IBM research report "Behavioral Issues in the Use of Interactive Systems" by Lance A. Miller and John C. Thomas. They outlined the necessity to provide future users with UNDO: "the benefit to the user in having -- even knowing -- of a capability to withdraw a command could be quite important (e.g, easing the acute distress often experienced by new users, who are worried about 'doing something wrong')"  3rd: UNDO is the border line between the Virtual and the Real World everybody is so keen to grasp. You can't undo IRL. If you can't undo it means you are IRL or on Android.
-> 2013-10-06 
-> olia lialina: And apart from it. UNDO is the only time travelling technology we've got for the moment. Bit by bit into the past!
-([http://userrights.contemporary-home-computing.org/31sq/undo](http://userrights.contemporary-home-computing.org/31sq/undo))
-
-Increasingly, many applications (see Google Docs), have adopted this feature, letting users go back and forth in a document’s history and retrieve bits of informations from the very beginning of the file.
+## aspiration: for a new literature of computation
 
 So, what does ‘for a new literacy of computation mean’?
 
@@ -67,9 +76,40 @@ How does git find place in this configuration?
 
 It will be used as the stitching mechanism to create interfaces between users, to track those encounters and transforms the data produced and exchanged out of each encounter as a series of facts. Github.com, a social network where programmers—and any other user—working with `git` can upload their projects, share them and contribute to each other projects, serves as the common platform where all this happen.
 
+* * *
+
+## interfaces: git-init
+
 
 
 * * *
 
+## interfaces: git-add
+
+
+
+* * *
+
+## interfaces: git-status
+
+
+
+* * *
+
+## interfaces: git-commit
+
+
+
+* * *
+
+## interfaces: git-rm
+
+
+
+* * *
+
+++++
+
 * interfaces are survival mechanisms to cope with being operative as users
 * git’s classical diagram “how does it work” + same diagram with updated version to work/interface between users (?)
+
