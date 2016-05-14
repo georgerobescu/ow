@@ -10,7 +10,7 @@ It was invented by the creator of Linux (Linus Torvald), to manage the developme
 
 One of the main point of `git` is that, in tracking every single tiny change made to a file, it builds a full history of what’s been done by the users interacting with those files. Histories have become essential then, to navigate back and forth, and also  laterally [^1], within a project. More and more, this approach in building software applications that create multiple versions of the same file without demanding the user to do that (except maybe for big version milestone), is a trend visible in many web apps, for example Google Docs. In a way, treating files as a  multi-versions stack of saved statuses could be seen as an iteration of the UNDO command, which, when introduced in the 1970s, gave more granularity to (everyday, real) users, and the option to make mistakes. [^2]
 
-[^1]: In `git` a user works with branches, that is, with a perfectly cloned copy of the current version of the project. This is useful when she he it wants to test something out (a new feature, an alternative version of a section of the project, etc.) without . For this, a user swing not only back and forth, but also on the side—because a branch 
+[^1]: In `git` a user works with branches, that is, with a perfectly cloned copy of the current version of the project. This is useful when she he it wants to test something out (a new feature, an alternative version of a project’s section, etc.) without worrying of messing things up. For this, a user swings not only back and forth, but also on the side—because a branch moves out of the repository’s main vector of production (see git’s diagram).
 
 [^2]: Ola Lialina, in her User Rights’s website ([http://userrights.contemporary-home-computing.org/](http://userrights.contemporary-home-computing.org/)), proposed on date 2013-10-06 the right to UNDO. Stating that:
 > UNDO was a gift from developers to users, a luxury a programmable system can provide. It became an everyday luxury with the first GUI and turned into a standard for desktop OSs to follow. Things changed with the arrival of smart phones: neither Android nor Windows phone nor Blackberry provide a cross application alternative to CTRL+Z (iPhone gave to its users "shake to undo"). What is the logic of these devices’ developers? Not enough space on the nice touch surface for undo button; idea that users should follow some exact path (app logic), that would lead somewhere anyway; promise that the "experience" (interface) is so smooth that you won’t even need this function. Should we believe it and give up? NO!  There are at least 3 reasons  
@@ -45,23 +45,27 @@ In the midst of resolving a reCAPTCHA for obtaining the link to download a new m
 
 Computation influences and transforms most of our actions nowadays, keeping itself quiet but transparent.
 
-reCAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart. We know it’s a form of labour disguised as play (it could be seen as a riddle?), that helps many entities (Google Books, The New York Times) to better digitise enormous collection of books, do we?
+CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart, that is, a human user has to prove to be human and not a bot. reCAPTCHA is the reinterpretation of the CAPTCHA test, because it uses the same mechanism but making it more useful: it helps many entities (Google Books, The New York Times, etc.) to better digitise enormous collection of books. If we perceived the CAPTCHA as a riddle, reCAPTCHA is a form of labour disguised as play.
 
-With the question of “prove yourself to be human”, they supply a lack of definition, as in ‘a quality of discerning’, missing in computer hardware and software. The OCR software employed to recognise letter-like shapes is not always good enough. After at least three human-users had given the same answer (the same mix of letters and numbers), that bit of text is consolidated into a definite form. We have taken the place of a computer, and our resolving of the CAPTCHA have been used as computation to proof-read letters unreadable by a software.
+With the question of “prove yourself to be human”, reCAPTCHA supplies a lack of definition, as in ‘a quality of discerning’, missing in computer hardware and software. The OCR application employed to recognise typography-like shapes is not always good enough, so after at least three human-users had given the same answer (the same mix of letters and numbers), that bit of text is consolidated into a definite form. We have taken the place of a computer, and our resolving of the CAPTCHA have been used as computation to proof-read letters unreadable by a software.
 
-Computation is the process of resolving problems through the execution of some kind of calculation that follows specific parameters. If we put the right mix of letters and numbers and the system assesses they are verified by two more human-users, then our computation worked well.
+If computation is the process of resolving problems through the execution of some kind of calculation that follows specific parameters, a human user putting the right mix of letters and numbers in the system becomes computation as well.
 
-* * *
+As computation replaces (or doubles) and transforms more and more parts of human life, data becomes the common material produced out of these processes. Far from suggesting that data takes the place of everything that build the world we live in, disembodying bodies of different kinds and abolishing materiality, I am more concerned and curious to explore how it affects the body and how we can read it and use it to readjust our understanding of what constitutes, in this case, work.
 
-The action of listing, measuring, indexing, and in general taking note of values out of something, a situation, an object, a person, and so forth, had a boost in the past years with new words such as listicle [^1].
+If used *en-masse*, GitHub would be able to familiarise its users to many of the mechanisms taking place on many levels of what constitutes human life in the twenty-first century.
 
-[^1]: ‘an article on the Internet presented in the form of a numbered or bullet-pointed list’, google dictionary.
+For example, data tracking, processing, reading, extracting and its usages is part of what defines the transformation between individuals to dividuals [^3]. Becoming numbers instead of retaining one’s personality might have seemed the only outcome characterising the new society of information, twenty five years ago.
+
+[^3]: “In the societies of control, on the other hand, what is important is no longer either a signature or a number, but a code: the code is a *password*, while on the other hand the disciplinary societies are regulated by *watchwords* (...) The numerical language of control is made of codes that mark access to information, or reject it. (...) Individuals have become ‘dividuals’, and masses, samples, data, markets, or ‘banks’”—Gilles Deleuze, Postscript on the Societies of Control.
+
+But what if we embrace this for real and try to understand what are the processes put in place when tracking someone? How does computation look like when it becomes part of one’s existence, especially when most activities performed by human-users are turned into data-tracking and value extraction?
 
 * * *
 
 ## aspiration: for a new literature of computation
 
-So, what does ‘for a new literacy of computation mean’?
+So, what does ‘for a new literacy of computation’ mean?
 
 1. accepting our position as users
 2. relating with data production and consumption
