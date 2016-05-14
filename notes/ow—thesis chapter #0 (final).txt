@@ -18,8 +18,6 @@ As much paradoxical or utterly dumb this question might sound, it is a line that
   
 If a user is anything producing data and able to interface with another source of data-making (The Stack, Benjamin H. Bratton), then, far from being only a feature of human beings, a user can also be inhuman and ahuman: mineral, animal, machinic, algorithmic, and so forth.
 
-**When we send an email then**
-
 Maybe a user is not necessarily only a direct translation of a human body into a different shell. It can either be a fraction of ourselves put into a specific usage, or a combination of different agents to form a composite user.
 
 My interest then, is located in the transformation of labour on the internet, claiming that we are undergoing a transition from the post-fordist worker [^1] subject to the internet-user subject.
