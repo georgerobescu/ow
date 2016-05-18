@@ -71,7 +71,7 @@ So, what does ‘for a new literacy of computation’ mean?
 2. relating with data production and consumption
 3. extending the usages conceived for `git` to many other possible situations
 
-Users are undergoing a shift at the ontological level in the language we use to talk about them: organism is incapable of including all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
+Users are undergoing a shift, at the ontological level, in the language we use to talk about them: organism is incapable of including all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
 
 It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through data production (*being operative*), traces a line to the concept of conatus.
 
@@ -79,11 +79,11 @@ If conatus is «the effort by which ‘each thing, as far as it can by its own p
 
 [^1]: Frédéric Lordon quoting Benedictus de Spinoza, Ethics, part III, in “Willing Slaves of Capital”.
 
-What do we mean by «strives to persevere in its being» in connection to a user? Does a user strive to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user? Or maybe it’s not really a matter of having dead periods of time since we can compare the status of being operative as the one of being alive and breathing?
+What do we mean by «strives to persevere in its being» in connection to a user? Does a user strive to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user? Or maybe it’s not really a matter of having dead periods of time since we can compare the status of being operative to the one of being alive and breathing?
 
 In a sense, then, the question might not be how much of an effort users have to do in order to keep striving to persevere in their beings, but rather how much they are aware of the streams of data production and interaction they are part of and, even maybe, how much they do want to acknowledge this as “effort”.
 
-For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of the user, labour is not always a conscious performative act, but an ever-happening activity, no matter the effort one’s put in it: it then can be channelled for a specific outcome when the outputted data is used for this or that other reason, task, aim, etc.
+For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of the user, labour is not always a conscious performative act, but an ever-happening activity, no matter the effort one’s put in it: it then can be channelled to a specific outcome when the outputted data is used for this or that other reason, task, aim, etc.
 
 Being operative, in this frame, means then not being alive, or being on/off. Instead, it’s a matter of how to interface with other users and produce a different output with the convergence of two, or more, fluxes of data.
 
@@ -91,7 +91,9 @@ user → interface → data production and exchange ← interface ← user
 
 How does git find place in this configuration?
 
-It will be used as the stitching mechanism to create interfaces between users, to track those encounters and transforms the data produced and exchanged out of each encounter as a series of facts.
+It will be used as the stitching mechanism to create interfaces between users, to track those encounters and transform the data produced and exchanged out of each encounter as a series of facts.
+
+A repository, git’s terminology for folder, will contain the data produced and exchanged during the encounter of two or more users. The history of actions recorded in it, can trace the development of the human-user’s conatus in its effort to build an interface through which connecting with other users. To co
 
 * * *
 
