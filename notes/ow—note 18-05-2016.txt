@@ -1,0 +1,46 @@
+# on how to put on display ‘drawing-cursor’ at the graduation show
+
+I am almost done with the development of the extension for google chrome of ‘drawing-cursor’. I am thinking of how to display the project in a way that is usable, inviting (to be used) and that produce an effect on the visitor.
+
+The initial idea of letting a visitor browsing the web through google chrome, and giving him her instructions to activate the extension and then stop it seems unrealistic. Unless I print this out on front of the screen, or I put it on a textedit window. Still, most visitor hardly will be up to follow these instructions, especially when the central part is to browse the internet while you know something else is happening in the background.
+
+Because of this (though there might still be a way to engage the visitor in this), another option would be to set as the main tab on google chrome drawing-cursor in the web version, as a website where as soon as you move your cursor a drawing is being created out of your movements. On the bottom right a smaller google chrome window showing that there is a google chrome extension that does exactly this.
+
+When a visitor stops and there is a dead moment of more than 2 minutes? the current drawing session is saved and exported into a .png file, which is saved to a folder and automatically sent to the printer, which is gonna print the file.
+
+I am going to be around the table-printer and as soon as a new page is being printed I am going to do what:
+* hang it on the wall, while refreshing the selection (let’s say of the last 5 drawings?)
+* cut it (margins) and frame it and hang it?
+* cut it, frame it and handing this to the visitor who produced it? meaning I have to run after him
+* as Benoît suggested, set an office trash bin exactly where the page will come out from the printer so it is automatically trashed? (or set the printer and the trash bin in such a way that this is going to happen)
+
+The action of printing the drawing produced from the website-plugin, was the first idea I had when I thought about what to present at the grad-show. I very quickly discarded the idea because a bit too cheap/easy/graphic-desing-y. But there is a good point to make in this action:
+* a need to expand the experiment into something more suitable and interesting for an exhibition, and also to make more everyday-y computation and human user experience
+
+So, maybe printing the drawing will not be the final option, but something along the same line should be conceived.
+
+The reason why not printing the drawing was because the gesture performed by the visitor would have remained very gestural, without any physical output other than the visitor and direct user interaction with the screen, and privileging ephemerality? or immateriality? or temporariness?
+
+I want to put a Magic Trackpad as the only input device, no keyboard and no mouse. The Magic Trackpad reinforces this gesturality of the whole hand, because you can swipe, pinch, etc as if it was a touchscreen of a phone. The mouse is of course more indexical in reporting our interaction with a computer, but also what used to be.
+
+Another way to let the visitor engage with only the google chrome extension is to set as tab on google chrome, a website  I could make where I talk about some aspects of my project? Where scrolling, moving, clicking, etc is required to explore most sections of the website, and trigger each time an end of the user interaction after 1 or 2 minute. In this way I don’t have to set on/off the plugin myself or ask the user to do that, but it’s always on and only take a snapshot of the current version of the drawing after the cursor was not moved after a specific period of time. Then:
+* the printer will print the drawing?
+* the drawing will be projected on the wall facing the screen on the table?
+
+I also think I should publicised the google chrome extension:
+* through a webpage that will be put as the main tab on google chrome?
+* a small flyer on the table?
+
+The website on display to produce drawings might be a page about hand gesturality on input devices? Exercises on how to stretch one’s hand?
+
+Keep thinking it’s a bit lame having to trick users into using a website (or more) solely in order to make them move the cursor (hence producing a drawing).
+
+Maybe at the ‘end’ of the website there is the introduction of drawing-cursor google chrome extension. Then, after 1 minute of the cursor not being touched, the page will scroll up (or to the beginning) and the drawing will be printed.
+
+The website might be about input devices, specifically a comparison and an ode of the trackpad instead of the mouse. The benefit of it, how we have already ten input devices (quotation from Steve Jobs), etc. Still, how to make this not too lame and in good relation with the other topics of the thesis?
+
+Maybe just putting the two browser windows, one big with drawing-cursor website version and one small with drawing-cursor as a google chrome extension is better?
+
+Of course it goes in the opposite direction of the direction above: it is all about advertising and showing the product. Whereas in the case of let the user using and being used by the extension, it’s directly more about the experience of it—the relationship between user tracing and being tracked and traced, and the ‘platform’. The platform is going to be me? The drawings printed at a set interval of time are the manifestation of the interaction between user and platform, which produces useless, valueless artefact. Not showing at first what’s going on and only let someone get what happened after his her interaction with the extension could be much more interesting. Or also only for the people watching what’s happening.
+
+What’s my role then? 
