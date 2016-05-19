@@ -3,3 +3,13 @@
 * what is literacy?
 * what is computation?
 * why git and github?
+
+human beings and the human brain are not computers: this is just the updated metaphor scientists and all the rest of people use to talk about processes we don’t about about (maybe yet).
+
+so do, human beings, and human-user compute? no, they do not process information, they do not store data in their memory, they do not retrieve this data when is needed, etc. they can train visual memory, but things work better when we can visually relate to a situation, a person, etc (difference between drawing something from one’s memory and drawing it while we have it in front of us—in the case we train ourselves to remember it, we didn’t store its data in our brain, we are trying to recompose it)
+
+using gnu-linux and the critical engineering as examples on what it also means a new literacy of computation
+
+not negating human’s features, body, etc to mimic machines, rather find common languages or interfaces for which we can talk, rather than common strategies to do that (same aims, different means)
+
+literacy as knowing, being aware, being able to manipulate?
