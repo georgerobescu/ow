@@ -1,0 +1,5 @@
+# for a new literacy of computation
+
+* what is literacy?
+* what is computation?
+* why git and github?
