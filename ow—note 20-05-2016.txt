@@ -13,3 +13,52 @@ using gnu-linux and the critical engineering as examples on what it also means a
 not negating human’s features, body, etc to mimic machines, rather find common languages or interfaces for which we can talk, rather than common strategies to do that (same aims, different means)
 
 literacy as knowing, being aware, being able to manipulate?
+
+* * *
+
+* what is literacy, in relation to computation?
+
+> ”In order to have a good conversation about politics in our information society, we need to engage all these perceptions and experiences. In this sense, I think Oliver and Vasiliev’s workshop gives us an extremely valuable way of beginning this conversation."
+Dorien Zandbergen
+
+The workshop he refers to is ‘NETworkshop—Lightning in the Age of Cloud-Computing’ by the Critical Engineering Working Group.
+
+* * *
+
+With ‘for a new literacy of computation’ I, first of all, mean a new wave of literacy about computation for human users. Keep refraining oneself from not wanting to deal with it, because ‘I can live without’, it’s for sure an option—but with the effects of being cut off from society. By this I refer to the possibility of not being able to participate in politics (let’s for a second think how this is the case for most politicians and governments all over the world: they have to hire ‘hackers’ to find help in dealing with the everyday hustle of their tasks). Approaching computation also entails a form of personal understanding of one self and one’s body in relation to this overabundance of data production, manipulation and computation of it.
+
+While it’s possible to ignore computation as much as possible, or when the situation requires it, dealing with it as best as one can, nature has now transformed into an environment that contains also computation as one of its determining elements. The natural world as negative opposition to the man-made one is pure metaphysics, it’s an idea. As such, being it a by product of man’s imagination, it has effectively worked for centuries—and still now it does—defending a religious understanding to what used to be pure and the dirtiness of men in the act of inhabiting it. Stop it, please. Nature is the product of an environment being manipulated by particular entities, and totally mirrors this back and forth relation of informing and being informed: human beings have transformed the world in a certain way, while being influenced by many things they encountered in ‘nature’ in the (attempted) process of mastering it. But indeed, this process of mastering is multisided, coming from a variety of agents and informing as well many others. Nature have for the most part mastered over human beings, before they figured out ways to surviving and resist it. The idea of user as a position that can be taken by many different entities (human, animal, machinic, mineral, plant, algorithmic, etc.) sets nature as an agent as well, a composite user formed by animal, plant, mineral, and now machinic and algorithmic users, with its own conatus driving them all in certain directions and make them iterative toward new and unknown forms of being unlike before. Nature indeed changes over time.
+
+Since nowadays human users live in this nature, computation becomes useful, if not essential, to being part and even enjoy life differently. How do we understand data-tracking for example not only as an oppressing process of de-humanization (too keep a humanist parlance) of people becoming data, but as a chance to understand human beings as many things at once, and so when in the position of users, a tool that can be valuable. The quantified self movement comes to mind as the first connection to this, but what most of these trends have in common, is a dualistic approach to the issue: either becoming more human than human, or turning completely into machines. I think that the human-user position can create grey areas for one’s own exploration into hybrid positions at times, reversed positions other moments. 
+
+Most of all, a new literacy of computation seeks new languages, new interfaces between human users, data, the computation of it, and the operations which take place. Unlike the cybernetics theories of finding a total balance, an ecosystem composed by different entities (human, animal, machines), all talking to each other and finally restoring a lost harmony, I look for other scenarios. I look for ways to embrace complexities that are not user-friendly, handicapping my human-user framing, understanding and mis-understanding of them, and long for tasting data, for being able to relate to it in modalities that go beyond looking at my stats on a platform dashboard, but for example realising that my own body is a mix of metadata of different kinds, starting from my own faeces:
+
+> Grandparent toilet bowl stool diviners, you were right: considering the density of DNA from microbes, from one’s own internal fluids, and from the DNA of the remaining food stuffs that one ate, the human stool is one of the most information-dense substances you are likely to regularly encounter. Bit by bit, your stool is far more information rich per cubic centimeter than the flash memory in your iPhone. Lesson: We secrete more information than we ourselves constitute on our own. In their aggregation, are our shadows more substantial than what casts them? If so, where, if anywhere, do we finally pin down the stable sovereign of the User (or the individual person) as a systemic agent?
+
+The Stack, on Software and Sovereignty, Benjamin H. Bratton (2016)—from the User Layer chapter.
+
+What does this imply? That for example the metaphor of the computer, and added processes, when talking about the human brain, is misleading at best.
+
+Beside the scientific research itself, and the long history of how different societies framed the functioning of the human brain in multiple ways, always depending on the latest technologies available at the time [^1], there is a stronger point to make: that human beings really are not comparable to computers. This comes down to a biological fact: human brains don’t store, process, and retrieve informations. Hard disks do. Human memory works very differently than gathering all the necessary bits of information copied on a storage support.
+
+[^1]: [The empty brain](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer), by Robert Epstein—18 May, 2016.
+
+But then how else would a new wave of literacy on computation mean? 
+
+> Ask anyone how the postal system works and they would give a vaguely correct description. Few however would come close to describing how email, let alone a computer network itself, actually functions. With this lack of knowledge comes a risk; we lack the practical understanding to effectively read the infrastructural and political implications of our increased dependency on this technology.
+Critical Engineering Working Group’s introduction to a workshop on computer networks, called ‘NETworkshop—Lightning in the Age of Cloud-Computing’.
+
+When talking about embracing complexities, I wasn’t suggesting the need for everybody to learn how to code computer applications. Still, since the nature in which we live in has changed, it is increasingly necessary to be aware of the things and the related languages in use, when dealing with our everyday life. The whole public debate on the collection of citizens’ personal metadata from many companies and national institutions, for the most part fostered reactions on the importance of one’s privacy as a moral right. But how much did this incite people to understand what metadata effectively is and, consequently, which kind of informations were collected out of their usage of, for example, many online services? I am not arguing that ‘at the of the story’ the fact that the general public wanted to preserve their privacy was stupid, but it just seemed a blind reaction provoked more out of fear than from an understanding of what was going on. 
+
+As Benjamin Bratton urged:
+> We need to raise the level of general understanding to the level of complexity of the system in which we are embedded and which are embedded in us. And this is not about personal stories of inspiration [referring to the speakers giving a TED talk], it’s about the hard, difficult work of demystification and reconceptualisation: more Copernicus, less Tony Robbins.
+[New Perspectives—What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013—Re:Think](https://www.youtube.com/watch?v=Yo5cKRmJaf0)
+
+Literacy means reading and being able to look at what is happening, rather than owning (specialised) knowledge in and for itself. Computation is already part of our realities, so better have sharper eyes.
+
+* * *
+
+> The personality type of those who see the design of planetary technologies as their vocation seems to suggest an interest in modeling everyday activities as if they were astrophysics. For others in the QS scene, their own comparatively subdued pursuit may instead have more to do an unhealthy internalization of Office Park evaluative criteria of systems performance and benchmarking. Smarr and I have discussed this at some length, and it’s clear to me that his interest is much deeper and less individualistic than the psychology I have ascribed the QS movement as a whole.
+
+* * *
+
