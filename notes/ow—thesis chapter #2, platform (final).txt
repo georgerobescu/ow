@@ -2,15 +2,15 @@
 
 (why github.com?)
 
-Github.com is a curious platform because it acts as a possible shift in the understanding of labour.
+Github.com is a bizarre platform, because it acts as a possible shift in the understanding of labour, presenting itself, at the same time, as a perfectly integrated layer in the infrastructure of every big or small company.
 
-Drawing from the free-software and open-source ethos and ethics, for which circulation, non-copyrights, collaboration and remixing of code are the funding values of how to approach work and how to do work, github.com implemented one of the most used tools to put in practice this kind of approach, `git`, at a world-wide level.
+Drawing from the free and open source software ethos, for which circulation, non-copyrights, collaboration and remixing of code are the founding values of how to frame and to do work, github.com implemented one of the most used tools to put in practice this approach, `git`, at a world-wide level.
 
-While Github the company is born to be sustainable and making profits, selling for this reasons private repositories and custom integrations with one’s own private servers, at the same time they are spreading a particular set of ideas all over the commercial internet, some of which are very useful in producing a cultural shift on many areas of what labour means.
+Whereas Github the company is born to be sustainable and making profits, selling for this reason private repositories and custom integrations with one’s own private servers, at the same time they are spreading a particular set of ideas all over the commercial internet, some of which are very useful in producing a cultural shift on many areas of what labour means.
 
-With labour on the internet often happening as a non-deliberate act (think of the CAPTCHAs [^1]), Github creates a space where work is shared, complementary, remixed, discussed and improved.
+Labour on the internet, indeed, often happens as a non-deliberate act, think of the CAPTCHA system for example: a task where users have to prove they are human beings, by typing a short combination of letters and numbers from an image they are provided with. reCAPTCHA uses the typing users perform to prove they are human, to scan and digitise paper books more accurately than a robot could do. Many entities (Google Books, The New York Times’s archives) have used this to successfully convert physical archives of books, and what not, into digital files. If we perceived the CAPTCHA as a riddle, then reCAPTCHA is a form of labour disguised as play.
 
-[^1]: A CAPTCHA is a task asking users to prove they are human beings, by typing a short combination of letters and numbers users can read from a provided image. This typing is being employed by many companies to scan and digitise paper books more accurately than a robot could do—for now).
+Github, instead, creates a space where work is shared, complementary, remixed, discussed and improved.
 
 In relation to a possible future scenario defined by a post-work society, platforms like this could be used as a rough blueprint to organise labour in a way, perhaps, more suitable for certain kind of production executed for reasons other than earning a wage. Value will be produced and identified anyway, but will differ from money.
 
@@ -18,17 +18,23 @@ Though they are the first ones not following what they offer, as described below
 
 As computation replaces (or doubles) and transforms more and more parts of human life, data becomes the common material produced out of these processes. Far from suggesting that data takes the place of everything that build the world we live in, disembodying bodies of different kinds and abolishing materiality, I am more concerned and curious to explore how it affects the body and how we can read it and use it to readjust our understanding of what constitutes, in this case, work.
 
-If used *en-masse*, Github would be able to familiarise its users to many of the mechanisms taking place on many levels of what’s constitute a human life in the twenty-first century.
+If used *en-masse*, Github would be able to familiarise its users to many of the mechanisms taking place on many levels of what constitutes a human life-turned into human-user in the twenty-first century.
 
-For example, data tracking, processing, reading, extracting and its usages is part of what defines the transformation between individuals to dividuals. Becoming numbers instead of retaining one’s personality might have seemed the only outcome characterising the new society of information, twenty five years ago.
+For example, data tracking, processing, reading, extracting and its usages is part of what defines the transformation between individuals to dividuals:
+> “In the societies of control, on the other hand, what is important is no longer either a signature or a number, but a code: the code is a *password*, while on the other hand the disciplinary societies are regulated by *watchwords* (...) The numerical language of control is made of codes that mark access to information, or reject it. (...) Individuals have become ‘dividuals’, and masses, samples, data, markets, or ‘banks’”
+Gilles Deleuze, Postscript on the Societies of Control (1992).
 
-But what if we embrace this for real and try to understand what are the processes put in place when tracking someone? How does computation look like when it becomes part of one’s existence, especially when most activities performed are turned into data-tracking and value extraction?
+Becoming a mix of codes instead of retaining one’s personality might have seemed the only outcome characterising the new society of information, twenty five years ago.
+
+Assuming that one common element between general human-user activities on the commercial internet and Github.com, is tracking—as a form of measuring and reporting labour activities which took place before, then why not trying to embrace tracking  for real as an everyday activity, to understand it better? What are the processes put in place when this activity is being performed? *In a sense, how does computation, a form of information traceability, look like when it becomes part of one’s existence*?
 
 * * *
 
 (terms and conditions)
 
-To create an account on github.com, the requisites are: 1) to be at least of a teenager age (13 yo) and human, 2) providing a name and email address, 3) using one account per user, unless it’s for a machine user—in that case it can be hooked up by as many human users as needed, and 4) taking care of one’s password and uploaded content. As a bonus, a human user has the option to create one machine user account.
+To create an account on github.com, the requisites are: 1) to be at least of a teenager age (13 yo) and human, 2) providing a name and email address, 3) using one account per user, unless it’s for a machine user [^1]—in that case it can be hooked up by as many human users as needed, and 4) taking care of one’s password and uploaded content. As a bonus, a human user has the option to create one machine user account.
+
+[^1]: From [github.com’s FAQ](https://developer.github.com/guides/managing-deploy-keys/#machine-users), a machine user is described as an account created by a human-user, and employed to execute automatised tasks set by a human user on a GitHub project.
 
 On Github machine users are acknowledged and given some options. To avoid spam or hacking, and in a way also to implement a norm of human self-responsibility, these accounts cannot be automated in their creation. They have to be set up by other human users. A bot can’t create a bot account on github.com.
 
@@ -36,11 +42,11 @@ The main reason for wanting to use a special machine user account, is to automat
 
 [^2]: A submodule is a repository (a project folder) linked to another repository, as if it was a sub-folder of the latter.
 
-In the overall exploration of what it means to move towards a posthuman society, where the human is not replaced by better, more advanced, or different entities, but rather realises his blindness in putting at the centre of the world the anthropos as the supreme being, Github’s acknowledgment of machine users looks emblematic.
+In the overall exploration of what it means to move towards a posthuman society, where the human is not replaced by better, more advanced, or different entities, but rather realises his blindness in putting at the centre of the world the anthropos as the supreme being, Github’s acknowledgment of machine users looks emblematic: it reinforces Github’s tagline that its platform is ‘How people build software’, assigning proper user’s agency only to human users. Rather than a question of enslavement and or submission, which sounds almost arrogant in its embedding of souls into machine users (cfr. animism), the point is how to find a common ground between human users and machine ones.
 
-Emblematic because it reinforces Github’s tagline that its platform is ‘How people build software’, assigning proper user’s agency only to human users. Rather than a question of enslavement and or submission, which sounds almost arrogant in its embedding of souls to machine users (cfr. animism), the point is how to find a common ground between human users and machine ones.
+When human users assign machine users with tasks they have to complete, the two positions turn into a composite user. This very fact asks for a shift in the way human users see their position as the privileged one, and propose a reframing of their relations with other users through less human-centred design solutions. Again, a human being entering the position of user makes him her leave behind many particularities constituting one’s personal self, to inhabit a subjectivity of a different kind. When I assume the role of a user, I am not my full self, but portions of it depending on the task at hand. The common ground I foresee might be necessary to look for, between human users and machine users on github.com, is due to the fact that they are both constituted by some shared elements: a set of available actions and data. The nature at the basis of each user is determining in the way they interact with each other, but should not become a ‘box’ that helps to avoid better and different interoperativity between them.
 
-For this, I don’t yet see problematic Github’s need for human authentication when creating a new machine user, because the platform is born to organise and shared human labour first of all. But slowly, it could be used to actively promote a gradual transition toward a common language of data and its computation between human and machine users.
+For this, I don’t yet see problematic GitHub’s need for human authentication when creating a new machine user, because the platform is born to organise and shared human labour first of all. But slowly, it could be used to actively promote a gradual transition toward a common language of data and its computation between human and machine users.
 
 The rising of bots to help human beings with mundane, boring, repetitive, or very complex computational tasks is telling in the measure each of its human creators use them for.
 
@@ -48,76 +54,101 @@ On a more basic level, many of this bots are often dummy and troll experiments, 
 
 In this case, human user’s agency still prevails all over. But as it happens on Twitter since a while, where bots of different scopes are populating the platform and enriching the streams of many human users who follow them—from literary experiment, to snarky cut-up tweets, to any other variation in topic and form—which shape could this take on Github?
 
-A shift in the current situation, would imply a recalibration of usership. To be very brutal, we could see all technological infrastructures as using human users not as agents, but as component of larger mechanisms. Usership is defined both by using as well as by being used. Being operative is exactly that: transmitting something, receiving something else. In these two actions, informing and deforming the material being passed on.
+A shift in the current situation, would imply a recalibration of usership. To be very brutal, we could see all technological infrastructures as using human users not as agents, but as components of larger mechanisms. Usership is defined both by using as well as by being used. Being operative is exactly that: transmitting something, receiving something else. In these two actions, informing and deforming the material being passed on.
 
-Github.com is born as a way to spread, facilitate and automate this operativity. Setting up rules where human users are the gatekeepers of the platform, makes sense in a culture still very much imbued with humanist values: it is, nonetheless, a process to could bring human users closer with users of other natures. To give “only” human users permission to add them, encounter them and being in relation to them is maybe the way to go in this initial phase. Not to make this a reason to let human users tame machine users, but, effectively, the other way around.
+Github.com is born as a way to spread, facilitate and automate this operativity. Setting up rules where human users are the gatekeepers of the platform, makes sense in a culture still very much imbued with humanist values: it is, nonetheless, a process that could bring human users closer with users of other natures. To give “only” human users permission to add machine users, encounter them and being in relation with them is maybe the way to go in this initial phase. Not to make this a reason to let human users tame machine users, but, effectively, the other way around.
 
-Part of Github’s architecture, consists of specific features added as extensions of `git`’s existing structure.
+Part of Github’s architecture consists of specific features added as extensions of `git`’s existing structure. 
 
-The two most used and quintessential features of the platform are *Issues* and *Pull Requests*.
+The main pillars around which github.com is built are:
+* Code
+* Issues
+* Pull Requests
+
+*Code* is the default section and displays: a) the commit history of the project folder—a list of the files sitting in the root level of the folder, with a brief text next to each file/folder describing which change has been made; b) the readme file—the text of presentation for the project, usually giving a general overview of the work and some technical information of how it has been built and how to use it. 
+
+While the commit history is at the basis of `git`’s architecture, and it’s possible to visualise it when working with `git` on the Terminal as well; the readme file becomes so much central only on github.com, acting as the welcoming text for a new user visiting the project page.
+
+On GitHub users are free to `fork` (cloning to their account) every repository they have access to (they can be public or private), and with this action using and or contributing to the project. 
+
+A general usage of the platform consist in working on a project in your local hard-drive and synchronising it to a project with the same name on github.com. Every now and then `forking` other projects on GitHub that might be helpful for the work one is doing, while at the same time maybe having contributors improving one’s project’s code.
+
+This fluid exchange and improvements of code is part of the two most used and quintessential features of GitHub, *Issues* and *Pull Requests*.
 
 *Issues* gives users the possibility to report problems of any kind that they have encountered in the usage of a particular project repository.
 
-It serves as the help & assistance centre of a project, with the benefit than anyone who wants to help or have an answer to what is posted, can participate. The creator of the repository is not the only one in charge and or in power of that position.
+It serves as the help & assistance centre of a project, with the benefit than anyone who wants to help or have an answer to what is posted, can participate. In fact, the creator of the repository is not the only one in charge and or in power of that position.
 
 The other useful area, parallel to the Issues section, is *Pull Requests*.
 
 Whereas in Issues a user would, and should only post, problems, in Pull Request users can suggest new features and improvements for the project. It’s not that uncommon for a reported bug or missing feature, to transition from Issues to Pull Requests and being transformed into a feature request. At its best, this structure lets swing from the two sites of discussion very smoothly, improving either what exists, or pushing for new expansions.
 
-Being these the two areas of conversation and exchange, one think of how to avoid bureaucratisation on the platform. There are tons of software that sits on top of github.com to better organise, filter, assign, label, and resolve issues on Github.
+There are three more tabs that builds each project repository on github.com, *Pulse*, *Graphs*, and *Wiki*. The first shows a dashboard with all the working activities which took place so far. The second is a tab with the list of contributors to the project and other statistic diagrams displaying how operative the project has been until that moment. The third is a place where to extend the readme file (the introduction text of a project) with more detailed information. In describing the peculiarities of github.com though, these three tabs, while useful, took less weight in the success of the platform.
 
-Similarly, the amounts of ad-hoc solutions, fragmentation of the apparatus into smaller tasks, and cyclical proposals coming from Github users, suggests how the Issues tool has become essential within the platform and, exactly because of this, in need of many face-liftings—if not of a structural rethinking.
+Being Issues and Pull Requests the two areas of conversation and exchange, one think of how to avoid bureaucratisation on the platform. There are tons of software that sits on top of github.com to better organise, filter, assign, label, and resolve issues on GitHub.
 
-The implementation of a quick-access option to the emojis keyboard, when typing `:` + any letter or number, lets users dealing with Issues and or Pull Requests with ease, showing their approval or disregard of a particular opinion, or new implemented feature, with a couple of strokes.
+Similarly, the amounts of ad-hoc solutions, fragmentation of the apparatus into smaller tasks, and cyclical proposals coming from GitHub users, suggests how the Issues tool has become essential within the platform and, exactly because of this, in need of many face-liftings—if not of a structural rethinking.
+
+The implementation of a quick-access option to the emojis keyboard, when typing `:` + any letter or number, lets users dealing with Issues and or Pull Requests with ease, showing their approval or disregard of a particular opinion, or of a new implemented feature, with a couple of strokes.
 
 With an open ended amount of users possibly interacting on many popular open-source projects, the level of time wasted by the maintainers of these repositories just to check a new notification—reporting yet another user adding ‘+1/👍/me too’—grows huger and huger.
 
-Since this way to show support is quite widespread, a group of Github users proposed to implement a proper voting system, able to transform the above reactions into +1 or -1.
+Since this way to show support is quite widespread, a group of GitHub users proposed to implement a proper voting system, able to transform the above reactions into +1 or -1.
 
-These users, tired of how the platform functions, and having to manage big open-source projects hosted on it, published an open letter, directed to Github Inc, in the form of a new repository project. [^3]
+These users, tired of how the platform functions, and having to manage big open-source projects hosted on it, published an open letter directed to GitHub Inc, in the form of a new repository project. [^3]
 
 [^3]: Here the submission—[Dear Github](https://github.com/dear-Github/dear-Github).
 
-In it, they suggest how they would like the Issues tool to work, reaching a peak when they surf over the fact that, if github.com would be open-source, they would be more than happy to help with the implementation of what they have been asking for. So many nervous grins flirting with a company who, in less then ten years, now hosts the majority of the open source projects on the commercial internet.
+In it, they suggest how they would like the Issues tool to work, reaching a peak when they surf over the fact that, if github.com would be open source, they would be more than happy to help with the implementation of what they have been asking for. So many nervous grins flirting with a company which, in less then ten years, now hosts the majority of the open source projects on the commercial internet.
 
-On their side, Github Inc. replied saying they not only are listening to their requests (finally giving an answer to their emails after two years of silence), but are also working on some extra features to rethink the Issues section of the platform.
+This perfectly resonate with the history of the open source community, at the schism-level with the free software group. Born as one and the same, and divided from the original group after almost fifteen years of being together, the new formed open source group stepped away from the free software movement for some disagreements at the ethical level. While often the two groups are taken for the same thing, they differ in their philosophy:
+>   (...) whereas free software is always also open source, open source software does not necessarily have to be free software. That is, software can be open source without granting its users the additional freedoms that free software guarantees.
+LINFO, [Open Source Definition](http://www.linfo.org/open_source.html).
 
-That’s how you do it.
+What are these additional freedoms? Open source software cares mostly that a program be at no monetary cost and that its source code can be inspected. At a level of what one can do with the source code, though, free software lets a user not only read it (as open source software does), but also modify it and redistribute it without restrictions—under the rule that it will remain free and modifiable also for other users.
+
+For this, free software sees itself as a social movement advocating freedom in its multifold manifestations; open source software aligns itself to only a ‘practical’ development methodology, ignoring ethical concerns.
+
+Comparing this quick sketch of the difference between free software and open source software, it is clear how this positively re-affirms the open source movement’s aspirations at the time of their split with the free software group: to appeal the corporate-business-y environment. Making them use free software indeed, was perceived as pitching a poorly made product to the high society, whereas the industry-informed ethos of the open source group was fitting much better, since their attitude privileged well made products and avoiding to deal with ethical questions as much as possible.
+
+On their side, GitHub Inc. replied to the open letter published by the big group of developers mentioned above, saying that they not only are listening to their requests (finally giving an answer to the their emails after two years of silence), but are also working on some extra features to rethink the Issues section on the platform.
+
+That’s how your roll it out.
 
 * * *
 
-(git’s decentralised structure and Github’s centralised one)
+(git’s decentralised structure and GitHub’s centralised one)
 
 Github.com acts as an interface of `git`, making the activity of working together on the same project, and sharing new code, easier.
 
-Even though it is possible to set up one’s own server with `git` installed on it, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is, as many other internet services and social platforms, the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
+Even though it is possible to set up one’s own server with `git` installed on it, and create a web interface to facilitate the exchange and collaboration of projects, what github.com offers is—as many other internet services and social platforms—the possibility to focus on what you want to do and not investing time in the underlaying infrastructure governing those very activities.
 
-Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows, as well as the biggest website hosting open-source projects. The perversion lies in the fact that in becoming this, in the first case it is going against the very principles and architecture employed and suggested by `git`, while in the second instance it is finding itself in a bizarre situation.
+Perversely, github.com has become the most recognised and main used website for sharing `git`-based workflows, as well as the biggest website hosting open source projects. The perversion lies in the fact that in becoming this, in the first case it is going against the very principles and architecture employed (and suggested) by `git`, while in the second instance it is finding itself in a bizarre situation.
 
-The two main factors that put Github Inc. in the above position are:
+The two main factors that put GitHub Inc. in the above position are:
 1. centralisation of the decentralised-by-design git’s infrastructure
 2. copyrights over github.com’s software
 
-In its inception, and to put it cynically, `git` is decentralised because its creator, Linus Torvald, was in need to get patches from the various developers helping him with the development of Linux. Originally, `git` was built as a reaction to some problems the Linux project had while being hosted on BitKeeper—a popular Version Control System (like `git` is). After Andrew Tridgell, a computer programmer involved in the free software scene, tried to build a free version of BitKeeper (which is proprietary software), part of the Linux project was treated, by BitKeepers itself, to not being stored on BitKeepers’ servers for free anymore. For this, Torvald, in need of a replacement, decided to create a free and better implementation of this service to use for his needs.
+In its inception, and to put it cynically, `git` is decentralised because its creator, Linus Torvald, was in need to get patches from the various developers helping him with the development of Linux. Originally, `git` was built as a reaction to some problems the Linux project had while being hosted on BitKeeper—a popular Version Control System (like github.com is). After Andrew Tridgell, a computer programmer involved in the free software scene, tried to build a free version of BitKeeper (which is proprietary software), part of the Linux project was treated, by BitKeepers itself, to not being freely stored on BitKeepers’ servers anymore. For this, Torvald, in need of a replacement, decided to create a free and better implementation of the service to use for his own needs.
 
-Version Control Systems are divided in those implementing a centralised architecture, and those adopting a decentralised and distributed one. In the former case, users have to work with the same copies of the files on a central server. If the server has problems, users working with it will automatically suffer as well. `git` instead, is a distributed system, where each user has its own copy of the same project, and for this, is potentially also a decentralised one, as users are spread all over the network. It is only potentially decentralised, because it requires that each user would set up his her own git server, and would give access to other users as well.
+Version Control Systems are divided in those implementing a centralised architecture, and those adopting a decentralised and distributed one. In the former case, users have to work with the same copies of files on a central server. If the server has problems, users working with it will automatically suffer as well. `git`, instead, is a distributed system, where each user has its own copy of the same project, and for this, it is, potentially, also a decentralised one, as users are spread all over the network. It is only potentially decentralised, because it requires that each user would set up his her own `git` server, and would give access to it to other users as well.
 
-Still, this  multiplicities of Linux enthusiasts were perfect for Torvald: more contributions, more choices to pick from or to discard.
+Still, this multiplicities of Linux enthusiasts were perfect for Torvald: more contributions, more choices to pick from or to discard.
 
-The problem with github.com copyrighting the software that makes it run is that, unlike any other repository hosted on its platform, Github’s own project repository can’t be duplicated and used, and improved, and modified—it’s not even listed along the others on the platform.
+The problem with github.com copyrighting the software that makes it run is that, unlike any other repository hosted on its platform, GitHub’s own project repository can’t be duplicated and used, and improved, and modified—it’s not even listed along the other project on the platform.
 
-Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect for which, when github.com is having some issues, another “copy” of it takes over and keeps the service up and running. If Github is down, a big chunk of the internet is down as well. Of course for this to happen, first Github should be open-sourced, whereas now it’s not; and second, many Github users should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s software and make it accessible to other Github user. Ideally then, if we would stretch this current limitation (github.com’s biggest limitation?), there would be an easy option, in the configuration panel of each user account, through which set up a copy of Github’s software on one’s own server by only following some easy steps (or even with a 1-click button).
+Besides this being at odd with the fundamentals of `git`, it makes it very hard to create a relay effect for which, when github.com is having some issues, another ‘copy’ of it takes over and keeps the service up and running. If GitHub is down, a big chunk of the internet is down as well. Of course for this to happen, first GitHub should be open sourced, whereas now it’s not; and second, many GitHub users should invest a small amount of money in duplicating on their personal servers a perfect copy of the platform’s software and make it accessible to other GitHub user. Ideally then, if we would stretch this current limitation (github.com’s biggest one?), there would be an easy option, in the configuration panel of each user, through which setting up a copy of GitHub’s software on one’s own server by only following some easy steps (or even with a 1-click button).
 
-[GitTorrent](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-Github/), a project by Chris Ball, aims exactly at resolving this problem. Using BitTorrent as its (peer 2 peer) decentralised network infrastructure, GitTorrent, in its first experiment, would be able to create this relay effect I sketched above. What GitTorrent proposes, is to make `git` decentralised for real—since the necessary architecture is there already, but the infrastructure to do it still requires quite some effort to be well implement and kept up to date.
+[GitTorrent](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-Github/), a project by Chris Ball, aims exactly at resolving this problem. Using BitTorrent as its peer 2 peer decentralised network infrastructure, GitTorrent, in its first experiment, would be able to create this relay effect I sketched above. What GitTorrent proposes, is to make `git` decentralised for real—since the necessary architecture is there already, but the infrastructure to do it still requires quite some effort to be well implemented and kept up to date.
 
-In the case Github’s servers were down, GitTorrent would permit the user of the former platform to still access it, because each of them would be using GitTorrent, and so putting online, in a peer 2 peer network (through BitTorrent), their local repositories. It’s the same when you download a movie through torrent and then let the torrent application still on, so other users can munch bits of the movie’s file as well, and complete the download process. This already happens when using Github: a user have (or should have) a local copy of the project on his her hard-disk, and should synchronise it with Github when making new progress. GitTorrent moves away from this infrastructure [^5], by using a decentralised network architecture (BitTorrent) which relies on users themselves and the internet network, rather than on an unique site of storage.
+In the case GitHub’s servers were down, GitTorrent would permit the user of the former platform to still access it, because each of them would be using GitTorrent, and so putting online, in a peer 2 peer network (through BitTorrent), their local repositories. It’s the same when you download a movie through torrent and then let the torrent application still on, so other users can munch bits of the movie’s file as well, and complete the download process. This already happens when using GitHub: a user have (or should have) a local copy of the project on his her hard-disk, and should synchronise it with GitHub when making new progress. GitTorrent moves away from this infrastructure [^4], by using a decentralised network architecture (BitTorrent) which relies on users themselves and the internet network, rather than on an unique site of storage.
 
-[^5]: The project is already quite ambitious and covers—as well as made use of—other areas and technologies: for example it employs blockchain to distribute usernames to adopt on the network. [Here the article](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-Github/).
+[^4]: The project is already quite ambitious and covers—as well as made use of—other areas and technologies: for example it employs blockchain to distribute usernames to adopt on the network. [Here the article](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-Github/).
 
-As Bratton says [^6], platforms, acting as a third site between the State and the Market, both centralise some functions and decentralise others. What Github did, was to centralise `git`’s distributed architecture into a common space for anyone to join. While this have brought many benefits, if only the general spreading and higher relevance of open source projects, on the other side it’s a movement undermining the very reasons who made Linus Torvald leaving BitTorrent, for something non-dependant on a central infrastructure.
+As Bratton says [^5], platforms, acting as a third site between the State and the Market, both centralise some functions and decentralise others. What GitHub did, was to centralise `git`’s distributed architecture into a common space for anyone to join. While this have brought many benefits, if only the general spreading and higher relevance of open source projects, on the other side it’s a movement undermining the very reasons which made Linus Torvald leaving BitTorrent, for something non-dependant on a central infrastructure.
 
-[^6]: [The Politics Of Platform Technologies—Benjamin Bratton](https://www.youtube.com/watch?v=aeWr70c1_mE).
+[^5]: [The Politics Of Platform Technologies—Benjamin Bratton](https://www.youtube.com/watch?v=aeWr70c1_mE).
 
-Github’s merit, even if only temporary, might be to have created the conditions for a massive transition toward a truly distributed and decentralised `git` network. But as with many other projects of the same kind, the desirability to start adopting, promoting, and co-developing GitTorrent, lies in how easy to setup and maintain it is. This directly affects the perceived easiness of it use. In the attempt of spreading a new literacy of computation also through `git`, one which is self-reflexive—through one’s adoption and usage of it—of the circumstances that makes one’s usership up, the initial level of interfaciality between user and user, or user and tool, is going to determine the adoption of it or not.
+GitHub’s merit, even if only temporary, might be to have created the conditions for a massive transition toward a truly distributed and decentralised `git` network. But as with many other projects of the same kind, the desirability to start adopting, promoting, and co-developing GitTorrent, lies in how easy to setup and to maintain it is. This directly affects the perceived easiness of its use. In the attempt of spreading a new literacy of computation also through `git`, one which is self-reflexive—through one’s adoption and usage of it—of the circumstances that makes one’s usership up, the initial level of interfaciality between user and user, or user and tool, is going to determine the adoption of it or not.
 
-Since the thinking and making of new interfaces between users is the new conatus as work, when data and computation become the common material through which interact between users of different nature, github.com is making a good job in expanding its platform to new users. In parallel, a new iteration of it in the form of GitTorrent, could bring and spread more literacy on a technical level, while implementing different and better ethical values at the same time. How would this set of values position themselves in the sketching of a posthuman ethics, though?
+Since the thinking and making of new interfaces between users is the new conatus as work, when data and computation become the common material through which interacting between users of different nature, github.com is making a good job in expanding its platform to new users. In parallel, a new iteration of it in the form of GitTorrent, could bring and spread more literacy on a technical level, while implementing different and better ethical values at the same time. *How would this set of values position themselves in the sketching of a posthuman ethics, though*?
