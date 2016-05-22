@@ -131,6 +131,6 @@ In the understanding of what it means to be an internet user, a new literacy of 
 
 ++++
 
-* interfaces are survival mechanisms to cope with being operative as users
+* interfaces are survival mechanisms to cope with users while being operative as one.
 * git’s classical diagram “how does it work” + same diagram with updated version to work/interface between users (?)
 
