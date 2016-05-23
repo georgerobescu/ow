@@ -1,0 +1,48 @@
+# ow—thesis chapter #0 (version 2, draft)
+
+* from post-fordist worker to internet user
+* git and github
+* post-work and post-human society as backdrops at the end of this transitional process
+* what is tracking in relation to labour and what are its effects for the economies as well as the ethics of the (posthuman) internet user?
+
+What does it mean to work when work is no longer a necessary human activity to make a living? What other forms could work take if it won’t be erased as an activity at all?
+
+At the same time of a resurgence, in the last period, of the interest in post-work societies, driven by Universal Basic Income and full-automatisation of labour, there is, in parallel, a more systematic proliferation of tracking processes on the internet, out of which web platforms and companies extract surplus value from users’ activities for their on benefits.
+
+While the two phenomena might not have any relation with each other, a question I’d like to pose is: if thanks to a Universal Basic Income, ideally I won’t have to worry about covering the basic needs to set up not a decent, but a good-enough life, how would this affect the situation on the internet? Would a post-work society be mirrored also in this space? *Would users be able to produce more for the internet without having to deal with basic sustenance*? 
+
+The transition I am interested in exploring, is the passage from the post-fordist worker to the internet user, which happened in the last decade: while the former label has been used to describe a set of job positions ranging from care workers to designers and journalists to call center workers (the general constitution of, for the most part, precarious, part-time, project-based jobs), where, depending on the tasks, either mental or affective labour are determining in the type of work performed; with the latter subject, the internet user, I identify the new iteration of worker part of the capitalist society we live in: as a subject, it is ontologically defined by a mix of affective and mental labour a priori.
+
+Which forms does labour take on the internet? Though not the only one, the most pervasive is the technique adopted by platforms we use everyday (facebook, gmail, instagram, whatsapp, twitter and so forth), where they invisibly suck informations we produce and share up, in order to sell them to advertisers and spit them back to us in the form of customised ads. [^1]
+
+[^1]: A project dealing with the algorithmic ads suggestions based on the content users produce is [American Psycho](http://jason-huff.com/projects/american-psycho/) by Mimi Cabell and Jason Huff: «This book was made by sending the entire text of Bret Easton Ellis' American Psycho between two GMail accounts page by page. We saved the relational ads for each page and added them back into the text as footnotes».
+
+In dealing with the action of tracking, what I want to explore is a platform called github.com and the tool upon which it is built, `git`: in this case, tracking doesn’t happen as a non-aware and malicious background process, but rather as a deliberate and voluntary activity part of the application workflow.
+
+GitHub (github.com) is a website and a platform for users to share, contribute and download code-based projects: a “social network” for people who use `git` in their workflow. `git` is a version control system for text-based files, which is, a software that, once installed, tracks every change a user makes on a file or set of files, within one or more folders she he it decided to look after.
+
+Whereas other internet-based platforms, like Über and Amazon M Turk, are explicit in their intents to be a job-offer for someone looking for work, github.com keeps itself in the grey area of being both for personal and professional use.
+
+As much as a programmer working at a company can use it for his her job, a weekend website-maker can use it as well for different purposes. Being `git` only an added element to one’s workflow, the reason for creating an account on github.com are highly subjectives, and totally in line with the spirit of the creative post-fordist worker (where famously work is play and play is work). As a user, the personal takes over the sphere of the professional, transforming both into one smooth space.
+
+Imagining an expansion in the usage of `git` and github as a model to organise work on the internet, I wonder how the possible effects of the above cited post-work, Universal Basic Income-based society would effect this sphere of life. By post-work society I refer to a cultural shift in the understanding of labor, where human beings are freed of the need to provide themselves with basic material needs, hence with the action of sustaining themselves. While in books such as ‘Inventing the Future’ (Nick Srnicek and Alex Williams, 2015), there seem to be a total automatisation of labour, and in particular of what they refer to as ‘shit job’ [^2], what they do actually mean is a diminution of tasks human beings have to perform within a job, rather than the full automation of it altogether [^3]. In short, they reinforce the thesis of a more tight collaboration between human beings and machines, while in the process of moving toward a post-capitalist society.
+
+[^2]: From [urbandictionary.com](http://www.urbandictionary.com/define.php?term=Shit%20job): «An unfulfilling, tedious waste of 8+ hours of the day, five days of the week, that you only persist with in order to pay the bills and the ever mounting debt that comes from having to increase your spending in order to entertain yourself outside of working hours as you are so brain dead from the hours you spend in work.»
+
+[^3]: An example they give in ‘Inventing the Future’ is the new level of efficiency reached by law offices in all the tasks where they have to look for and compared similar laws: ideally computer programs can do these better with less risk of making mistakes, leaving the job of judging to human beings.
+
+The reframing of the importance toward the activity of work as a life-meaning vector, also includes the questioning of the driving force through which «each thing, as far as it can by its own power, strives to persevere in its being». This is the concept of conatus expressed by Benedictus de Spinoza in his book Ethics, here understood as both a force present in each thing constituting the world, which permit them to survive and keep them being what they are. But also, since they strive to persevere in their beings, as a way to iterate themselves over time. Can the spinozian conatus take a different meaning for the internet user?
+
+The separation between performing work to sustain one’s life, and working for a different set of reasons and values, becomes central in analysing the iteration from the post-fordist worker to the internet user. This separation of intentions, indeed, is already present on the internet nowadays (most of users interaction and value-production are made for free, be it because part of invisible value-extraction mechanism—social networks, or as a genuine interest in contributing to a common good—for example wikipedia), and with the advent of an hypothetic post-work society this shift might become stronger.
+
+Another element helpful to define the environment of the project, is the concept of the posthuman turn. As a set of theories describing the decentering of the human beings as measure of all things of the world, of significant importance is the definition of (internet) user given by Benjamin Bratton (The Stack—On Software and Sovereignty, 2016) as anything able to produce data and exchange it, through the help of interfaces, with other users. This definition reveals itself of fundamental importance when talking about labour on the internet between users: the human user is only one of the possible entities this position can be inhabited by, opening it up to users with animal, plant, machinic, mineral, algorithmic (and so forth) natures.
+
+Data assumes the role of raw material through which performing an act of communication between users of different nature: finding an interface to get in contact with another user becomes .
+
+Tracking is here
+* active process
+* ethics (git and github)
+* labour (git and github)
+* computation is part of it
+
+
