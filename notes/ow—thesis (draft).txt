@@ -6,20 +6,19 @@ André Fincato, May 2016.
 
 ## Outline
 
-0. introduction
-    * what is work
-    * post-work society
-    * github.com
-1. user
-    * from the post-fordist worker to the internet user
-    * re-understanding conatus as labour in relation to computation
-    * user’s agency
-    * building status and building history
-2. platform  
-    * why github.com?
-    * terms and conditions
+0. Introduction
+    * What is work, GitHub, Post-work society
+1. User
+    * From the post-fordist worker to the internet user
+    * Conatus as labour, labour as making interfaces
+    * User’s agency
+    * Building status and building history
+2. Platform  
+    * Why github.com?
+    * Terms and conditions
     * git’s decentralised structure and GitHub’s centralised one
 3. conclusion
+    * aa
 
 * * *
 
@@ -65,7 +64,7 @@ The reframing of the importance toward the activity of work as a life-meaning ve
 
 The separation between performing work to sustain one’s life, and working for a different set of reasons and values, becomes central in analysing the iteration from post-fordist worker to internet user. This separation of intentions, indeed, is already present on the internet nowadays: most of users’ interactions and value-production are made for free, be it because part of invisible value-extraction mechanisms (e.g. social networks); or as a genuine interest in contributing to a common good (for example wikipedia). With the advent of an hypothetic post-work society, this shift might get stronger.
 
-The other element defining the environment of the project I am working on, is the concept of the posthuman turn. As a set of theories describing the decentering of the human being as measure of all things in the world, the definition of user given by Benjamin Bratton (Benjamin Bratton, The Stack—On Software and Sovereignty, 2016, pp. 287) is of significant importance: a user is anything able to produce data and exchange it, through the help of interfaces, with other users. This definition appears fundamental when talking about labour on the internet between users: the human user is only one of the possible entities this position can be inhabited by, opening it up to users with animal, plant, machinic, mineral, algorithmic (and so forth) natures Benjamin Bratton, The Stack—On Software and Sovereignty, 2016, pp. 272–273).
+The other element defining the environment of the project I am working on, is the concept of the posthuman turn. As a set of theories describing the decentering of the human being as measure of all things in the world, the definition of user given by Benjamin Bratton (Benjamin H. Bratton, The Stack—On Software and Sovereignty, 2016, pp. 287) is of significant importance: a user is anything able to produce data and exchange it, through the help of interfaces, with other users. This definition appears fundamental when talking about labour on the internet between users: the human user is only one of the possible entities this position can be inhabited by, opening it up to users with animal, plant, machinic, mineral, algorithmic (and so forth) natures (Benjamin H. Bratton, The Stack—On Software and Sovereignty, 2016, pp. 272–273).
 
 Data assumes the role of raw material through which performing communicative acts between users of different natures: finding an interface to get in contact with other users becomes essential. Tracking, framed as a process of keeping tab of what happened and what is happening, can be used to build new kinds of these interfaces. Furthemore, the action of tracking on `git` and github.com, traverses both the sphere of ethics and labour: what are the implications between users, when performing this action, and how does this affect one’s work? Overall, how does tracking organise such activities?
 
@@ -75,60 +74,62 @@ Data assumes the role of raw material through which performing communicative act
 
 ### From the post-fordist worker to the internet user
 
-There still is a strong desire amongst freelance workers able to spur them to take a solo, independent career and, in doing so, avoiding to be under a boss.
+There is still a strong desire amongst freelance workers able to spur them to take a solo, independent career and, in doing so, avoiding to be under a boss.
 
 Only for then being under a variety of bosses, being that a company, a client, they themselves even, and so forth.
 
 Post-fordism arose in the early 1970s as a transformation of the current production model of the time, the fordist method applied to the factory, whose pillars were crumbling down due to factors  such as:
 > a) diminished profitability of production activities due to labour demands and technical restrictions (problems with managing longer and longer production chains); b) globalisation of economic currents disrupting the management of national economies; c) growing share of social transfers in public spending that propels the inflationary spiral and fosters distributive conflict; d) differentiation of consumption patterns demanding a broader range of supplied use-values.
-Igor Pribac, “Post-Fordism–a Contextualisation”—Gal Kirn, Post-Fordism and Its Discontents, 2010, pp. 29.
+Igor Pribac, ‘Post-Fordism–a Contextualisation’—Gal Kirn, Post-Fordism and Its Discontents, 2010, pp. 29.
 
-The above are the outlined theories developed by the Regulation School’s (whose most prominent voice was Michel Aglietta), when during the 1970s, the oil crisis, amongst other things, was slowing down the capitalist regime of production.
+The above are the outlined theories developed by the Regulation School, whose most prominent voice was Michel Aglietta, when during the 1970s, the international oil crisis, amongst other things, was slowing down the capitalist regime of production.
 
-There were two more schools of thoughts contemporary of the Regulation School: the Neo-Schumpeterians and the Flexible Specialisation approach. Whereas the first was confident that big technological advancements were enough reasons to transform whole societies (religiously finding hope and building faith out of technology), the latter stressed the co-existence of both mass production and the rise of specialised one. For the Neo-Schumpeterians, a lot of agency was given to technological changes, assuming that «socio-political institutional frameworks depend on [these changes]» [^7]. The ‘Flexible Specialisation’ hypothesis, instead, found in the shift of consumers’ desires for a diverse range of products and consequently a transition from mass-industrial production to, more and more, small, highly specialised and flexible firms, the reasons producing the undergoing transformation in the market at the time. Unlike the Regulation School’s four core argumentations reported above though, both Neo-Schumpeterians and Flexible Specialisation’s theories visibly lacked of «the economic-social-political core of the transitional changes» [^8] at the basis of their postulations. Either they saw technology or social factors as the only driving vectors of change, instead of taking into account them both, and including politics as well.
+There were two more schools of thoughts contemporary of the Regulation School: the Neo-Schumpeterians and the Flexible Specialisation approach. Whereas the first was confident that big technological advancements were enough reasons to transform whole societies (religiously finding hope and building faith out of technology), the latter stressed the co-existence and opposition of both mass production and the rise of specialised one as the means of the undergoing mutations in the economy. For the Neo-Schumpeterians, a lot of agency was given to technological changes, assuming that «socio-political institutional frameworks depend on [these changes]» [^7]. The ‘Flexible Specialisation’ hypothesis, instead, found in the shift of consumers’ desires for a diverse range of products and consequently a transition from mass-industrial production to, more and more, small, highly specialised and flexible firms, the reasons originating the undergoing transformation in the market at the time. Unlike the Regulation School’s four core argumentations reported above though, both Neo-Schumpeterians and Flexible Specialisation’s theories visibly lacked of «the economic-social-political core of the transitional changes» [^8] at the basis of their postulations. Either they saw technology or social factors as the only driving vectors of change, instead of taking into account them both, and including politics as well.
 
-[^7]: Igor Pribac, “Post-Fordism–a Contextualisation”—Gal Kirn, Post-Fordism and Its Discontents, 2010, pp. 28.
+[^7]: Igor Pribac, ‘Post-Fordism–a Contextualisation’—Gal Kirn, Post-Fordism and Its Discontents, 2010, pp. 28.
 [^8]: Ibid, pp. 38.
 
 Fresh of the free liberation of desires coming from the 1968, together with the application, for the first time, of neoliberal politics, post-fordism repositioned in the figures of information producers and workers a new faith for the extraction of surplus value.
 
 Common examples of these new job positions are the ones of the journalist, the academic researcher, the designer, etc.
 
-But since the production and usage of informations means indeed the production of language, also figures like the one of the call-center worker are part of this new sphere. And more over, it is also important to remember all the area of care work, meaning affective and emotional labour performed mainly by women in different contexts: waitresses and shopkeepers, care workers, nurses, masseuses, prostitutes and so on.
+But since the production and usage of informations means indeed the production of language, also figures like the one of the call-centre worker are part of this new sphere. And more over, it is also important to remember all the area of care work, meaning affective and emotional labour performed mainly by women in different contexts: waitresses and shopkeepers, care workers, nurses, masseuses, prostitutes and so on.
 
 Affective and emotional labour are not exclusive of these jobs—they are present, in different quantities, in many other form of labour—but for sure they are the most visible and often forgotten type of employments, when talking about post-fordism.
 
-A common element that many, if not all, of these jobs share is giving value to flexibility. When during the late 60s and early 70s flexibility was requested by students-finding-a-job and workers, as part of the transformations taking place in the work field, it was seen by these subjects as a positive and important achievement. They could finally manage, on their on terms, their life and work, they could set their own working schedule, they could decide to have a short-term contract and spend three months at a job, three months in another job, then five other months, for example, travelling (or fulfilling personal aspirations). Ironically, this same lust for flexibility was also happily accepted by the employers. And the capital shifted, in the capturing of the workforce, from the traditional form of brutal, physical energy, sealed in each and every worker; to the working-desire, the desire for work they all had. The desire for self-realisation and, together with this, the energies produced through intellectual-mental labour and from emotional and affective one. This passage marked a transition of employers mainly demanding physical energy, to ask for mental and affective energy on top of the physical one.
+A common element that many, if not all, of these jobs share is the value given to flexibility. When during the late 1960s and early 1970s flexibility was requested by students-finding-a-job and workers, as part of the transformations taking place in the work field, it was seen by these subjects as a positive and important achievement. They could finally manage, on their on terms, their life and work, they could set their own working schedule, they could decide to have a short-term contract and spend three months at a job, three months in another job, then five other months, for example, travelling (or fulfilling personal aspirations). Ironically, this same lust for flexibility was also happily accepted by the employers. And the capital shifted, in the capturing of the workforce, from the traditional form of brutal, physical energy, sealed in each and every worker; to the working-desire, the desire for work they all had. The desire for self-realisation and, together with this, the energies produced through intellectual-mental labour and from emotional and affective one. This passage marked a transition of employers mainly demanding physical energy, to ask for mental and affective energy on top of the physical one.
 
 > The capitalism the [anti-capitalist] protesters [in May ’68] fought against (...)  was the capitalism of the old spirit. (...) what was set up as an alternative to capitalist production, imagination, life, diversity, freedom, individuality, were the very features offered by the ideologists of new capitalism to form the new spirit of capitalism.
 Zdravko Kobe, “Three Theses on Post-Fordism”—Gal Kirn, Post-Fordism and Its Discontents, 2010, pp. 151.
 
-Workers were happy not to have fix jobs. This meant going against a long tradition imposed by their family, for which you had to look out for the job of life—which was essential to build indeed a family, a shared life, and reaching a form of stability. Instead, post-fordism introduced words such as part-time job, flexible hours, and in so doing also the idea of precarity.
+Workers were happy not to have fix jobs. This meant going against a long tradition imposed by their families, for which you had to look out for the job of life—which was essential to build indeed a family, a shared life, and reaching a form of stability. Instead, post-fordism introduced words such as part-time job, flexible hours, and in so doing also the idea of precarity.
 
-For many job positions, such as, for e.g., the one of the journalist, the academic, the designer, etc. these new elements could have been taken in such a way that, after some years of paying one’s dues, they may have reached a better position at the office they were working at, or maybe even setting up their own practice. But what would have changed after five years of working at a call-center? Or as a care-worker for and with elderly and disabled people?
+For many job positions, such as, for e.g., the one of the journalist, the academic, the designer, etc. these new elements could have been taken in such a way that, after some years of paying one’s dues, they may have reached a better position at the office they were working at, or maybe even setting up their own practice. But what would have changed after five years of working at a call-centre? Or as a care-worker for and with elderly and disabled people?
 
-One of the biggest critics toward the concept of post-fordism is the fact that it is too localised to very specific geographical contexts (for example, Italy and Japan), to stand as a general paradigm shift on its own. For this reason, many theorists did oppose to such a framework, saying that the fordist production model was only undergoing a structural phase of renovation, rather than living its final crisis. In the same way, other affirms [^9] that the 2008 crisis marked one more milestone in the reversal of the current capitalist, fordist-driven, model of production.
+One of the biggest critics toward the concept of post-fordism is the fact that it is too localised to very specific geographical contexts (for example, Italy and Japan), to stand as a general paradigm shift on its own. For this, many theorists did oppose to such a framework, saying that the fordist production model was only undergoing a structural phase of renovation, rather than living its final crisis. In the same way, other affirms [^9] that the 2008 crisis marked one more milestone in the reversal of the current capitalist, fordist-driven, model of production.
 
 [^9]: Igor Pribac, “Post-Fordism–a Contextualisation”—Gal Kirn, Post-Fordism and Its Discontents, 2010, pp. 31.
 
-A general common element traversing the whole “renovation phase” was the introduction, and more widespread usage, of computers and databases. From the beginning of this economy turn—which for the most part developed in some areas of the western world, as noted above, but can now be seen outsourced to countries of the south-east Asia such as India (cfr. click-farms)—the popularisation of computers and databases were, for sure, essential elements in defining a new working environment, slowly then becoming part of society at large. 
+A general common element traversing the whole “renovation phase” was the introduction, and more widespread usage, of computers and databases. From the beginning of this economic turn—which for the most part developed in some areas of the western world, as noted above, but can now be seen outsourced to countries of the south-east Asia such as India (cfr. click-farms [^10])—the popularisation of computers and databases were, for sure, essential elements in defining a new working environment, slowly then becoming part of society at large.
 
-But, leaving unfulfilled the expectations of the Information Society theories’ supporters, who dreamt computers would have given more leisure time to workers and consequently would have improved their engagement in politics, «information technology entered all production sectors–from service to manufacturing industries–and became their integral part without significantly altering the power relations within them». [^10]
+[^10]: A click-farm is a place, usually physical, where barely-paid workers click on facebook’s like, twitter’s retweet, etc. all day long to create value specific user profiles, companies, and so forth. It could be an online shop asking to gain visibility, or a private account trying to become popular, etc. These workers, instead of adding one small piece in the production-line of a product, exemplifies at best how what most users do on a less extreme scale: clicking on the share button of the most used platforms of the commercial internet, to generate ‘value’: usually revenues for the companies hosting the service and the advertisers selling on them. See Charles Arthur, [How low-paid workers at 'click farms' create appearance of online popularity](https://www.theguardian.com/technology/2013/aug/02/click-farms-appearance-online-popularity), 2013, The Guardian.
 
-[^10]: Ibid, pp. 35.
+But, leaving unfulfilled the expectations of the Information Society theories’ supporters, who dreamt computers would have given more leisure time to workers and consequently would have improved their engagement in politics, «information technology entered all production sectors—from service to manufacturing industries—and became their integral part without significantly altering the power relations within them». [^11]
 
-When in 1997, Maurizio Lazzarato wrote a text on Immaterial Labor, that umbrella term was quite useful to try to define and bring to light a new iteration of what post-fordism became after twenty-five years of development.
+[^11]: Igor Pribac, “Post-Fordism–a Contextualisation”—Gal Kirn, Post-Fordism and Its Discontents, 2010, pp. 35.
+
+When in 1997, Maurizio Lazzarato wrote a text on immaterial labor, that umbrella term was quite useful to try to define and bring to light a new iteration of what post-fordism became after twenty-five years of development.
 
 > The consumer is no longer limited to consuming commodities (destroying them in the act of consumption). On the contrary, his or her consumption should be productive in accordance to the necessary conditions and the new products. Consumption is then first of all a consumption of information. Consumption is no longer only the "manufacturing" of a product, but a real and proper social process that for the moment is defined with the term communication.
-(Maurizio Lazzarato, [Immaterial Labor](http://www.generation-online.org/c/fcimmateriallabour3.htm), 1997)
+Maurizio Lazzarato, [Immaterial Labor](http://www.generation-online.org/c/fcimmateriallabour3.htm), 1997.
 
 Nowadays, that description has become obsolete, because it is so embedded in the dominant societal order in which we live, that nobody is out of its reach. No more it belongs only to a specialised subset of professions, for the most part contributing to this economic processes, but to anyone who is, in some form, part of society. 
 
-If in moving toward the post-fordist worker subject, Capital began to be interested in accumulating desires—in the form of information production of some kind—while getting a bit more closer and intimate with the subjective sphere of a worker (mental labour, emotional labour, and so on); now with the internet user it is a matter of simply “living” and doing the things you do in your everyday life: Capital needs only that to extract surplus value from your activities.
+If in moving toward the post-fordist worker subject, Capital began to be interested in accumulating desires—in the form of information production of some kind—while getting a bit more closer and intimate with the subjective sphere of a worker (mental labour, emotional labour, and so on); now with the internet user it is a matter of simply ‘living’ and doing the things you do in your everyday life: Capital needs only that to extract surplus value from your activities.
 
-It is this the connection between the post-fordist worker and the internet user: data is now relevant for the Capital, not only when produced at work and for some very specific purposes, but as data itself, no matter the kind of environment in which it is born. Some value is produced out of it anyway. The precarious position often embedded within the post-fordist subject, even in the position of unemployed, now makes sense. Everybody at home can be capitalised by only browsing the internet. Home has become your phone and computer, rather than a physical fixed site. And labour has been dematerialised both in terms of time, space, and also action.
+It is this the connection between the post-fordist worker and the internet user: data is now relevant for the Capital, not only when produced at work and for some very specific purposes, but as data itself, no matter the kind of environment in which it is born. Some value is produced out of it anyway. The precarious position often embedded within the post-fordist subject, even in the position of unemployed, now makes sense. Everybody at home can be capitalised by only browsing the internet, where home has now become your phone and computer, rather than a physical fixed site. And labour has been dematerialised both in terms of time, space, and also action.
 
-### Re-understanding conatus as labour in relation to computation
+### Conatus as labour, labour as making interfaces
 
 Data is essential to re-understand the user subject. This position implies an expansion of the entities capable of taking part in this role, opening it up to animal, mineral, plant, machinic, algorithmic and bot user, besides the human one. Data becomes the common ground that enables human-user to interface with non-human and in-human users.
 
@@ -136,14 +137,13 @@ For this reason, there must be a shift at the ontological level in the language 
 
 It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through data production (*being operative*), traces a line to the concept of conatus.
 
-If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being» [^11], then does this relate to the user subject in any way? What is the underlaying effort a user must do in order to keep being a user? For a user is a position an entity inhabits: each of this entities have already a conatus of their own even before entering the user position.
+If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being» [^12], then does this relate to the user subject in any way? What is the underlaying effort a user must do in order to keep being a user? For a user is a position an entity inhabits: each of these entities have already a conatus of their own even before entering the user position.
 
-[^11]: Frédéric Lordon quoting Benedictus de Spinoza in Ethics, part III, Willing Slaves of Capital, 2014, pp. 14.
+[^13]: Frédéric Lordon quoting Benedictus de Spinoza in Ethics, part III, Willing Slaves of Capital, 2014, pp. 14.
 
 So what do we mean by «strives to persevere in its being» in connection to a user? Does a user strive to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user?
 
 There is another frame of conatus that goes more into the idea of iterative, ever-becoming processes. This definition might relate much more to the user position, as something than permits an entity to inhabit differently his her its surrounding and own being. Spinoza says:
-
 > In this life therefore we endeavour [conamur] above all that the body of infancy be changed [mutetur] into another body which is capable of a great many things, and which is related to a mind which is very much conscious of itself, of God, and of things. (Ethics V Proposition 39)
 Stephen Connelly, [Conatus: political being and Spinoza](http://criticallegalthinking.com/2015/03/16/conatus-political-being-and-spinoza/), 2015.
 
@@ -156,41 +156,40 @@ Being operative, in this frame, means then not being alive, or being on/off. Ins
 In the context of a post-work society where human users will live with a Universal Basic Income, how will the idea of conatus change? With the rising and acknowledgment of many other users, will it turn into a drive for human users to strive to keep being relevant in their inter-operativeness amongst other users?
   
 > Worse than being seen as an enemy is not being seen at all. As Eliezer Yudkowsky puts it, “The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.”
-Benjamin Bratton, [The Black Stack](http://www.e-flux.com/journal/the-black-stack/), 2014, e-flux.com.
+Benjamin H. Bratton, [The Black Stack](http://www.e-flux.com/journal/the-black-stack/), 2014, e-flux.com.
 
 Looking at it in this way, for human users conatus will not be a matter of striving for one’s own sustaining, but striving for building different and better interfaces through which connecting with all the rest of users, in forms that destabilise humanist understanding of *being* in the world, of language and accountability, and so forth.
 
 Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and therefore, in how to use one’s data production to re-position oneself in the world. Interfaces, in parallel, assume the role of survival mechanisms to cope with other users, while being operative as one.
 
-* * *
-
 ### User’s agency
 
 How does user’s agency manifest itself?
 
-Unlike one might assume, an entity (algorithmic, mineral, human, etc.) does not correspond to a user in a 1:1 ratio: a subject takes place in the user position fulfilling a set of actions, but in doing this, it is being transformed because of that very position.
+Unlike one might assume, an entity (algorithmic, mineral, human, etc.) does not correspond to a user in a 1:1 ratio: a subject takes place in the user position fulfilling a set of actions, but in doing this, it is being transformed because of that very position. This means that while a human actor, in becoming a user, changes his her being and it is shaped by this new position as well, he she doesn’t align completely to that position: she’s not that user, but something else born from the aggregation of parts of her and some other agents constituting that particular user position. For this, that human agent retains all her qualities as human, and bring some of them, depending on the tasks at hand while inhabiting that user position, with her.
 
 To give an example: when we send an email, the user is composed by a part of us (the one thinking and writing the text, choosing a recipient, etc.), the email client and the service provider.
 
 For these reasons, user’s agency doesn’t correspond only to one entity’s desires, but it is shaped by many different agents, forming an array of desires and positions often visible in ways we at first don’t recognise.
 
+> Economies of prostheticization are in fact important to understanding the posthuman User position, but their shape is not that of a one-way concentric radiation, from human into apparatus. It is, rather, a crisscrossing field in which humans themselves are just as likely to be the prostheses, and the apparatus is just as likely to be the User that prostheticizes the human, as the other way around.
+Benjamin H. Bratton, The Stack—On Software and Sovereignty, 2016, pp. 273.
+
 For example: in recent years the tracking activities employed by many web services have become part of public opinion’s general topics of discussion. Keeping the same logic described above, it is easier to see how often the intentions we have and want to put into actions—say sending a message in which we talk about particular things—are being captured, read, processed and spitted back to us in the form of tailored ads, tracing a direct relation between the topics of our conversations and the products suggested to us.
 
-Agency is then, like the user position, computational. Data is the common language that permits everyone taking place in the user position, to look for and create interfaces, hence languages, through which to talk and read and listen to other agents, part for example of a platform.
+Agency in this context then is, like the user position, computational. Data is the common language that permits everyone taking place in the user position, to look for and create interfaces, hence languages, through which to talk and read and listen to other agents, part for example of a platform.
 
-It is clear how, more often than not, we are part of composite users. But instead of thinking about composite users as “other users” and so to “other human beings”, we need to apply the word user to a more vast variety of entities that, for instance, we normally consider tools. Computation makes this easier to understand, because it transforms everything into data-readable and executable formats. Conversely computation, in the process of destroying humanist values and anthropocentric orders of the world, makes no exception or favour to anyone.
+It is clear how, more often than not, we are part of composite users [^14]. But instead of thinking about them as “other users” and so to “other human beings”, we need to apply the word user to a more vast variety of entities that, for instance, we normally consider tools. Computation makes this easier to understand, because it transforms everything into data-readable and executable formats. Conversely computation, in the process of destroying humanist values and anthropocentric orders of the world, makes no exception or favour to anyone.
 
-(There is a need for a new literacy of computation, after the failed project of cybernetics. Instead of looking for an original cosmological order, where humans and nature will find its perfect and for now lost balance, or silently praying for chaos, we have the chance to step out and aside of the current human language in use, and get closer to a variety of users in ways different than before.)
+[^14]: «[But] the incorporation of many different types of actors (human, machinic, bots, animals, infrastructures) into recombinant User assemblages, all with differing regular morphologies and temporalities, means that inside the User position itself, rather different kinds of platform logics between individuated actors can occur». Benjamin H. Bratton, The Stack—On Software and Sovereignty, 2016, pp. 284.
 
 Interfaces are the places where disputing how user’s agency is being read and performed. Also for this, they become integral in the redefinition of what is life, what is labour, and the transformation of these two spheres into the one of operations, operational and being operative.
 
-(`git` and github.com can be an experiment for a new literacy of computation.)
-
-* * *
+(**`git` and github.com can be an experiment for a new literacy of computation**.)
 
 ## Building status and building history
 
-Whereas oral language tends toward the creation of missing links  (black holes) in the recalling of a fact we used to know, and for this it takes over someone’s memory, computational language—even better than written human language—has a tendency to track everything. It keeps traces of what it has been processed and put them into indexes. Sure, it’s possible to edit those traces, and in so doing producing corrupted links between data sets, but that’s not the point. 
+Whereas oral language tends toward the creation of missing links  (black holes) in the recalling of a fact we used to know, and for this it takes over someone’s memory, computational language—even better than written human language—has a tendency to track everything. It keeps traces of what it has been processed and put them into indexes. Sure, it’s possible to edit those traces, and in so doing producing alterations between data sets, but that’s not the point. 
 
 At a structural level, computational language transforms the substantive ‘archive’ into a verb. As a consequence, that’s what we began to do as well, as human users.
 
@@ -204,21 +203,23 @@ This mechanism of tracking and commenting, tracking and commenting, forces the u
 
 If on its original form it works as a way to make someone responsible for his her actions, especially when in relation to a group-based project, the same `git-commit` can be used to add messages with no real connection to the work executed, and building a different, parallel history of its development.
 
-In the context of becoming more aware of how this builds one’s accountability, injecting a disconnected and ‘other’ narrative to describe a very precise but different set of decisions produces confusion and anger in the user reading it. At the same time, it’s a useful thinking to foster unwanted or non-conceived actions (using the commit text to talk in a Q&A manner with the rest of the team; doubling one’s activity between coding a website and writing a narrative about it while developing the project; etc) and freeing this `git` command from its normative function to different parameters and output. In thinking of a new literacy of computation, and using `git` as a first exploration of it, this means stretching and re-contextualising a tool built and conceived to maximise particular tasks, to push it to its most useless and deferential applications. To see where and when it breaks. To create otherness and a more varied understanding. 
+In the context of becoming more aware of how this builds one’s accountability, injecting a disconnected and ‘other’ narrative to describe a very precise but different set of decisions produces confusion and anger in a different user reading disconnected comments left by the previous one. At the same time, it’s a useful thinking to foster unwanted or non-conceived actions (using the commit text to talk in a Q&A manner with the rest of the team; doubling one’s activity between coding a website and writing a narrative about it while developing the project; etc) and freeing this `git` command from its normative function to different parameters and output. **In thinking of a new literacy of computation**, and using `git` as a first exploration of it, this means stretching and re-contextualising a tool built and conceived to maximise particular tasks, to push it to its most useless and deferential applications. To see where and when it breaks. To create otherness and a more varied understanding. 
 
-What is important to remember, once again, is that this is as well a mechanism to build one’s accountability within a project. Though on github.com users don’t receive marks of any kind (points, or stars, or karma, and so forth), they are very much responsible for every contribution they perform. Since every commit is viewable by anyone accessing the url of that project (except for when a repository is private, but that’s almost never the case for projects users want to spread around), with this action it’s possible to see what happened in the development of a project and when, who did what, how, and for which reasons they accomplished that.
+What is important to remember, once again, is that this is as well a mechanism to build one’s accountability within a project. Though on github.com users don’t receive marks of any kind (points, or stars, or karma, and so forth), they are very much responsible for every contribution they perform. Since every commit is viewable by anyone accessing the url of that project (except for when a repository is private, but that’s almost never the case for projects users want to spread around), with this action it’s possible to see what happened in the development of a project, when, who did what, how, and for which reasons they accomplished that.
 
-The process of working on a project then, doubly binds with both the process of building a history of that project, and at the same time of building a level of accountability for each contributor who takes part in it.
+The process of working on a project therefore, doubly binds with both the process of building a history of that project, and at the same time of building a level of accountability for each contributor who takes part in it.
 
 As an uncommon choice for a social platform’s architecture, on github.com what appears first and foremost are lists of project repositories, then the users working on them. With this shift in the order and visibility of a user, also comes a reverse of hierarchy in the content order of the website: the work is of utmost importance, and users are tiny bits humming in the in-betweens.
 
-github.com’s personal user page nonetheless, has become a portfolio website for many developers, and also for designers dabbing primarily with code (though not only). Much better than any linkedin profile, a github’s user page adamantly reports number of user’s projects created, number of projects that a user has contributed to, popularity of his her projects across the github community (or should we call it group of users? Is there any real connection per se on github?), and complete activity (hours, number of commits, project history, issues, pull requests, ... ) for every project.
+github.com’s personal user page nonetheless, has become a portfolio website for many developers, and also for designers dabbing primarily with code. Much better than any linkedin profile, a github’s user page adamantly reports number of user’s projects created, number of projects that a user has contributed to, popularity of his her projects across the github community (or should we call it group of users? Is there any real connection per se on github?), and complete activity (hours, number of commits, project history, issues, pull requests,...) for every project.
 
 Better than any punching-card and office supervisor together could ever do, a user is voluntarily tracked by `git` and actively filling in any useful (or just any) detail left blank for him her to complete.
 
 This sort of platform engagement, is what makes github.com and `git` two products which are becoming to be accepted, used and modified (in its praxis’s orthodoxy) also by non-coders—primarily designers and writers. An expanding user-base makes a particular thinking and working mindset being adopted by different people. The tension produced by stretching defined modalities of making use of `git` and github.com from their new adopters, is also what might foster the beginning of a new literacy of computation.
 
 Not because it makes both tools more humane or less tech-savvy, but on the contrary, because it could be a start to face data production and computation for what it is—a new shift in the making and understanding of the world; while at the same time getting a better sense of what it implies to be part of these  processes.
+
+* * *
 
 ## Chapter #2, Platform
 
