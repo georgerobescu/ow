@@ -1,3 +1,17 @@
-1. The Black Stack, user as a political subject
-2. Interfaces assume the role of survival mechanisms to cope with other users, while being operative as one.
-2. git-init, git-add, git-commit, git-push, git-status, git-rm, git-merge, git-checkout, git-pull, git-add, git-push, git-status, git-commit.
+1.
+In the construction of the User as an aggregate profile that both is and is not specific to any one entity, there is no identity to deduce other than the pattern of interaction between partial actors. We may find, perhaps ironically, that the User position of the Stack actually has far less in common with the neoliberal form of the subject than some of today’s oppositionalist formats for political subjectivity that hope (quite rightly) to challenge, reform, and resist the State Stack as it is currently configuring itself. However, something like a Digital Bill of Rights for Users, despite its cosmopolitan optimism, becomes a much more complicated, fragile, and limited solution when the discrete identification of a User is both so heterogeneous and so fluid. Are all proxy composite users one User? Is anything with an IP address a User? If not, why not? If this throne is reserved for one species—humans—when is any one animal of that species being a User, and when is it not? Is it a User anytime that it is generating information? If so, that policy would in practice crisscross and trespass some of our most basic concepts of the political, and for that reason alone it may be a good place to start.
+
+In addition to the fortification of the User as a geopolitical subject, we also require a redefinition of the political subject in relation to the real operations of the User, one that is based not on homo economicus, nor on parliamentary liberalism, nor on post-structuralist linguistic reduction, nor on the will to secede into the moral safety of individual privacy and withdraw from coercion. Instead, this definition should focus on composing and elevating sites of governance from the immediate, suturing, interfacial material between subjects, in the stitches and the traces and the folds of interaction between bodies and things at a distance, congealing into different networks demanding very different kinds of platform sovereignty.
+
+The Black Stack, Benjamin H. Bratton
+(http://www.e-flux.com/journal/the-black-stack/)
+
+2.
+Interfaces assume the role of survival mechanisms to cope with other users, while being operative as one.
+
+ow—Labour in a Post-work, Posthuman society, André thesis (thesis)
+
+3.
+git-init, git-add, git-commit, git-push, git-status, git-rm, git-merge, git-checkout, git-pull, git-add, git-push, git-status, git-commit.
+
+notes on git, André Fincato
