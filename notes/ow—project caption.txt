@@ -2,6 +2,9 @@ Name:
 André Fincato
 
 Project name:
+ow—drawing cursor
+ow—vide interview w/ Federico Campagna
+ow—zine on git
 
 
 Project description (max. 100 words):
@@ -23,3 +26,24 @@ overturning the activity of tracking from an invisible process performed upon in
 
 *ow* explores the status of work on the internet:
 moving between scenarios of post-work societies to an understanding of what a user is in relation to labour, the project asks questions such as 1. what is the driving force toward performing work? 2. how do users relate to each other? 3. how does agency modulate within a user position?
+
+* * *
+
+1. a post-work society aims at automatising most of the human labour with machines, would work be really over if that happens?
+2. human agency often isn’t perfectly translated 
+
+* * *
+
+André Fincato
+ow—embodying git
+
+What is a user? How does he she it relate to other users? What is labour on the internet, in particular in the context of a post-work society—where jobs would be automatised by machines?
+
+What is a user and, how does he she it relate to other users? What is labour on the internet? How would a post-work society influence this space of action and production?
+
+* * *
+
+André Fincato
+ow—embodying git
+
+In a post-work society made possible by machinic intelligence, what is a user? And, what effects does the internet have on the concept of labor?
