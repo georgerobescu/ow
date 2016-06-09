@@ -1,0 +1,8 @@
+# Comments on the thesis from tutor
+
+* be less implicit, not walk around things, just try to express them
+* too much focus on the functioning of github
+* explain more the political implications of the platform and of the users
+
+* work more out the last part with the political developments of the platform and put your thoughts in it
+* if you expand it, you can publish it
