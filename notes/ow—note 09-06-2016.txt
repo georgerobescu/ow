@@ -1,0 +1,21 @@
+In disparate order:
+**Exhibition space**
+* putting a book or two under the 22” monitor (either Post-fordism and Its Discontents—without red cover?, or Willing Slaves of Capital, or both)
+* the straps to keep the big tv screen in place, while laying between the chair and the crooked table should be black, right? Using other colours just fuck up way too much with the video itself, it’s harmful (I only found black straps in the biggest size available at the DIY shop, eeh)
+* still not sure how to use the upside down chairs: was thinking of laying the zines on one side and use the other as a back support for people to sit on the floor. Have to test.
+* Really scared about keeping in place the tv screen with those two straps fixed on the table put on its side. Might dismount the screen every evening at the closing time of the exhibition, to make it *rest*.
+
+**Video**
+* Benoît was suggesting that, if I want to keep the screen slightly crooked and are worried about the text (people having to turn their head on the side to every new question—7 question, about an hour of interview), I might decide to crooked the typography accordingly. Figuring out the inclination of the screen and make the text look like they’re on a horizontal line, while keeping the video as it is?
+* I was thinking also about the possibility to crooked the whole video, but, much more than only in the case with the typography, I fear it might result in a kitsch, or too heavy direction.
+* I think I am down for not using any sound for the video, nor for the in-betweens (the questions), neither for the answers. A couple of reasons: the exhibition space will be very noisy because of the other projects and, depending on the time, people. I decided not to use headphones for now, only going for a stark voice might be a better option for clarity in hearing. Working on the sound snippets takes quite some time, to do it properly. Will might do it after the exhibition when I am going to upload it on the internet somewhere (but to be honest, maybe not necessarily).
+
+**Zine**
+* using the three existing sections, composition; aspiration; interfaces, as an index to extract portions of the thesis under those labels?
+* unfortunately no images for the zine. Still, quite enamoured with the pictures I took from The Gentlewoman, but looks out of context no really support of anything. Might just go all way down with only text, and only graphical element a “drawing-cursor” treatment?
+
+**Google Chrome extension**
+* finish extension and make one page website (or more?), as a product page of the app, to make visitors become users and, while interacting with the website, realising they are part of the mechanism of the extension.
+* second screen on the right side shows Google Chrome inspector pane with all cursor positions? More importantly, a second page that refreshes every second (or even less if possible) and show the result of the drawings.
+* might decide to set up a git-hook to github.com and upload in realtime the data of the svg drawings produced.
+* this part is the most crucial and the most critical because I have no time.
