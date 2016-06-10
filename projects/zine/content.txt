@@ -1,0 +1,110 @@
+# embodying git
+
+index:
+1. composition
+** what is `git`?
+2. aspiration
+** for a new literature of computation  
+3. interfaces
+** conatus as labour, labour as making interfaces
+
+## 1. composition
+
+`git` is a software tool that, once installed, tracks every change a user makes on a file or set of files, within one or more folders she he decided to look after.
+
+It was invented by the creator of Linux (Linus Torvald), to manage the development of Linux itself. Since then, it has usually been used by programmers in their workflow, to better track their work and to collaborate with other on a project. 
+
+One of the main point of `git` is that, in tracking every single tiny change made to a file, it builds a full history of what’s been done by the users interacting with those files. Histories become essential then: both to navigate back and forth amongst different versions of a file, and also to move  laterally [^1] within a project. More and more, this approach in building software applications that create multiple versions of the same file is a trend visible in many web apps, for example Google Docs. In a way, treating files as a  multi-versions stack of saved statuses could be seen as an iteration of the UNDO command, which, when introduced in the 1970s, gave more granularity to (everyday, ‘real’) users, and the option to make mistakes. [^2]
+
+[^1]: In `git` a user works with branches, that is, with a perfectly cloned copy of the current version of the project. This is useful when she he wants to test something out (a new feature, an alternative version of a project’s section, etc.) without worrying to mess things up. For this, a user swings not only back and forth, but also on the side—because a branch moves out of the repository’s main vector of production (**see git’s diagram**).
+
+[^2]: Ola Lialina, in her User Rights’s website ([http://userrights.contemporary-home-computing.org/](http://userrights.contemporary-home-computing.org/)), proposed on date 2013-10-06 the right to UNDO. Stating that:
+> 1st: UNDO is one of not many generic ("stupid") commands. It follows a convention without sticking its nose into user’s business.
+> 2nd: UNDO has a historical importance. It marks the beginning of the period when computers started be used by people who didn’t program them, the arrival of the real user, and the naive user. The function was first mentioned in the 1976 IBM research report “Behavioral Issues in the Use of Interactive Systems” by Lance A. Miller and John C. Thomas. They outlined the necessity to provide future users with UNDO: “the benefit to the user in having -- even knowing -- of a capability to withdraw a command could be quite important (e.g, easing the acute distress often experienced by new users, who are worried about ‘doing something wrong’)”.
+> 3rd: UNDO is the border line between the Virtual and the Real World everybody is so keen to grasp. You can’t undo IRL. If you can’t undo it means you are IRL or on Android.
+([http://userrights.contemporary-home-computing.org/31sq/undo](http://userrights.contemporary-home-computing.org/31sq/undo))
+
+`git` lets a user track, ignore, add, remove and merge files, amongst other things. As a tool, it works as an invisible architecture sitting on top of a user’s filesystem. 
+
+`git` governs each file as a series of self-contained layers, moving between them in the same way a user might open different versions of the same document, or different subfolders each containing an iteration of the project.
+
+GitHub ([github.com](https://github.com/)) is a ‘social network’ for people who use `git` in their workflow: a platform where they can share, contribute to and download git-based projects. 
+
+Whereas other internet-based platforms, like Über and Amazon M Turk, are explicit in their intents to be a job-offer for someone looking for work, github.com keeps itself in the grey area of being for both personal and professional use.
+
+As much as a programmer working at a company can use it for his her job, a weekend website maker can use it as well for the same purposes. Being `git` only an added element to one’s workflow, the reason for creating an account on github.com are highly subjectives, and totally in line with the spirit of the creative post-fordist worker (where famously ‘work is play and play is work’). As a user, the personal takes over the sphere of the professional, transforming both into one smooth space.
+
+*Github.com is a bizarre platform, because it acts as a possible shift in the understanding of labour, while presenting itself, at the same time, as a perfectly integrated layer in the infrastructure of every big and small company*.
+
+Drawing from the free and open source software ethos, for which free circulation, non-copyrights, collaboration and remixing of code are the founding values of how to frame and to do work, github.com implemented `git`, one of the most used tools to put in practice this approach, at a world-wide level.
+
+*Whereas GitHub the company is born to be sustainable and making profits, selling for this reason private repositories (online space for projects that are visible only to the user who created them, and to others a user gave access to) and custom integrations with one’s own private servers, at the same time they are spreading a particular set of ideas all over the commercial internet, some of which are very useful in producing a cultural shift on many areas of what labour means nowadays*.
+
+*Labour on the internet, indeed, often happens as a non-deliberate act. Think of the CAPTCHA system for example: a task where users have to prove they are human beings, by typing a short combination of letters and numbers from an image they are provided with. reCAPTCHA uses the typing users perform to prove they are human, to scan and digitise paper books more accurately than a robot could do. Many entities (Google Books, The New York Times’ archives) have used this tool to successfully convert physical archives of books and what not, into digital files. If we perceived the CAPTCHA as a riddle, then reCAPTCHA is a form of labour disguised as play*.
+*
+**GitHub, instead, creates a space where work is shared, complementary, remixed, discussed and improved*.
+
+In relation to a possible future scenario defined by a post-work society, platforms like this could be used as a rough blueprint to organise labour in a way, perhaps, more suitable for certain kind of production executed for reasons other than earning a wage. Value will be produced and identified anyway, but will differ from money.
+
+## 2. aspiration
+
+As computation, understood as the process of resolving problems through the execution of some kind of calculation that follows specific parameters, replaces (or doubles) and transforms more and more parts of human life, data becomes the common material produced out of these processes. Far from suggesting that data takes the place of everything that build the world we live in, disembodying bodies of different kinds and abolishing materiality, I am more concerned and curious to explore how it affects these bodies and how we can read it and use it to readjust our understanding of what constitutes, in this case, work.
+
+In tracing lines between the post-fordist worker and the internet user, and the related working environments the two subjects operate within (respectively office-home-etc., using internet to communicate with a team or clients; and internet platform) I saw, very often, a lack in the understanding, knowledge and experience of this new position. With the intentions to foster processes that amplify the formation of such new sensibilities, a new literacy of computation would refer to, for example, the making of a new language through which describing what happens when we interact with other users (for instance, framing users as ‘operative’ and not as ‘living organisms’); and, getting to know and mastering (while being mastered by as well) the tools we have at our disposal, both accidentally built or intentionally designed. This last one can be seen amongst the founding values that describe usership: a set of practices where using, reusing, misusing, repurposing, and so forth, have become a common framework of action specifically because of the rising of digital technologies. Usership, in this respect, might be seen as a continuation, into less specific environments, of the hacker ethos of learning something by dissecting it. 
+
+It is because of these reasons that `git` might also be an experiment in the act of defining what a new and different literacy of computation might look like. As a tool to track informations and build histories out of it, it can as well be used in a reversal manner and let human users better understand what are the other applications and ethical repercussions of this activity. As a response to the general public discussion about the collection of citizens’ metadata from companies and governmental institutions alike, `git` might be used to reflect about the different architectures of data collection and distribution, re-staging on a personal scale systems what might be hard to grasp at first, when contextualised on larger environments.
+
+If used *en-masse*, GitHub would be able to familiarise its users to many of the mechanisms taking place on different levels of what makes a human life-turned-into-human-user, in the twenty-first century.
+
+Data tracking, processing, reading, extracting and its usages is part of what defines the transformation from individuals to dividuals:
+> In the societies of control, on the other hand, what is important is no longer either a signature or a number, but a code: the code is a *password*, while on the other hand the disciplinary societies are regulated by *watchwords* (...) The numerical language of control is made of codes that mark access to information, or reject it. (...) Individuals have become ‘dividuals’, and masses, samples, data, markets, or ‘banks’.
+Gilles Deleuze, Postscript on the Societies of Control, 1992, pp. 5.
+
+Becoming a mix of codes instead of retaining one’s personality might have seemed the only outcome characterising the new society of information, about twenty five years ago. But why not trying to repurposing `git` as a tool, to better understand what other meanings, functions and outcomes tracking might have?
+
+Since tracking processes, in the form of check-ins with a smartphone app in all the places a user visits or wants to mark for his herself, in making lists of things to buy or read for later, in tagging someone or something—in a sense, in the act of indexing one’s reality—has become a common thing amongst general human user activities. And since that tracking is the fundamental activity of using `git` and github.com—as a form of measuring and reporting labour activities which took place before. What are the processes put in place when this activity is performed? In a sense, how does computation, a form of information traceability, look like when it becomes part of one’s existence?
+
+At the same time, through a new literacy of computation, I look for ways to embrace complexities that are not user-friendly in the current meaning of the term, often handicapping my human-user framing, understanding and mis-understanding of them, and longing for tasting data, for being able to relate to it in modalities that go beyond looking at my stats on a website platform’s dashboard, but for example realising that my own body is a mix of metadata of different kinds, starting from my own faeces:
+> Grandparent toilet bowl stool diviners, you were right: considering the density of DNA from microbes, from one’s own internal fluids, and from the DNA of the remaining food stuffs that one ate, the human stool is one of the most information-dense substances you are likely to regularly encounter. Bit by bit, your stool is far more information rich per cubic centimeter than the flash memory in your iPhone.
+Benjamin H. Bratton, The Stack—On Software and Sovereignty, 2016, pp. 269.
+
+Relating the understanding of my reality, body included, with data doesn’t necessarily turn me into a computer. Inversely, it can help me to better relate with data and computation without making me forget the starting position from which I am experiencing it: a human body.
+
+I think, overall, that a new literacy of computation, understood in this way, might also help to finally realise that we don’t have to take either the positions of machines (as in, human beings are machines processing data and provided with functioning organs), or the one of nostalgic human beings trying to restore a supposedly once existed balance that governed the world, between the natural world and us.
+
+## 3. interfaces
+
+Data is essential to re-understand the user subject. This position implies an expansion of the entities capable of taking part in this role, opening it up to animal, mineral, plant, machinic, algorithmic and bot user, besides the human one. Data becomes the common ground that enables human user to interface with non-human and in-human users.
+
+For this reason, there must be a shift at the ontological level in the language we use to talk about it: ‘organism’ is incapable of including all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
+
+It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through data production (*being operative*), traces a line to the concept of conatus.
+
+If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being’» [^12], then does this relate to the user subject in any way? What is the underlaying effort a user must do in order to keep being a user? For user is a position an entity inhabits, and each of these entities have already a conatus of their own even before entering the user position.
+
+[^12]: Frédéric Lordon quoting Benedictus de Spinoza in Ethics, part III, Willing Slaves of Capital, 2014, pp. 14.
+
+So what do we mean by «strives to persevere in its being» in connection to a user? Does a user strive to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user?
+
+There is another, complementary, definition of conatus that goes more into the idea of iterative, ever-becoming processes. This definition might relate much more to the user position, as something than permits an entity to inhabit differently his her its surrounding and own being. Spinoza says:
+> In this life therefore we endeavour [conamur] above all that the body of infancy be changed [mutetur] into another body which is capable of a great many things, and which is related to a mind which is very much conscious of itself, of God, and of things. (Ethics V Proposition 39)
+Stephen Connelly, [Conatus: political being and Spinoza](http://criticallegalthinking.com/2015/03/16/conatus-political-being-and-spinoza/), 2015.
+
+With this extended spinozian definition of conatus, the striving to persevere in one’s being, of surviving, means also the continuous effort to adapt and iterate over time. In a sense, then, the question might not only be how much of an effort users have to do in order to keep striving to persevere in their beings, but also how much they are aware of the streams of data production and interaction they are part of, because this will influence their ways of being operative all the time.
+
+In the user’s position, labour is not always a conscious performative act, but an ever-happening activity, no matter the effort one’s put in it: once performed, it can be channelled to a specific outcome when the outputted data is used for this or that other reason, task, aim, etc.
+
+Being operative, in this frame, means then not being alive, or being on/off. Instead, it’s a matter of how to build interfaces with other users and producing a different output with the convergence of two, or more, fluxes of data.
+
+In the context of a post-work society where human users will live with a Universal Basic Income, how will the idea of conatus might change? With the rising and acknowledgment of many other users, will it turn into a drive for human users to strive to keep being relevant in their inter-operativeness amongst other users?
+  
+> Worse than being seen as an enemy is not being seen at all. As Eliezer Yudkowsky puts it, ‘The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.’
+Benjamin H. Bratton, [The Black Stack](http://www.e-flux.com/journal/the-black-stack/), e-flux.com, 2014.
+
+Looking at it in this way, for human users conatus will not be a matter of striving for one’s own sustaining, but striving for building different and better interfaces through which connecting with all the rest of users, in forms that destabilise humanist understanding of *being* in the world, of language and accountability, and so forth.
+
+Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and therefore, in how to use one’s data production to re-position oneself in the world. Interfaces, in parallel, assume the role of survival mechanisms to cope with other users, while being operative as one.
+
+* * *
+
+* git’s classical diagram “how does it work” + same diagram with updated version to work/interface between users (?)
