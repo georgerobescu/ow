@@ -1,6 +1,8 @@
 # embodying git
 
-Intro
+This zine is compiled with some extracts from the essay *ow—Labour in a Post-work, Posthuman society*, the thesis I wrote for the MFA Designing Democracy, Sandberg Instituut.
+
+André Fincato, June 2016
 
 ## index
 
@@ -144,6 +146,8 @@ Looking at it in this way, for human users conatus will not be a matter of striv
 
 Conatus becomes a new form of labour, addressing a personal strive to stay together with others, and therefore, in how to use one’s data production to re-position oneself in the world. Interfaces, in parallel, assume the role of survival mechanisms to cope with other users, while being operative as one.
 
- * * *
+* * *
  
- Outro
+Typefaces:
+Input Sans, designed by David Jonathan Ross.
+Trump Mediaeval LT Std, designed by Georg Trump.
