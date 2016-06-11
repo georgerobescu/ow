@@ -42,7 +42,7 @@ One of the main point of `git` is that, in tracking every single tiny change mad
 
 GitHub ([github.com](https://github.com/)) is a ‘social network’ for people who use `git` in their workflow: a platform where they can share, contribute to and download git-based projects. 
 
-Whereas other internet-based platforms, like Über and Amazon M Turk, are explicit in their intents to be a job-offer for someone looking for work, github.com keeps itself in the grey area of being for both personal and professional use.
+Whereas other internet-based platforms, like Uber and Amazon M Turk, are explicit in their intents to be a job-offer for someone looking for work, github.com keeps itself in the grey area of being for both personal and professional use.
 
 As much as a programmer working at a company can use it for his her job, a weekend website maker can use it as well for the same purposes. Being `git` only an added element to one’s workflow, the reason for creating an account on github.com are highly subjectives, and totally in line with the spirit of the creative post-fordist worker (where famously ‘work is play and play is work’). As a user, the personal takes over the sphere of the professional, transforming both into one smooth space.
 

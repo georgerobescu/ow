@@ -45,7 +45,7 @@ In dealing with the multiform action of tracking, what I want to explore is a pl
 
 GitHub ([github.com](https://github.com/)) is a website and a platform where users can share, contribute and download code-based projects: a ‘social network’ for people who use `git` in their workflow. `git` is a version control system for text-based files, which is, a software that, once installed, tracks every change a user makes on one or a set of files, within one or more folders she he decided to look after. This is useful to keep track of the work done so far, especially when it is fragmented in a team, while also going back and forth within the project history, if something went wrong or a user needs a specific file now deleted.
 
-Whereas other internet-based platforms, like Über and Amazon M Turk, are explicit in their intents to be a job-offer for someone looking for work, github.com keeps itself in the grey area of being for both personal and professional use.
+Whereas other internet-based platforms, like Uber and Amazon M Turk, are explicit in their intents to be a job-offer for someone looking for work, github.com keeps itself in the grey area of being for both personal and professional use.
 
 As much as a programmer working at a company can use it for his her job, a weekend website maker can use it as well for the same purposes. Being `git` only an added element to one’s workflow, the reason for creating an account on github.com are highly subjectives, and totally in line with the spirit of the creative post-fordist worker (where famously ‘work is play and play is work’). As a user, the personal takes over the sphere of the professional, transforming both into one smooth space.
 
