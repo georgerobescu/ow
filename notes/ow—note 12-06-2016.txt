@@ -1,0 +1,7 @@
+# ow—drawing cursor, www
+
+A one page website where the text that explain the Google Chrome extension, is split in different boxes:
+* each box has a section of the text
+* boxes partially cover each other
+* by clicking, dragging and moving around each box, a user performs gestures that produce data
+* this data is then rendered as an svg image
