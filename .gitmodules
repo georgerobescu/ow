@@ -7,3 +7,6 @@
 [submodule "projects/drawing-cursor"]
 	path = projects/drawing-cursor
 	url = git@github.com:afincato/drawing-cursor.git
+[submodule "notes/ow-thesis"]
+	path = notes/ow-thesis
+	url = git@github.com:afincato/ow-thesis.git
