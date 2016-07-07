@@ -10,3 +10,6 @@
 [submodule "notes/ow-thesis"]
 	path = notes/ow-thesis
 	url = git@github.com:afincato/ow-thesis.git
+[submodule "projects/ow-thesis"]
+	path = projects/ow-thesis
+	url = git@github.com:afincato/ow-thesis.git
