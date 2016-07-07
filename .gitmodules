@@ -7,3 +7,6 @@
 [submodule "notes/ow-thesis"]
 	path = notes/ow-thesis
 	url = git@github.com:afincato/ow-thesis.git
+[submodule "embodying-git-zine"]
+	path = embodying-git-zine
+	url = git@github.com:afincato/embodying-git-zine.git
