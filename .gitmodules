@@ -13,3 +13,6 @@
 [submodule "projects/embodying-git-zine"]
 	path = projects/embodying-git-zine
 	url = git@github.com:afincato/embodying-git-zine.git
+[submodule "projects/ghost-index"]
+	path = projects/ghost-index
+	url = git@github.com:afincato/ghost-index.git
