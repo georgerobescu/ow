@@ -1,0 +1,136 @@
+# ow—zine: git-embodying & embodying-git—for a new literacy of computation
+
+## composition: what is git?
+
+*tracking; history; invisible architecture*
+
+`git` is a software tool that, once installed, tracks every change a user makes on a file or set of files, within one or more folders she he it decided to look after.
+
+It was invented by the creator of Linux (Linus Torvald), to manage the development of Linux itself. Since then, it has usually been used by programmers in their workflow, to better track their work and to collaborate with other on a project. 
+
+One of the main point of `git` is that, in tracking every single tiny change made to a file, it builds a full history of what’s been done by the users interacting with those files. Histories have become essential then, to navigate back and forth, and also  laterally [^1], within a project. More and more, this approach in building software applications that create multiple versions of the same file without demanding the user to do that (except maybe for big version milestone), is a trend visible in many web apps, for example Google Docs. In a way, treating files as a  multi-versions stack of saved statuses could be seen as an iteration of the UNDO command, which, when introduced in the 1970s, gave more granularity to (everyday, real) users, and the option to make mistakes. [^2]
+
+[^1]: In `git` a user works with branches, that is, with a perfectly cloned copy of the current version of the project. This is useful when she he it wants to test something out (a new feature, an alternative version of a project’s section, etc.) without worrying of messing things up. For this, a user swings not only back and forth, but also on the side—because a branch moves out of the repository’s main vector of production (see git’s diagram).
+
+[^2]: Ola Lialina, in her User Rights’s website ([http://userrights.contemporary-home-computing.org/](http://userrights.contemporary-home-computing.org/)), proposed on date 2013-10-06 the right to UNDO. Stating that:
+> UNDO was a gift from developers to users, a luxury a programmable system can provide. It became an everyday luxury with the first GUI and turned into a standard for desktop OSs to follow. Things changed with the arrival of smart phones: neither Android nor Windows phone nor Blackberry provide a cross application alternative to CTRL+Z (iPhone gave to its users "shake to undo"). What is the logic of these devices’ developers? Not enough space on the nice touch surface for undo button; idea that users should follow some exact path (app logic), that would lead somewhere anyway; promise that the "experience" (interface) is so smooth that you won’t even need this function. Should we believe it and give up? NO!  There are at least 3 reasons  
+> 1st: UNDO is one of not many generic ("stupid") commands. It follows a convention without sticking its nose into user’s business.
+> 2nd: UNDO has a historical importance. It marks the beginning of the period when computers started be used by people who didn’t program them, the arrival of the real user, and the naive user. The function was first mentioned in the 1976 IBM research report “Behavioral Issues in the Use of Interactive Systems” by Lance A. Miller and John C. Thomas. They outlined the necessity to provide future users with UNDO: “the benefit to the user in having -- even knowing -- of a capability to withdraw a command could be quite important (e.g, easing the acute distress often experienced by new users, who are worried about ‘doing something wrong’)”.
+> 3rd: UNDO is the border line between the Virtual and the Real World everybody is so keen to grasp. You can’t undo IRL. If you can’t undo it means you are IRL or on Android.
+> 2013-10-06 
+> olia lialina: And apart from it. UNDO is the only time travelling technology we’ve got for the moment. Bit by bit into the past!
+([http://userrights.contemporary-home-computing.org/31sq/undo](http://userrights.contemporary-home-computing.org/31sq/undo))
+
+`git` lets a user track, ignore, add, remove and merge files, amongst other things. As a tool, it works as an invisible architecture sitting on top of a user’s filesystem. 
+
+To track files inside a folder, `git` creates a `git` repository—an hidden folder named `.git`, within that project folder. In it, another subset of folders are placed: they form the skeleton of the repository and store the files needed to keep track of the status of a user’s project.
+
+`git` governs each file as a series of self-contained layers, moving between them in the same way a user might open different versions of the same document, or different subfolders each containing an iteration of the project.
+
+At a raw level, its only interface is the Terminal. This complicates things quite a lot, also when a user is somehow medium-level or expert in the field of programming.
+
+The problem arises because in the Terminal, both `git`’s architecture and its interface coincides, presuming on the side of the user that she he it knows each and every command beforehand.
+
+This is of course the main point of dissonance between so called power-users and n00bs: for the former, using only the keyboard and typing exactingly what they want to do (*because they know*) is the supreme way to go and aspire to. Beginners instead, tend to find Graphic User Interfaces and moving the cursor around the screen a bit more comforting, while maybe still scaring. One of the reason for this is not knowing if it’s possible to go back—to UNDO actions—in advance.
+
+Graphical User Interfaces (GUIs) can simplify this superimpositions of `git`’s architecture and its interface as being one and the same. Github.com for example, a social network where programmers, and any other user, working with `git` can upload their projects, share them and contribute to each other work, simplifies this superimposition problem. While one might think that the power in power users corresponds to one’s extensive knowledge in relation to a particular tool, it is as well very important to build interfaces where self-confidence can be nurtured after a couple of time of their usage. Not out of dangerous simplification design choices in regard to medium-complex architectures, but because complexities can be easily reached while not making interfaces overwhelming.
+
+The polar distinction between power users and beginners looks ridicule, in the prospect of a new literature of computation: instead of subjectifying users who don’t yet know how to use a tool with overly simplified interfaces, or giving them full power without any point of reference for learning, let’s look for interfaces where complexity is available in a granular way.
+
+* * *
+
+## composition: what is computation?
+
+In the midst of resolving a reCAPTCHA for obtaining the link to download a new music release through mediafire (sigh), do we think who we are in that exact moment?
+
+Computation influences and transforms most of our actions nowadays, keeping itself quiet but transparent.
+
+CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart, that is, a human user has to prove to be human and not a bot. reCAPTCHA is the reinterpretation of the CAPTCHA test, because it uses the same mechanism but making it more useful: it helps many entities (Google Books, The New York Times, etc.) to better digitise enormous collection of books. If we perceived the CAPTCHA as a riddle, reCAPTCHA is a form of labour disguised as play.
+
+With the question of “prove yourself to be human”, reCAPTCHA supplies a lack of definition, as in ‘a quality of discerning’, missing in computer hardware and software. The OCR application employed to recognise typography-like shapes is not always good enough, so after at least three human-users had given the same answer (the same mix of letters and numbers), that bit of text is consolidated into a definite form. We have taken the place of a computer, and our resolving of the CAPTCHA have been used as computation to proof-read letters unreadable by a software.
+
+If computation is the process of resolving problems through the execution of some kind of calculation that follows specific parameters, a human user putting the right mix of letters and numbers in the system becomes computation as well.
+
+As computation replaces (or doubles) and transforms more and more parts of human life, data becomes the common material produced out of these processes. Far from suggesting that data takes the place of everything that build the world we live in, disembodying bodies of different kinds and abolishing materiality, I am more concerned and curious to explore how it affects the body and how we can read it and use it to readjust our understanding of what constitutes, in this case, work.
+
+If used *en-masse*, GitHub would be able to familiarise its users to many of the mechanisms taking place on many levels of what constitutes human life in the twenty-first century.
+
+For example, data tracking, processing, reading, extracting and its usages is part of what defines the transformation between individuals to dividuals [^3]. Becoming numbers instead of retaining one’s personality might have seemed the only outcome characterising the new society of information, twenty five years ago.
+
+[^3]: “In the societies of control, on the other hand, what is important is no longer either a signature or a number, but a code: the code is a *password*, while on the other hand the disciplinary societies are regulated by *watchwords* (...) The numerical language of control is made of codes that mark access to information, or reject it. (...) Individuals have become ‘dividuals’, and masses, samples, data, markets, or ‘banks’”—Gilles Deleuze, Postscript on the Societies of Control.
+
+But what if we embrace this for real and try to understand what are the processes put in place when tracking someone? How does computation look like when it becomes part of one’s existence, especially when most activities performed by human-users are turned into data-tracking and value extraction?
+
+* * *
+
+## aspiration: for a new literature of computation
+
+So, what does ‘for a new literacy of computation’ mean?
+
+1. accepting our position as users
+2. relating with data production and consumption
+3. extending the usages conceived for `git` to many other possible situations
+
+Users are undergoing a shift, at the ontological level, in the language we use to talk about them: organism is incapable of including all the different natures of which the user may be composed of. What does inhuman and ahuman imply, then? Not a desire to define these other natures against the human’s one, through a process of negation with which producing a definition of each entity. Rather, it mostly helps to remind us that the human user is only one possible variant within the user position, stressing a movement of expansion that finds superfluous the connotation organic/inorganic, and instead sites in the terms ‘operative, operational’ and ‘interoperability’ a new kind of language.
+
+It is essential to understand how this shift, from an understanding of user as a living being to one in which its way of being in the world is through data production (*being operative*), traces a line to the concept of conatus.
+
+If conatus is «the effort by which ‘each thing, as far as it can by its own power, strives to persevere in its being» [^1], then is this still applicable to any form of user, beyond living organisms?
+
+[^1]: Frédéric Lordon quoting Benedictus de Spinoza, Ethics, part III, in “Willing Slaves of Capital”.
+
+What do we mean by «strives to persevere in its being» in connection to a user? Does a user strive to keep producing data and interfacing with other users, in order to avoid falling in dead, non-operative moments? Is there such a thought from the perspective of a user? Or maybe it’s not really a matter of having dead periods of time since we can compare the status of being operative to the one of being alive and breathing?
+
+In a sense, then, the question might not be how much of an effort users have to do in order to keep striving to persevere in their beings, but rather how much they are aware of the streams of data production and interaction they are part of and, even maybe, how much they do want to acknowledge this as “effort”.
+
+For, if with the original, spinozian definition of conatus, there is an idea of effort, comparable to an act of labour to keep staying alive; in the context of the user, labour is not always a conscious performative act, but an ever-happening activity, no matter the effort one’s put in it: it then can be channelled to a specific outcome when the outputted data is used for this or that other reason, task, aim, etc.
+
+Being operative, in this frame, means then not being alive, or being on/off. Instead, it’s a matter of how to interface with other users and produce a different output with the convergence of two, or more, fluxes of data.
+
+user → interface → data production and exchange ← interface ← user
+
+How does git find place in this configuration?
+
+It will be used as the stitching mechanism to create interfaces between users, to track those encounters and transform the data produced and exchanged out of each encounter as a series of facts.
+
+A repository, git’s terminology for folder, will contain the data produced and exchanged during the encounter of two or more users. The history of actions recorded in it, can trace the development of the human-user’s conatus in its effort to build an interface through which connecting with other users. To co
+
+* * *
+
+In the understanding of what it means to be an internet user, a new literacy of computation unveils itself not as a series of notions to apprehend, but as a list of sites through which dissecting how they come together, what are the other elements constituting them, and getting, more over, a sense of the processes taking place.
+
+## interfaces: git-init
+
+
+
+* * *
+
+## interfaces: git-add
+
+
+
+* * *
+
+## interfaces: git-status
+
+
+
+* * *
+
+## interfaces: git-commit
+
+
+
+* * *
+
+## interfaces: git-rm
+
+
+
+* * *
+
+++++
+
+* interfaces are survival mechanisms to cope with users while being operative as one.
+* git’s classical diagram “how does it work” + same diagram with updated version to work/interface between users (?)
+
