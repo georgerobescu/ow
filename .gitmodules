@@ -10,3 +10,6 @@
 [submodule "embodying-git-zine"]
 	path = embodying-git-zine
 	url = git@github.com:afincato/embodying-git-zine.git
+[submodule "projects/embodying-git-zine"]
+	path = projects/embodying-git-zine
+	url = git@github.com:afincato/embodying-git-zine.git
