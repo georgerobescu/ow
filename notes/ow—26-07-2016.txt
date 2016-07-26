@@ -1,0 +1,28 @@
+During the first workshop at Hackers and Designers Summer School 2016, I got interested in the idea of adding mosquitoes as users of a local network. 
+
+The topic of the workshop was to think and build an interface-application for a dowse box, an object that you attach to your router in order to anonymise (or black screen) all data being processed on your local network and sent back to the internet, while also protecting your local network from sending “invisible” data between hardware and software connected to the wifi and servers outside in the world.
+
+The idea of working with mosquito was mentioned by Bij, a girl studying at the Sandberg Design Dept, who was sat next to me.
+
+I immediately liked the idea of conceiving mosquitoes as guest users of the local network, and began to think how we could spot them in the room and how to interact with them.
+
+I diverged from her idea of finding a way to track mosquitos only in order to defend ourselves from them. In the same vein, another idea given by the guy from Glasgow was to add them to the network as users, and using them as another form of self-defense: using them to add information-noise to the local, protected and grayed out, network (in the case the owner of the dowse box you are connected to, perform violence of some forms on you—eg stealing your informations).
+
+My interest in using mosquitos as other users, lies in the fact of bringing on a discourse on the evolution of the user from human-centred design, to posthuman user.
+
+What I would like to do is:
+1. using high-sensitive microphones to record the audio in the room and filter out everything but the high pitch frequency, in order to spot is there are mosquitos in the room.
+2. once this happen, add these mosquitos as user of the network
+3. start a form of communication for which, based on the activities I’m performing on my computer in connection to the internet, I produce and modulate high pitch sound notes.
+4. variations of this sound happen based on my working activities taking place on the computer and the activity of the mosquitos (eg, if the sound produced by mosquitos gets stronger, the volume of the sound produced by my activities decrease)
+5. eventually figure out a way to record this performance: either recording the sound produced by my working activities, and the one recorded and filtered of the mosquitoes, or in other ways.
+
+The modulation of the sound produced by my computer is dependant on the kind, frequency and intensity of activities I perform on my working machine and on how much this relies on the internet.
+
+Working and committing to git, browsing different websites, checking and sending emails, exporting particular file formats, and so on, all influence the difference in pitch, modulations and number of notes playing at the same time. When I use two or more applications at the same time (or triggers two or more actions part of the set of actions which are looked after), different notes are added to the output sound. Variations in pitch and modulation of these notes depend on the frequency of my working activities. Variations in the volume of the sound my computer produced depend on the volume and intensity of mosquitos’ buzz.
+
+This project relates to the ongoing project *ow*, for the reason that it explores the interoperability of users of different natures performing actions and claiming their space in a particular area, in this case the working space (room) acting at the same time as the local network.
+
+Potentially I could try to index numerical informations about the mosquitos’ buzz, number of them, time and duration of their activity in the room, and so forth. I am not sure, as of now, of this.
+
+Most of all, my interest and curiosity lies in the interaction between my human user activities performed on a computer, and their interactions with me happening usually at night—the ideal time for internet user worker to perform their work.
