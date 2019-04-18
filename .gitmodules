@@ -16,3 +16,6 @@
 [submodule "projects/ghost-index"]
 	path = projects/ghost-index
 	url = git@github.com:afincato/ghost-index.git
+[submodule "thesis"]
+	path = thesis
+	url = ./thesis/

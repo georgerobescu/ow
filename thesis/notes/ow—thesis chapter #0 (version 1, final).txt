@@ -1,0 +1,73 @@
+# ow—thesis chapter #0, introduction
+
+## What is work
+
+What does it mean to work when work is no longer a necessary human activity to make a living? As often “common sense” reminds us, «human beings are naturally predisposed to make things, (...)», but is it possible to compare this human predisposition to the innate desire to sustain one’s life (the spinozian conatus)? At the lowest level, do we work to claim our existence in the world?
+
+I want to locate this very question within the framework of a post-work society, wherein work is not the main way to provide oneself with material basic needs—therefore destabilising the main point of reference in contemporary human societies (but as such since the beginning of human history): if we don’t work to make a living, then how do we shape ourselves, and how do we kill time?
+
+An essential prerequisite of a post-work society is the implementation of a Universal Basic Income at a global level and regardless of citizenship status. Although changing in the amount distributed based on the geographical area of residence, an UBI should be able to permit a good life, not a “decent” one.
+
+One of the requisites to make this possible, is through a full automation of work, which doesn’t mean a full replacement of human beings from most jobs, but a diminishing of schematic tasks than can be done by robots (Inventing the Future, Nick Srnicek and Alex Williams). This, already suggests that in the case this process toward a post-work society will happen, human beings will still be a required workforce for some (many?) jobs.
+
+To more extensively problematise this humanist proposition, I want to connect the scenario of a post-work society with an understanding of the world through the lenses of posthumanism, drawing from its theories and slowly forming ethics, in order to reposition the human being in the world.
+
+For example, if full automation permits, amongst the other interventions required, to make a Universal Basic Income possible for every human being, than how do we relate with robots? Are we enslaving them? Should not they get some value back from what they produce—if not all?
+
+As much paradoxical or utterly dumb this question might sound, it is a line that regards human beings more and more: the fact that we are slowly becoming users, moving away, for example, from the position of citizens, discloses the realisation that users are not only human beings, but a position embodied by many other agents, different in nature.
+  
+If a user is anything producing data and able to interface with another source of data-making (The Stack, Benjamin H. Bratton), then, far from being only a feature of human beings, a user can also be inhuman and ahuman: mineral, animal, machinic, algorithmic, and so forth.
+
+Maybe a user is not necessarily only a direct translation of a human body into a different shell. It can either be a fraction of ourselves put into a specific usage, or a combination of different agents to form a composite user.
+
+My interest then, is located in the transformation of labour on the internet, claiming that we are undergoing a transition from the post-fordist worker [^1] subject to the internet-user subject.
+
+[^1]: Explain post-fordist worker.
+
+If with post-fordism we point to an iteration from mainly physical-based work (fordist worker) to predominantly a mind-based one—so we can include both intellectual and affective labor (eg. respectively a designer and a care-worker) and already making it difficult, often times, to trace a line between the two domains of labour; then with the internet user the sphere of intellectual and affective labour is the very formation of this ontological subject, completely mixing and forming one defined domain.
+
+## github.com
+
+The natural habitat of the user is the platform. Be it a social network, an internet-based service, or a magazine, platforms have taken upon the role of the third space next to the state and the market.
+
+Due to my interest in labour on and for the internet, (apparently) new work paradigms, and the transformation of the post-fordist worker into the internet user, I use [github.com](https://github.com/) as my object of inquiry.
+
+github.com is a website and a platform for users to share, contribute and download code-based projects.
+
+github.com is a “social network” for people using `git` in their work process. `git` is a version control system for text-based files, meaning that it is a tool you install on your computer that keeps track of every change made to files within a folder you’ve selected, and lets a user review those changes.
+
+Whereas other internet-based platforms, like Über and Amazon M Turk, are explicit in their intents to be a job-offer for someone looking for work, github.com keeps itself in the grey area of being both for personal and professional use.
+
+In as much as a programmer working at a company can use it for his her job, a weekend website-maker can use it as well for different purposes. Being `git` only an added element to one’s workflow, the reason for why then creating an account on github.com are highly subjectives, and totally in line with the spirit of the creative post-fordist worker (where famously work is play and play is work). As a user, the personal takes over the sphere of the professional, transforming both into one smooth space.
+
+## Democracy as desert
+
+It is in this context that democracy will be made use of as a way to further radicalise the breach between human beings and work, especially as it is understood nowadays at a cultural level.
+
+Carmelo Bene (c.b.), an Italian “man of theatre” [^2], talks in these terms on what makes democracy different from, for example, a dictatorship:
+
+> What's the only form of government which guarantees something? Democracy, no doubts. Paradoxically it's the most acceptable. Emil Cioran made a good analysis about it.
+
+> So I ask you: what does democracy guarantee that a dictatorship does not? Sure! It guarantees something—do you know what is it? It guarantees life to be unlivable. It doesn't figure out your life! Who chooses democracy, who chooses freedom, chooses the desert—if democracy were freedom at all. But democracy is nothing, democracy is pure demagogy.
+
+[^2]: Carmelo Bene has been one of the most prominent figures of the theatre scene in the second half of the 20th century. Born in the south of Italy, he developed the so called actorial-machine, a set of techniques to overcome and go beyond the usage of actors (with their egos, etc.) in theatre. In 1972, together with Gilles Deleuze, he wrote a book called “Superpositions”, on contemporary theatre-making.
+
+What would happen then, if work would lose its centrality in the society we live in and shifted to a different grade of importance in the making of one’s life?
+
+Though it would never go away from human’s activities, a reframing of its cultural importance is necessary in order to change the contemporary ubiquity it has today. 
+
+The most crucial challenge is not to get rid of work in itself, understood as any activity performed in order to sustain one’s life and make a living. Rather, it means shifting the understanding of work to any activity demanding a certain amount of energy, attention, and interest no matter the context.
+
+The democratic aspect in this process of transformation, lies in the fact that work is set free from the basic desire of subsistence, of conatus as work. As c.b. continues, freedom, first of all, should be liberation from work, and not asking to be employed in a job.
+
+The problem that arises with github.com then, is one of literacy and means of production. 
+
+If on one side `git` is a free and open source software project, a decentralised-by-design system, github.com moves in the opposite direction of the spectrum, employing a centralised architecture framework.
+
+Whereas `git` was conceived to be used on personal or small group-based servers (imagine a local server at the office), github.com implemented the same strategy of many other social networks, trying to gather and contain anyone using `git` under its roof. 
+
+Simplicity and convenience won over the long run of developing a new literacy of computation. Learning a new tool takes time and energies, two things that are often hard to get and manage, in a society where efficiency is the utmost value to pursue. For now, github.com simplifies the job for many companies and users, but on the long run it slows down a process of computing literacy that would let gain a bit more of knowledge to all the users working with `git`.
+
+The two underlying political questions, then, are:
+1. what do you do when you are in a desert (understood as freedom given by democracy, and in the framework I painted as a post-work, posthuman society) and can decide in which direction orient your life?
+2. how do you spread, in the meantime, a new literacy of computation and its politics, in order to help users better understand the tools they use and *have to use* for work?

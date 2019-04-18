@@ -27,3 +27,6 @@ projects/*/**
 !projects/*.txt
 !projects/*/**/*.txt
 !projects/*/*/*/*.sla
+
+/thesis/output
+/thesis/*.pdf
