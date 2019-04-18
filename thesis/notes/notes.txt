@@ -1,0 +1,16 @@
+# ow thesis, notes
+
+## 18042019
+
+after almost three years i am back to work on this. re-reading the text in full last week, i see (still), three major areas:
+- post-work society, ubi
+- git and github
+- user and sense-making
+
+i explored more git and programming culture in the past three years, less computational user, more p2p networks and decentralizes and distributed networks and computing, and more working in small groups / collectives and adopting cooperative models.
+
+in particular, the development of oscoin and radicle gave me a feeling the questions i posed in the text were getting being "implemented" for real.
+
+i am very curios to explore things like using radicle and oscoin to support small-size group and projects, in post-work scenarios. i am interested in exploring all the big buzzy words from the blockchain scene, take possible useful things, and build smaller tools that don't need global consensus (hence a blockchain). i am interested in a new "literacy for computation" and the ongoing becoming-user in relation to p2p networks. also, i threw up this word pan-usership a year or two ago, and i think it can be developed in the relation between user, usership and peer, peerness.
+
+i just feel i need to break down the thesis text in several chunks, get rid of all the quotes from Bratton / The Stack, and get the different parts to work as interdependent islands. it's clear that i tried to cram so many disparate things at the end, and in fact i saw that text as a sketch for something else later on. that time has come! ☺︎
